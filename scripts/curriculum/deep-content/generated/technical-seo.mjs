@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const TECHNICAL_SEO_GENERATED = {};

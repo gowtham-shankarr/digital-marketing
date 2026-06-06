@@ -1,0 +1,5 @@
+import { DISTRIBUTION_GROWTH_PART1 } from "./part1.mjs";
+
+export const DISTRIBUTION_GROWTH_DEEP = {
+  ...DISTRIBUTION_GROWTH_PART1,
+};

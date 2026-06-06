@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const ECOMMERCE_DTC_GENERATED = {};

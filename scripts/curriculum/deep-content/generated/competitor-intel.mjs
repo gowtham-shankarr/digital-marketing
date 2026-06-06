@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const COMPETITOR_INTEL_GENERATED = {};

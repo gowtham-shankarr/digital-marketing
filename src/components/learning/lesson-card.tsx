@@ -25,6 +25,17 @@ const iconMap: Record<string, string> = {
   Compass: "🧭",
   Sparkles: "✨",
   GraduationCap: "🎓",
+  TrendingUp: "📈",
+  Users: "👥",
+  Bot: "🤖",
+  Linkedin: "💼",
+  Send: "📨",
+  Newspaper: "📰",
+  UsersRound: "🏘️",
+  ShoppingCart: "🛒",
+  Wrench: "🔧",
+  Mic: "🎙️",
+  Pin: "📌",
 };
 
 export function TrackCard({ track }: { track: Track }) {

@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const PR_DIGITAL_PR_GENERATED = {};

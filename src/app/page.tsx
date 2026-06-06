@@ -70,8 +70,8 @@ export default function HomePage() {
               </span>
             </h1>
             <p className="mx-auto mt-6 max-w-2xl text-lg text-muted-foreground">
-              14 modules from foundations to funnels, SEO, PPC, automation, and
-              emerging topics — with deep lessons, practice tasks, and quizzes.
+              24 learning tracks from website CRO and SEO through distribution,
+              ICP list building, LinkedIn, and MMS templates in every lesson.
             </p>
             <HomeProgress totalLessons={totalLessons} />
             <div className="mt-8 flex flex-wrap justify-center gap-4">
@@ -132,9 +132,9 @@ export default function HomePage() {
           <div className="mx-auto max-w-3xl text-center">
             <h2 className="text-2xl font-bold">Recommended Learning Path</h2>
             <p className="mt-4 text-muted-foreground">
-              Foundations → Funnels → Website & CRO → SEO → PPC → Content → Social
-              → Email → Automation → Analytics → Other Channels → Strategy →
-              Advanced → Legal & Career
+              Website & CRO → SEO → PPC → Content → Social → Email → Analytics →
+              Distribution & Growth → ICP List Building → LinkedIn → PR → DTC →
+              Legal & Career
             </p>
             <div className="mt-8 flex flex-wrap justify-center gap-2">
               {tracks.map((t, i) => (

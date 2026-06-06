@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const PINTEREST_MARKETING_GENERATED = {};

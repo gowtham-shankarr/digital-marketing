@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const COLD_OUTREACH_GENERATED = {};

@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const ICP_LIST_BUILDING_GENERATED = {};

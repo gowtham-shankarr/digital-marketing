@@ -709,6 +709,107 @@ export const _advanced_emergingLessons = [
       }
     ],
     "playground": "none"
+  },
+  {
+    "slug": "ai-marketing-prompts-library",
+    "title": "AI Marketing Prompts Library",
+    "track": "advanced-emerging",
+    "level": "intermediate",
+    "order": 8,
+    "estimatedMinutes": 38,
+    "summary": "Ready prompts for research, copy, ads, email from MMS.",
+    "objectives": [
+      "Explain AI Marketing Prompts Library in plain English with a real brand example",
+      "Apply AI Marketing Prompts Library to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
+    ],
+    "whatIs": "### What is AI Marketing Prompts Library?\n\n**AI Marketing Prompts Library** — Ready prompts for research, copy, ads, email from MMS.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Prompt for ICP research\n\nThis point matters because it connects directly to **AI Marketing Prompts Library** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Prompt for ad variants\n\nThis point matters because it connects directly to **AI Marketing Prompts Library** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Prompt for email subject lines\n\nThis point matters because it connects directly to **AI Marketing Prompts Library** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Human review always\n\nThis point matters because it connects directly to **AI Marketing Prompts Library** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Ready prompts for research, copy, ads, email from MMS. |\n| **Level** | intermediate — apply after Module 1–2 |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**AI Marketing Prompts Library** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **AI Marketing Prompts Library** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
+    "steps": [
+      {
+        "title": "Read with a real brand in mind",
+        "body": "Open **Nike's** website or ads in another tab. As you read, note one place they already apply (or violate) **AI Marketing Prompts Library**. Screenshot optional."
+      },
+      {
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain AI Marketing Prompts Library in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
+      },
+      {
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
+      },
+      {
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
+      },
+      {
+        "title": "Complete the practice task",
+        "body": "Run 3 prompts; save best outputs in swipe file."
+      },
+      {
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
+      }
+    ],
+    "example": "### Real-world scenario: **Nike**\n\n**Context:** Ready prompts for research, copy, ads, email from MMS.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **AI Marketing Prompts Library** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **AI Marketing Prompts Library** in the real world\n\n**Coca-Cola** tested AI-generated ads; **JPMorgan** used AI for ad copy variants.\n\n**ABM:** Terminus and 6sense help B2B target named accounts.\n\n**First-party data:** Apple's ATT shift forced Meta advertisers toward Conversions API.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — AI Marketing Prompts Library clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — AI Marketing Prompts Library\n\nRun 3 prompts; save best outputs in swipe file.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
+    "quiz": [
+      {
+        "question": "Which is the best real-world reference for AI Marketing Prompts Library?",
+        "options": [
+          "Nike — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "\"Prompt for ICP research\" in practice means…",
+        "options": [
+          "Prompt for ICP research",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "After this lesson you should be able to…",
+        "options": [
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
+        ],
+        "answer": 0
+      }
+    ],
+    "playground": "none"
   }
 ];
 

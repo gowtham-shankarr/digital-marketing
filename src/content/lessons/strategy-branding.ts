@@ -606,5 +606,207 @@ export const strategy_brandingLessons: Lesson[] = [
       }
     ],
     "playground": "none"
+  },
+  {
+    "slug": "april-dunford-positioning-canvas",
+    "title": "April Dunford Positioning Canvas",
+    "track": "strategy-branding",
+    "level": "intermediate",
+    "order": 7,
+    "estimatedMinutes": 38,
+    "summary": "Competitive alternatives, unique attributes, value, target market, category.",
+    "objectives": [
+      "Explain April Dunford Positioning Canvas in plain English with a real brand example",
+      "Apply April Dunford Positioning Canvas to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
+    ],
+    "whatIs": "### What is April Dunford Positioning Canvas?\n\n**April Dunford Positioning Canvas** — Competitive alternatives, unique attributes, value, target market, category.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Positioning is context\n\nThis point matters because it connects directly to **April Dunford Positioning Canvas** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Choose competitive frame\n\nThis point matters because it connects directly to **April Dunford Positioning Canvas** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. 10-word positioning statement\n\nThis point matters because it connects directly to **April Dunford Positioning Canvas** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Test with customers\n\nThis point matters because it connects directly to **April Dunford Positioning Canvas** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Competitive alternatives, unique attributes, value, target market, category. |\n| **Level** | intermediate — apply after Module 1–2 |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**April Dunford Positioning Canvas** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **April Dunford Positioning Canvas** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
+    "steps": [
+      {
+        "title": "Read with a real brand in mind",
+        "body": "Open **Zoom's** website or ads in another tab. As you read, note one place they already apply (or violate) **April Dunford Positioning Canvas**. Screenshot optional."
+      },
+      {
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain April Dunford Positioning Canvas in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
+      },
+      {
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
+      },
+      {
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
+      },
+      {
+        "title": "Complete the practice task",
+        "body": "Fill positioning canvas for your product."
+      },
+      {
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
+      }
+    ],
+    "example": "### Real-world scenario: **Zoom**\n\n**Context:** Competitive alternatives, unique attributes, value, target market, category.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **April Dunford Positioning Canvas** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **April Dunford Positioning Canvas** in the real world\n\n**Apple** \"Think Different\" — positioning beats spec wars.\n\n**Old Spice** rebranded via viral video + integrated social response campaign.\n\n**Patagonia** brand voice (\"Don't buy this jacket\") builds trust that supports premium pricing.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — April Dunford Positioning Canvas clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — April Dunford Positioning Canvas\n\nFill positioning canvas for your product.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
+    "quiz": [
+      {
+        "question": "Which is the best real-world reference for April Dunford Positioning Canvas?",
+        "options": [
+          "Zoom — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "\"Positioning is context\" in practice means…",
+        "options": [
+          "Positioning is context",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "After this lesson you should be able to…",
+        "options": [
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
+        ],
+        "answer": 0
+      }
+    ],
+    "playground": "none"
+  },
+  {
+    "slug": "uvp-headline-formulas",
+    "title": "UVP Headline Formulas",
+    "track": "strategy-branding",
+    "level": "base",
+    "order": 8,
+    "estimatedMinutes": 38,
+    "summary": "Three MMS formulas for homepage and ad headlines.",
+    "objectives": [
+      "Explain UVP Headline Formulas in plain English with a real brand example",
+      "Apply UVP Headline Formulas to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
+    ],
+    "whatIs": "### What is UVP Headline Formulas?\n\n**UVP Headline Formulas** — Three MMS formulas for homepage and ad headlines.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Outcome + timeframe + objection\n\nThis point matters because it connects directly to **UVP Headline Formulas** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. For [ICP] who [pain], [product] is [category]\n\nThis point matters because it connects directly to **UVP Headline Formulas** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Test 3 variants minimum\n\nThis point matters because it connects directly to **UVP Headline Formulas** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Three MMS formulas for homepage and ad headlines. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**UVP Headline Formulas** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **UVP Headline Formulas** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
+    "steps": [
+      {
+        "title": "Read with a real brand in mind",
+        "body": "Open **Spotify's** website or ads in another tab. As you read, note one place they already apply (or violate) **UVP Headline Formulas**. Screenshot optional."
+      },
+      {
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain UVP Headline Formulas in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
+      },
+      {
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
+      },
+      {
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
+      },
+      {
+        "title": "Complete the practice task",
+        "body": "Write 6 headlines using 3 formulas; A/B plan."
+      },
+      {
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
+      }
+    ],
+    "example": "### Real-world scenario: **Spotify**\n\n**Context:** Three MMS formulas for homepage and ad headlines.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **UVP Headline Formulas** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **UVP Headline Formulas** in the real world\n\n**Apple** \"Think Different\" — positioning beats spec wars.\n\n**Old Spice** rebranded via viral video + integrated social response campaign.\n\n**Patagonia** brand voice (\"Don't buy this jacket\") builds trust that supports premium pricing.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — UVP Headline Formulas clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — UVP Headline Formulas\n\nWrite 6 headlines using 3 formulas; A/B plan.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
+    "quiz": [
+      {
+        "question": "Which is the best real-world reference for UVP Headline Formulas?",
+        "options": [
+          "Spotify — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "\"Outcome + timeframe + objection\" in practice means…",
+        "options": [
+          "Outcome + timeframe + objection",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "After this lesson you should be able to…",
+        "options": [
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
+        ],
+        "answer": 0
+      }
+    ],
+    "playground": "none"
   }
 ];

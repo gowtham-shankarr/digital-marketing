@@ -1,2 +1,0 @@
-/** AUTO-GENERATED */
-export const MARKETING_FUNNELS_GENERATED = {};

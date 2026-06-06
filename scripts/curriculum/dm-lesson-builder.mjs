@@ -1,5 +1,6 @@
 import { L, q } from "./helper.mjs";
 import { buildLessonContent } from "./dm-topic-examples.mjs";
+import { getExecutionPack } from "./dm-templates.mjs";
 
 /** Standard 5-question quiz for digital marketing lessons */
 export function dmQuiz(custom) {
@@ -39,7 +40,7 @@ export function deepAutoLesson(track, title, level, order, summary, sections, pr
     example: rich.example,
     realWorld: rich.realWorld,
     commonMistakes: rich.commonMistakes,
-    tryIt: rich.tryIt,
+    tryIt: rich.tryIt + getExecutionPack(track, slug, title),
     quiz: quiz?.length >= 3 ? dmQuiz(quiz) : rich.quiz.slice(0, 5),
     playground: "none",
   });

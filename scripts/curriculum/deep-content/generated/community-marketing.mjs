@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const COMMUNITY_MARKETING_GENERATED = {};

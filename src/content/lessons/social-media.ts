@@ -1414,5 +1414,510 @@ export const social_mediaLessons: Lesson[] = [
       }
     ],
     "playground": "none"
+  },
+  {
+    "slug": "x-and-twitter-algorithm-and-reach",
+    "title": "X and Twitter Algorithm and Reach",
+    "track": "social-media",
+    "level": "intermediate",
+    "order": 15,
+    "estimatedMinutes": 38,
+    "summary": "Replies, early engagement, hooks — personal brand growth system from MMS.",
+    "objectives": [
+      "Explain X and Twitter Algorithm and Reach in plain English with a real brand example",
+      "Apply X and Twitter Algorithm and Reach to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
+    ],
+    "whatIs": "### What is X and Twitter Algorithm and Reach?\n\n**X and Twitter Algorithm and Reach** — Replies, early engagement, hooks — personal brand growth system from MMS.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. First 2 hours critical\n\nThis point matters because it connects directly to **X and Twitter Algorithm and Reach** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Threads for depth\n\nThis point matters because it connects directly to **X and Twitter Algorithm and Reach** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Avoid external links in post\n\nThis point matters because it connects directly to **X and Twitter Algorithm and Reach** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Comment strategy 20/day\n\nThis point matters because it connects directly to **X and Twitter Algorithm and Reach** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Replies, early engagement, hooks — personal brand growth system from MMS. |\n| **Level** | intermediate — apply after Module 1–2 |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**X and Twitter Algorithm and Reach** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **X and Twitter Algorithm and Reach** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
+    "steps": [
+      {
+        "title": "Read with a real brand in mind",
+        "body": "Open **Glossier's** website or ads in another tab. As you read, note one place they already apply (or violate) **X and Twitter Algorithm and Reach**. Screenshot optional."
+      },
+      {
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain X and Twitter Algorithm and Reach in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
+      },
+      {
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
+      },
+      {
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
+      },
+      {
+        "title": "Complete the practice task",
+        "body": "Post 5x this week; track impressions pattern."
+      },
+      {
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
+      }
+    ],
+    "example": "### Real-world scenario: **Glossier**\n\n**Context:** Replies, early engagement, hooks — personal brand growth system from MMS.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **X and Twitter Algorithm and Reach** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **X and Twitter Algorithm and Reach** in the real world\n\n**Duolingo's** TikTok personality drove millions in earned reach — mascot humor, not product pitches.\n\n**Gymshark** built on Instagram fitness influencers before expanding globally.\n\n**B2B: Adobe** uses LinkedIn thought leadership + document ads for Creative Cloud teams.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — X and Twitter Algorithm and Reach clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — X and Twitter Algorithm and Reach\n\nPost 5x this week; track impressions pattern.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
+    "quiz": [
+      {
+        "question": "Which is the best real-world reference for X and Twitter Algorithm and Reach?",
+        "options": [
+          "Glossier — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "\"First 2 hours critical\" in practice means…",
+        "options": [
+          "First 2 hours critical",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "After this lesson you should be able to…",
+        "options": [
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
+        ],
+        "answer": 0
+      }
+    ],
+    "playground": "none"
+  },
+  {
+    "slug": "reddit-marketing-for-founders",
+    "title": "Reddit Marketing for Founders",
+    "track": "social-media",
+    "level": "intermediate",
+    "order": 16,
+    "estimatedMinutes": 38,
+    "summary": "Most underused platform — karma, subreddit rules, value-first posts.",
+    "objectives": [
+      "Explain Reddit Marketing for Founders in plain English with a real brand example",
+      "Apply Reddit Marketing for Founders to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
+    ],
+    "whatIs": "### What is Reddit Marketing for Founders?\n\n**Reddit Marketing for Founders** — Most underused platform — karma, subreddit rules, value-first posts.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. 90% value 10% promo\n\nThis point matters because it connects directly to **Reddit Marketing for Founders** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Build karma in target subs\n\nThis point matters because it connects directly to **Reddit Marketing for Founders** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. AMA and story posts\n\nThis point matters because it connects directly to **Reddit Marketing for Founders** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Never spam links day 1\n\nThis point matters because it connects directly to **Reddit Marketing for Founders** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Most underused platform — karma, subreddit rules, value-first posts. |\n| **Level** | intermediate — apply after Module 1–2 |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Reddit Marketing for Founders** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Reddit Marketing for Founders** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
+    "steps": [
+      {
+        "title": "Read with a real brand in mind",
+        "body": "Open **Nike's** website or ads in another tab. As you read, note one place they already apply (or violate) **Reddit Marketing for Founders**. Screenshot optional."
+      },
+      {
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Reddit Marketing for Founders in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
+      },
+      {
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
+      },
+      {
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
+      },
+      {
+        "title": "Complete the practice task",
+        "body": "Identify 5 subreddits; karma plan 2 weeks."
+      },
+      {
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
+      }
+    ],
+    "example": "### Real-world scenario: **Nike**\n\n**Context:** Most underused platform — karma, subreddit rules, value-first posts.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Reddit Marketing for Founders** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Reddit Marketing for Founders** in the real world\n\n**Duolingo's** TikTok personality drove millions in earned reach — mascot humor, not product pitches.\n\n**Gymshark** built on Instagram fitness influencers before expanding globally.\n\n**B2B: Adobe** uses LinkedIn thought leadership + document ads for Creative Cloud teams.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Reddit Marketing for Founders clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Reddit Marketing for Founders\n\nIdentify 5 subreddits; karma plan 2 weeks.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
+    "quiz": [
+      {
+        "question": "Which is the best real-world reference for Reddit Marketing for Founders?",
+        "options": [
+          "Nike — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "\"90% value 10% promo\" in practice means…",
+        "options": [
+          "90% value 10% promo",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "After this lesson you should be able to…",
+        "options": [
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
+        ],
+        "answer": 0
+      }
+    ],
+    "playground": "none"
+  },
+  {
+    "slug": "facebook-groups-organic-strategy",
+    "title": "Facebook Groups Organic Strategy",
+    "track": "social-media",
+    "level": "base",
+    "order": 17,
+    "estimatedMinutes": 38,
+    "summary": "Groups beat pages for organic — join, contribute, own group later.",
+    "objectives": [
+      "Explain Facebook Groups Organic Strategy in plain English with a real brand example",
+      "Apply Facebook Groups Organic Strategy to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
+    ],
+    "whatIs": "### What is Facebook Groups Organic Strategy?\n\n**Facebook Groups Organic Strategy** — Groups beat pages for organic — join, contribute, own group later.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Answer questions daily\n\nThis point matters because it connects directly to **Facebook Groups Organic Strategy** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Own group for ICP\n\nThis point matters because it connects directly to **Facebook Groups Organic Strategy** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Live sessions in group\n\nThis point matters because it connects directly to **Facebook Groups Organic Strategy** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Pin resources\n\nThis point matters because it connects directly to **Facebook Groups Organic Strategy** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Groups beat pages for organic — join, contribute, own group later. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Facebook Groups Organic Strategy** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Facebook Groups Organic Strategy** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
+    "steps": [
+      {
+        "title": "Read with a real brand in mind",
+        "body": "Open **Nike's** website or ads in another tab. As you read, note one place they already apply (or violate) **Facebook Groups Organic Strategy**. Screenshot optional."
+      },
+      {
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Facebook Groups Organic Strategy in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
+      },
+      {
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
+      },
+      {
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
+      },
+      {
+        "title": "Complete the practice task",
+        "body": "Join 3 groups; plan 2 valuable posts/week."
+      },
+      {
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
+      }
+    ],
+    "example": "### Real-world scenario: **Nike**\n\n**Context:** Groups beat pages for organic — join, contribute, own group later.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Facebook Groups Organic Strategy** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Facebook Groups Organic Strategy** in the real world\n\n**Duolingo's** TikTok personality drove millions in earned reach — mascot humor, not product pitches.\n\n**Gymshark** built on Instagram fitness influencers before expanding globally.\n\n**B2B: Adobe** uses LinkedIn thought leadership + document ads for Creative Cloud teams.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Facebook Groups Organic Strategy clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Facebook Groups Organic Strategy\n\nJoin 3 groups; plan 2 valuable posts/week.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
+    "quiz": [
+      {
+        "question": "Which is the best real-world reference for Facebook Groups Organic Strategy?",
+        "options": [
+          "Nike — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "\"Answer questions daily\" in practice means…",
+        "options": [
+          "Answer questions daily",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "After this lesson you should be able to…",
+        "options": [
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
+        ],
+        "answer": 0
+      }
+    ],
+    "playground": "none"
+  },
+  {
+    "slug": "cross-platform-social-system",
+    "title": "Cross-Platform Social System",
+    "track": "social-media",
+    "level": "intermediate",
+    "order": 18,
+    "estimatedMinutes": 38,
+    "summary": "1 post = 5 assets — X, LinkedIn, Reddit, Facebook, clips from MMS.",
+    "objectives": [
+      "Explain Cross-Platform Social System in plain English with a real brand example",
+      "Apply Cross-Platform Social System to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
+    ],
+    "whatIs": "### What is Cross-Platform Social System?\n\n**Cross-Platform Social System** — 1 post = 5 assets — X, LinkedIn, Reddit, Facebook, clips from MMS.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Core idea once\n\nThis point matters because it connects directly to **Cross-Platform Social System** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Native format each\n\nThis point matters because it connects directly to **Cross-Platform Social System** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Batch weekly\n\nThis point matters because it connects directly to **Cross-Platform Social System** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. UTM per platform\n\nThis point matters because it connects directly to **Cross-Platform Social System** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | 1 post = 5 assets — X, LinkedIn, Reddit, Facebook, clips from MMS. |\n| **Level** | intermediate — apply after Module 1–2 |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Cross-Platform Social System** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Cross-Platform Social System** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
+    "steps": [
+      {
+        "title": "Read with a real brand in mind",
+        "body": "Open **Nike's** website or ads in another tab. As you read, note one place they already apply (or violate) **Cross-Platform Social System**. Screenshot optional."
+      },
+      {
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Cross-Platform Social System in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
+      },
+      {
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
+      },
+      {
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
+      },
+      {
+        "title": "Complete the practice task",
+        "body": "Take one idea; list 5 platform-native versions."
+      },
+      {
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
+      }
+    ],
+    "example": "### Real CRO test: **Airbnb** host signup (public pattern)\n\n**Hypothesis:** Shorter form = more signups.\n\n| Variant | Fields | Signup rate |\n|---------|--------|-------------|\n| Control | 12 fields | 2.1% |\n| Test | 5 fields + progressive profiling later | 3.4% |\n\n**+62% relative lift** from removing friction — then they asked for photos/pricing in step 2 after commitment.\n\n**Lesson:** BOFU pages fail from trust gaps AND field overload. Test one change at a time.",
+    "realWorld": "### Where you see **Cross-Platform Social System** in the real world\n\n**Duolingo's** TikTok personality drove millions in earned reach — mascot humor, not product pitches.\n\n**Gymshark** built on Instagram fitness influencers before expanding globally.\n\n**B2B: Adobe** uses LinkedIn thought leadership + document ads for Creative Cloud teams.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Cross-Platform Social System clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Cross-Platform Social System\n\nTake one idea; list 5 platform-native versions.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
+    "quiz": [
+      {
+        "question": "Which is the best real-world reference for Cross-Platform Social System?",
+        "options": [
+          "Nike — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "\"Core idea once\" in practice means…",
+        "options": [
+          "Core idea once",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "After this lesson you should be able to…",
+        "options": [
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
+        ],
+        "answer": 0
+      }
+    ],
+    "playground": "none"
+  },
+  {
+    "slug": "growing-social-followers-from-zero",
+    "title": "Growing Social Followers from Zero",
+    "track": "social-media",
+    "level": "base",
+    "order": 19,
+    "estimatedMinutes": 38,
+    "summary": "0→10K playbook: consistency, hooks, engagement, collaborations.",
+    "objectives": [
+      "Explain Growing Social Followers from Zero in plain English with a real brand example",
+      "Apply Growing Social Followers from Zero to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
+    ],
+    "whatIs": "### What is Growing Social Followers from Zero?\n\n**Growing Social Followers from Zero** — 0→10K playbook: consistency, hooks, engagement, collaborations.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. 90-day minimum horizon\n\nThis point matters because it connects directly to **Growing Social Followers from Zero** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Collaborate with peers\n\nThis point matters because it connects directly to **Growing Social Followers from Zero** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Give more than ask\n\nThis point matters because it connects directly to **Growing Social Followers from Zero** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Track weekly follower delta\n\nThis point matters because it connects directly to **Growing Social Followers from Zero** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | 0→10K playbook: consistency, hooks, engagement, collaborations. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Growing Social Followers from Zero** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Growing Social Followers from Zero** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
+    "steps": [
+      {
+        "title": "Read with a real brand in mind",
+        "body": "Open **Glossier's** website or ads in another tab. As you read, note one place they already apply (or violate) **Growing Social Followers from Zero**. Screenshot optional."
+      },
+      {
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Growing Social Followers from Zero in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
+      },
+      {
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
+      },
+      {
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
+      },
+      {
+        "title": "Complete the practice task",
+        "body": "Set 90-day follower goal + weekly tactics."
+      },
+      {
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
+      }
+    ],
+    "example": "### Real-world scenario: **Glossier**\n\n**Context:** 0→10K playbook: consistency, hooks, engagement, collaborations.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Growing Social Followers from Zero** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Growing Social Followers from Zero** in the real world\n\n**Duolingo's** TikTok personality drove millions in earned reach — mascot humor, not product pitches.\n\n**Gymshark** built on Instagram fitness influencers before expanding globally.\n\n**B2B: Adobe** uses LinkedIn thought leadership + document ads for Creative Cloud teams.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Growing Social Followers from Zero clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Growing Social Followers from Zero\n\nSet 90-day follower goal + weekly tactics.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
+    "quiz": [
+      {
+        "question": "Which is the best real-world reference for Growing Social Followers from Zero?",
+        "options": [
+          "Glossier — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "\"90-day minimum horizon\" in practice means…",
+        "options": [
+          "90-day minimum horizon",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "After this lesson you should be able to…",
+        "options": [
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
+        ],
+        "answer": 0
+      }
+    ],
+    "playground": "none"
   }
 ];
