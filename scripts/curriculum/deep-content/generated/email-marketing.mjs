@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const EMAIL_MARKETING_GENERATED = {};

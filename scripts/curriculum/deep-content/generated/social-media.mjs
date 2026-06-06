@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const SOCIAL_MEDIA_GENERATED = {};

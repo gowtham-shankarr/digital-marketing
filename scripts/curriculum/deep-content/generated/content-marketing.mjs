@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const CONTENT_MARKETING_GENERATED = {};

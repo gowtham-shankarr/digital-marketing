@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const ANALYTICS_GENERATED = {};
