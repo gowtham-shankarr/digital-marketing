@@ -15,7 +15,7 @@ export function ProgressManager() {
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.href = url;
-    a.download = `devlearn-progress-${new Date().toISOString().slice(0, 10)}.json`;
+    a.download = `marketlearn-progress-${new Date().toISOString().slice(0, 10)}.json`;
     a.click();
     URL.revokeObjectURL(url);
     setMessage("Progress exported.");

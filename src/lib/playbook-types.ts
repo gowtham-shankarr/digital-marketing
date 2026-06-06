@@ -5,7 +5,16 @@ export type PlaybookCategory =
   | "seo"
   | "email"
   | "funnels"
-  | "content";
+  | "content"
+  | "ppc"
+  | "analytics"
+  | "ecommerce"
+  | "pr"
+  | "competitor"
+  | "social"
+  | "automation"
+  | "community"
+  | "cold-outreach";
 
 export type PlaybookItemType = "template" | "checklist" | "framework";
 
@@ -29,4 +38,13 @@ export const PLAYBOOK_CATEGORIES: Record<PlaybookCategory, string> = {
   email: "Email",
   funnels: "Funnels & CRO",
   content: "Content",
+  ppc: "SEM / PPC",
+  analytics: "Analytics",
+  ecommerce: "Ecommerce & DTC",
+  pr: "PR & Digital PR",
+  competitor: "Competitor Intelligence",
+  social: "Social Media",
+  automation: "Automation & CRM",
+  community: "Community",
+  "cold-outreach": "Cold Outreach",
 };

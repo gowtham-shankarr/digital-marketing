@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const OFFER_PRICING_GENERATED = {};

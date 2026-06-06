@@ -141,6 +141,10 @@ export const MMS_EXPANSION_TRACKS = [
 
 /** Extra lessons to append to existing tracks */
 export const MMS_EXISTING_TRACK_ADDITIONS = {
+  "marketing-funnels": [
+    ["Retention and Advocacy Funnel Stages", "base", "Fifth and sixth stages: keep customers and turn them into promoters — NPS, referrals, UGC.", ["Onboarding Day 0–14 emails", "NPS at day 30", "Referral program at aha moment", "Case studies from advocates", "Community for power users"], "Map retention + advocacy touchpoints for SaaS product."],
+    ["User Journey Maps by Business Type", "intermediate", "SaaS, e-commerce, services — different journeys same funnel logic.", ["SaaS: trial → activation → expand", "Ecom: browse → buy → repeat", "Services: call → proposal → close", "Document emotions per step"], "Build journey map for one business type."],
+  ],
   "social-media": [
     ["X and Twitter Algorithm and Reach", "intermediate", "Replies, early engagement, hooks — personal brand growth system from MMS.", ["First 2 hours critical", "Threads for depth", "Avoid external links in post", "Comment strategy 20/day"], "Post 5x this week; track impressions pattern."],
     ["Reddit Marketing for Founders", "intermediate", "Most underused platform — karma, subreddit rules, value-first posts.", ["90% value 10% promo", "Build karma in target subs", "AMA and story posts", "Never spam links day 1"], "Identify 5 subreddits; karma plan 2 weeks."],

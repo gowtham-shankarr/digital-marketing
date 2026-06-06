@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const RETENTION_LIFECYCLE_GENERATED = {};

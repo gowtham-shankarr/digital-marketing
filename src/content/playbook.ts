@@ -270,7 +270,7 @@ Deliver link immediately. Set expectation for next emails. One personal line. No
     slug: "cold-outreach-sequence",
     title: "Cold Outreach 4-Touch Sequence",
     summary: "Email + LinkedIn touches with spacing and personalization hooks.",
-    category: "icp",
+    category: "cold-outreach",
     type: "template",
     template: `**Day 1 — Email:** Personalized opener + one specific observation + soft ask
 **Day 3 — LinkedIn:** Connect with note referencing same observation
@@ -286,6 +286,267 @@ Deliver link immediately. Set expectation for next emails. One personal line. No
       track: "cold-outreach",
       slug: "cold-email-structure-that-gets-replies",
     },
+    source: "MarketLearn",
+  },
+  {
+    slug: "google-ads-campaign-structure",
+    title: "Google Ads Campaign Structure",
+    summary: "Account hierarchy for brand, non-brand, and remarketing campaigns.",
+    category: "ppc",
+    type: "template",
+    template: `| Level | Name | Objective | Budget note |
+|-------|------|-----------|-------------|
+| Campaign | Brand — Exact | Search | Protect brand terms |
+| Campaign | Non-brand — Themes | Search | Themed ad groups |
+| Campaign | Remarketing | Display/Demand Gen | Past site visitors |
+| Ad group | [Theme or keyword cluster] | | 5–15 keywords |
+| Ad | RSA variants | | 3+ headlines to test |`,
+    checklist: [
+      "Separate brand and non-brand campaigns",
+      "Add negative keyword lists",
+      "One conversion goal per campaign",
+      "Label experiments in account",
+    ],
+    relatedLesson: { track: "sem-ppc", slug: "account-structure-and-budgets" },
+    source: "MarketLearn",
+  },
+  {
+    slug: "rsa-ad-copy-template",
+    title: "Responsive Search Ad (RSA) Copy",
+    summary: "Headline and description slots for high-intent search ads.",
+    category: "ppc",
+    type: "template",
+    template: `**Headlines (pin H1 with keyword when natural):**
+1. [Keyword] + [Primary benefit]
+2. [USP / proof point]
+3. [CTA] — Free quote / Book demo / Shop now
+
+**Descriptions:**
+1. Benefit + feature proof + CTA
+2. Risk reversal or offer detail`,
+    checklist: [
+      "Match landing page message",
+      "Include keyword in at least 2 headlines",
+      "Test urgency vs clarity variants",
+      "Add all relevant ad extensions",
+    ],
+    relatedLesson: { track: "sem-ppc", slug: "ad-copywriting-and-ad-extensions" },
+    source: "MarketLearn",
+  },
+  {
+    slug: "ga4-kpi-dashboard",
+    title: "GA4 KPI Dashboard Layout",
+    summary: "Weekly marketing dashboard widgets executives actually read.",
+    category: "analytics",
+    type: "template",
+    template: `| Widget | Metric | Source |
+|--------|--------|--------|
+| Traffic trend | Sessions vs prior period | GA4 |
+| Conversions | Key events / purchases | GA4 |
+| Channel mix | Sessions by source/medium | GA4 |
+| Paid efficiency | CPA or ROAS | Ads + GA4 |
+| Top landing pages | Sessions + conversion rate | GA4 |
+| Email / social assist | UTM-tagged sessions | GA4 |`,
+    checklist: [
+      "Define one primary conversion event",
+      "Set week-over-week comparison",
+      "Add annotation for campaign launches",
+      "Share link with read-only access",
+    ],
+    relatedLesson: { track: "analytics", slug: "kpis-and-marketing-dashboards" },
+    source: "MarketLearn",
+  },
+  {
+    slug: "utm-naming-convention",
+    title: "UTM Naming Convention Sheet",
+    summary: "Consistent utm_source, medium, campaign, and content tags.",
+    category: "analytics",
+    type: "template",
+    template: `**Convention (lowercase, hyphens):**
+- utm_source: platform (google, meta, newsletter)
+- utm_medium: channel (cpc, email, social)
+- utm_campaign: launch or theme (spring-sale-2026)
+- utm_content: creative variant (carousel-a)
+
+**Example:**
+?utm_source=meta&utm_medium=paid-social&utm_campaign=lead-magnet&utm_content=video-hook-1`,
+    checklist: [
+      "Document convention in shared doc",
+      "Use spreadsheet builder for team",
+      "Audit last month's links for consistency",
+      "Enable auto-tagging for Google Ads",
+    ],
+    relatedLesson: { track: "analytics", slug: "utm-parameters-and-campaign-tracking" },
+    source: "MarketLearn",
+  },
+  {
+    slug: "cart-abandonment-flow",
+    title: "Cart Abandonment Email Flow",
+    summary: "Three-touch recovery sequence for ecommerce checkout drop-offs.",
+    category: "ecommerce",
+    type: "template",
+    template: `**Email 1 (1 hour):** Reminder + product image + single CTA
+**Email 2 (24 hours):** Social proof + FAQ objection handler
+**Email 3 (72 hours):** Small incentive or free shipping if margin allows`,
+    checklist: [
+      "Trigger on add-to-cart without purchase",
+      "Exclude recent purchasers",
+      "Mobile-first template",
+      "Track recovered revenue per email",
+    ],
+    relatedLesson: { track: "ecommerce-dtc", slug: "cart-abandonment-flows" },
+    source: "MarketLearn",
+  },
+  {
+    slug: "product-page-checklist",
+    title: "Ecommerce Product Page Checklist",
+    summary: "Conversion elements every DTC product detail page needs.",
+    category: "ecommerce",
+    type: "checklist",
+    checklist: [
+      "Hero image + gallery with zoom",
+      "Clear price and variant selector",
+      "Reviews above the fold on mobile",
+      "Shipping/returns policy visible",
+      "Sticky add-to-cart on scroll",
+      "Schema product markup",
+      "Cross-sell or bundle module",
+    ],
+    relatedLesson: { track: "ecommerce-dtc", slug: "product-page-optimization" },
+    source: "MarketLearn",
+  },
+  {
+    slug: "haro-pitch-template",
+    title: "HARO / Journalist Pitch Template",
+    summary: "Reply format that gets quoted in digital PR placements.",
+    category: "pr",
+    type: "template",
+    template: `**Subject:** Re: [Query headline] — [Your credential one-liner]
+
+Hi [Name],
+
+**Direct answer (2–3 sentences):**
+
+**Supporting detail or mini case study:**
+
+**Bio (1 sentence + link):**
+
+Available for follow-up today.`,
+    checklist: [
+      "Respond within 2 hours when possible",
+      "Answer the exact question first",
+      "Include data or specific example",
+      "Track placements and links earned",
+    ],
+    relatedLesson: { track: "pr-digital-pr", slug: "haro-and-connectively-for-free-links" },
+    source: "MarketLearn",
+  },
+  {
+    slug: "competitor-swot-gap",
+    title: "Competitor SWOT + Gap Analysis",
+    summary: "Compare rivals on messaging, channels, and positioning gaps.",
+    category: "competitor",
+    type: "template",
+    template: `| Competitor | Strengths | Weaknesses | Channels | Our gap/opportunity |
+|------------|-------------|------------|----------|---------------------|
+| | | | | |
+
+**SWOT (your brand):**
+- Strengths:
+- Weaknesses:
+- Opportunities:
+- Threats:`,
+    checklist: [
+      "Pick 5 direct competitors",
+      "Audit homepage + ads + email signup",
+      "Note one white-space opportunity",
+      "Update quarterly",
+    ],
+    relatedLesson: { track: "competitor-intel", slug: "swot-analysis-for-marketing" },
+    source: "MarketLearn",
+  },
+  {
+    slug: "social-content-pillars-calendar",
+    title: "Social Content Pillars + Calendar",
+    summary: "Non-LinkedIn social planning with pillars and weekly slots.",
+    category: "social",
+    type: "template",
+    template: `**Pillars (3–5):** Educate | Entertain | Proof | Promo (max 20%)
+
+| Week | Mon | Wed | Fri |
+|------|-----|-----|-----|
+| 1 | Pillar post | Carousel | UGC/repost |
+| 2 | Trend tie-in | How-to | Story poll |`,
+    checklist: [
+      "Define 4 pillars with 3 ideas each",
+      "Batch content Sunday for the week",
+      "UTM link posts",
+      "Leave 2 slots for reactive news",
+    ],
+    relatedLesson: { track: "social-media", slug: "organic-social-strategy-and-content-pillars" },
+    source: "MarketLearn",
+  },
+  {
+    slug: "lead-scoring-model",
+    title: "Lead Scoring Model",
+    summary: "Fit + behavior points to flag sales-ready leads.",
+    category: "automation",
+    type: "template",
+    template: `| Rule | Type | Points |
+|------|------|--------|
+| Title = target persona | Fit | +15 |
+| Company size in ICP range | Fit | +20 |
+| Visited pricing page | Behavior | +25 |
+| Downloaded case study | Behavior | +15 |
+| Wrong industry | Fit | -30 |
+
+**MQL threshold:** 50 points`,
+    checklist: [
+      "Align threshold with sales",
+      "Review scores monthly",
+      "Negative score bad-fit signals",
+      "Trigger nurture vs sales task",
+    ],
+    relatedLesson: { track: "automation-crm", slug: "lead-scoring-and-qualification" },
+    source: "MarketLearn",
+  },
+  {
+    slug: "nurture-sequence-map",
+    title: "Nurture Sequence Map",
+    summary: "Branching email workflow from opt-in to sales-ready.",
+    category: "automation",
+    type: "framework",
+    template: `Opt-in → Welcome (Day 0)
+  → Value email (Day 2)
+  → Case study (Day 5)
+  → Branch: clicked pricing? → Demo invite
+  → Else: FAQ + soft CTA (Day 10)
+  → Score ≥ MQL → Sales notification`,
+    checklist: [
+      "Map triggers in CRM/automation tool",
+      "Pause on purchase or reply",
+      "Suppression for existing customers",
+      "Measure influenced pipeline",
+    ],
+    relatedLesson: { track: "automation-crm", slug: "workflows-and-triggered-campaigns" },
+    source: "MarketLearn",
+  },
+  {
+    slug: "community-launch-checklist",
+    title: "Community Launch Checklist",
+    summary: "Steps to launch a Slack, Discord, or Circle community.",
+    category: "community",
+    type: "checklist",
+    checklist: [
+      "Define community promise and rules",
+      "Seed 10 founding members manually",
+      "Weekly ritual (AMA, wins thread)",
+      "Moderator escalation path",
+      "Welcome DM or bot flow",
+      "Metric: weekly active members",
+      "Monetization path documented",
+    ],
+    relatedLesson: { track: "community-marketing", slug: "community-onboarding-and-rituals" },
     source: "MarketLearn",
   },
 ];

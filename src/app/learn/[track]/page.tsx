@@ -20,6 +20,17 @@ export async function generateMetadata({
   return {
     title: track.title,
     description: track.description,
+    keywords: [track.title, track.id.replace(/-/g, " "), "digital marketing", "marketing course"],
+    openGraph: {
+      title: `${track.title} | MarketLearn`,
+      description: track.description,
+      type: "website",
+    },
+    twitter: {
+      card: "summary",
+      title: `${track.title} | MarketLearn`,
+      description: track.description,
+    },
   };
 }
 

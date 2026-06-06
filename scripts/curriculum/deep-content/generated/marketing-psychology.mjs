@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const MARKETING_PSYCHOLOGY_GENERATED = {};

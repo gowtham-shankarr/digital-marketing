@@ -21,6 +21,7 @@ import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { Badge } from "@/components/ui/badge";
 import { tracks, trackMeta } from "@/content/tracks";
+import { RECOMMENDED_PATH_TRACK_IDS, START_TRACK_ID, START_LESSON_SLUG } from "@/content/learning-path";
 import {
   getGlobalProgress,
   getLessonsWithNotes,
@@ -120,8 +121,11 @@ function useDashboardStats(totalLessons: number) {
 
 export function StudyDashboard() {
   const totalLessons = trackMeta.reduce((s, t) => s + t.lessonCount, 0);
-  const firstLesson = tracks[0].lessons[0];
   const stats = useDashboardStats(totalLessons);
+  const tracksById = new Map(tracks.map((t) => [t.id, t]));
+  const pathTracks = RECOMMENDED_PATH_TRACK_IDS.map((id) => tracksById.get(id)).filter(
+    (t): t is (typeof tracks)[number] => Boolean(t)
+  );
 
   return (
     <div className="px-6 py-8">
@@ -129,11 +133,21 @@ export function StudyDashboard() {
         <div>
           <h1 className="text-3xl font-bold tracking-tight">Study Dashboard</h1>
           <p className="mt-2 text-muted-foreground">
-            MarketLearn — {tracks.length} tracks · {totalLessons} lessons · Saved in your browser
+            MarketLearn — {tracks.length} tracks · {totalLessons} lessons
           </p>
         </div>
         <ProgressManager />
       </div>
+
+      <Card className="mt-6 border-amber-500/30 bg-amber-500/5">
+        <CardContent className="flex flex-col gap-3 pt-6 sm:flex-row sm:items-center sm:justify-between">
+          <p className="text-sm text-muted-foreground">
+            Progress, notes, and bookmarks are saved <strong>in this browser only</strong>.
+            Clearing cache or switching devices will reset them — use Export to back up.
+          </p>
+          <ProgressManager />
+        </CardContent>
+      </Card>
 
       <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
         <Card>
@@ -333,7 +347,7 @@ export function StudyDashboard() {
           </CardHeader>
           <CardContent className="space-y-4">
             <p className="text-muted-foreground">
-              DevLearn is an <strong>interactive textbook</strong>. Follow this order for every lesson:
+              MarketLearn is an <strong>interactive textbook</strong>. Follow this order for every lesson:
             </p>
             <div className="grid gap-4 sm:grid-cols-2">
               {studySteps.map((step) => (
@@ -347,7 +361,7 @@ export function StudyDashboard() {
               ))}
             </div>
             <div className="flex flex-wrap gap-3 pt-2">
-              <Link href={`/learn/${tracks[0].id}/${firstLesson.slug}`}>
+              <Link href={`/learn/${START_TRACK_ID}/${START_LESSON_SLUG}`}>
                 <Button>
                   Start First Lesson <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
@@ -362,7 +376,7 @@ export function StudyDashboard() {
 
       <h2 className="mb-4 mt-10 text-xl font-semibold">All Tracks</h2>
       <div className="grid gap-6 sm:grid-cols-2 xl:grid-cols-3">
-        {tracks.map((track) => (
+        {pathTracks.map((track) => (
           <TrackCard key={track.id} track={track} />
         ))}
       </div>

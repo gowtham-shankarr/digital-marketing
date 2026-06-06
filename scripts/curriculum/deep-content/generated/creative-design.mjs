@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const CREATIVE_DESIGN_GENERATED = {};

@@ -155,16 +155,7 @@ ${tracksArrayTs}
 export function getTrack(id: string) { return tracks.find((t) => t.id === id); }
 export function getLesson(trackId: string, slug: string) { return getTrack(trackId)?.lessons.find((l) => l.slug === slug); }
 export function getAllLessons() { return tracks.flatMap((t) => t.lessons.map((l) => ({ ...l, trackTitle: t.title }))); }
-export function getAdjacentLessons(trackId: string, slug: string) {
-  const track = getTrack(trackId);
-  if (!track) return { prev: null, next: null };
-  const idx = track.lessons.findIndex((l) => l.slug === slug);
-  let prev = idx > 0 ? { track: trackId, lesson: track.lessons[idx - 1] } : null;
-  let next = idx < track.lessons.length - 1 ? { track: trackId, lesson: track.lessons[idx + 1] } : null;
-  if (!prev && track.order > 0) { const pt = tracks[track.order - 1]; prev = { track: pt.id, lesson: pt.lessons[pt.lessons.length - 1] }; }
-  if (!next && track.order < tracks.length - 1) { const nt = tracks[track.order + 1]; next = { track: nt.id, lesson: nt.lessons[0] }; }
-  return { prev, next };
-}
+export { getPathAdjacentLessons as getAdjacentLessons } from "./learning-path-nav";
 \`);
 
 console.log("Total lessons:", Object.values(tracks).reduce((s, t) => s + t.lessons.length, 0));

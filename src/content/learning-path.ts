@@ -1,0 +1,38 @@
+/** Recommended learning path — matches scripts/curriculum/full-curriculum.mjs TRACK_ORDER */
+export const RECOMMENDED_PATH_TRACK_IDS = [
+  "foundations",
+  "marketing-psychology",
+  "marketing-funnels",
+  "customer-research",
+  "offer-pricing",
+  "website-cro",
+  "seo",
+  "technical-seo",
+  "aeo-geo",
+  "sem-ppc",
+  "content-marketing",
+  "youtube-video",
+  "social-media",
+  "linkedin-marketing",
+  "email-marketing",
+  "automation-crm",
+  "retention-lifecycle",
+  "cold-outreach",
+  "icp-list-building",
+  "analytics",
+  "distribution-growth",
+  "pr-digital-pr",
+  "community-marketing",
+  "ecommerce-dtc",
+  "podcast-marketing",
+  "pinterest-marketing",
+  "creative-design",
+  "other-channels",
+  "competitor-intel",
+  "strategy-branding",
+  "advanced-emerging",
+  "legal-career",
+] as const;
+
+export const START_TRACK_ID = "foundations";
+export const START_LESSON_SLUG = "digital-marketing-vs-traditional-marketing";

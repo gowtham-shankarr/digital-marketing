@@ -18,13 +18,14 @@ import { Header } from "@/components/layout/header";
 import { HomeProgress } from "@/components/learning/home-progress";
 import { TrackCard } from "@/components/learning/lesson-card";
 import { tracks, trackMeta } from "@/content/tracks";
+import { RECOMMENDED_PATH_TRACK_IDS, START_TRACK_ID, START_LESSON_SLUG } from "@/content/learning-path";
 
-function buildFeatures(totalLessons: number) {
+function buildFeatures(totalLessons: number, trackCount: number) {
   return [
     {
       icon: BookOpen,
       title: `${totalLessons} Lessons`,
-      desc: `Complete curriculum across ${trackMeta.length} marketing tracks`,
+      desc: `Complete curriculum across ${trackCount} marketing tracks`,
     },
     {
       icon: Target,
@@ -47,9 +48,12 @@ function buildFeatures(totalLessons: number) {
 export default function HomePage() {
   const totalLessons = trackMeta.reduce((s, t) => s + t.lessonCount, 0);
   const totalMinutes = trackMeta.reduce((s, t) => s + t.estimatedMinutes, 0);
-  const features = buildFeatures(totalLessons);
-  const firstTrack = tracks[0];
-  const firstLesson = firstTrack?.lessons[0];
+  const features = buildFeatures(totalLessons, trackMeta.length);
+
+  const tracksById = new Map(tracks.map((t) => [t.id, t]));
+  const pathTracks = RECOMMENDED_PATH_TRACK_IDS.map((id) => tracksById.get(id)).filter(
+    (t): t is (typeof tracks)[number] => Boolean(t)
+  );
 
   return (
     <div className="min-h-svh bg-background">
@@ -70,18 +74,17 @@ export default function HomePage() {
               </span>
             </h1>
             <p className="mx-auto mt-6 max-w-2xl text-lg text-muted-foreground">
-              24 learning tracks from website CRO and SEO through distribution,
-              ICP list building, LinkedIn, and MMS templates in every lesson.
+              {trackMeta.length} tracks with copy-ready templates and hands-on
+              practice in every lesson — from foundations and funnels through
+              distribution, ICP, and LinkedIn.
             </p>
             <HomeProgress totalLessons={totalLessons} />
             <div className="mt-8 flex flex-wrap justify-center gap-4">
-              {firstLesson && (
-                <Link href={`/learn/${firstTrack.id}/${firstLesson.slug}`}>
-                  <Button size="lg">
-                    Start Learning <ArrowRight className="ml-2 h-4 w-4" />
-                  </Button>
-                </Link>
-              )}
+              <Link href={`/learn/${START_TRACK_ID}/${START_LESSON_SLUG}`}>
+                <Button size="lg">
+                  Start Learning <ArrowRight className="ml-2 h-4 w-4" />
+                </Button>
+              </Link>
               <Link href="/learn">
                 <Button size="lg" variant="outline">
                   Study Dashboard
@@ -126,7 +129,7 @@ export default function HomePage() {
               Follow the recommended path or jump to any topic.
             </p>
             <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-              {tracks.map((track) => (
+              {pathTracks.map((track) => (
                 <TrackCard key={track.id} track={track} />
               ))}
             </div>
@@ -134,23 +137,21 @@ export default function HomePage() {
         </section>
 
         <section className="px-4 py-16">
-          <div className="mx-auto max-w-3xl text-center">
+          <div className="mx-auto max-w-5xl text-center">
             <h2 className="text-2xl font-bold">Recommended Learning Path</h2>
             <p className="mt-4 text-muted-foreground">
-              Website & CRO → SEO → PPC → Content → Social → Email → Analytics →
-              Distribution & Growth → ICP List Building → LinkedIn → PR → DTC →
-              Legal & Career
+              {pathTracks.map((t) => t.title).join(" → ")}
             </p>
             <div className="mt-8 flex flex-wrap justify-center gap-2">
-              {tracks.map((t, i) => (
+              {pathTracks.map((t, i) => (
                 <span key={t.id} className="flex items-center gap-2">
                   <Link href={`/learn/${t.id}`}>
                     <Button variant="outline" size="sm">
                       {t.title}
                     </Button>
                   </Link>
-                  {i < tracks.length - 1 && (
-                    <ArrowRight className="h-4 w-4 text-muted-foreground" />
+                  {i < pathTracks.length - 1 && (
+                    <ArrowRight className="hidden h-4 w-4 text-muted-foreground sm:inline" />
                   )}
                 </span>
               ))}

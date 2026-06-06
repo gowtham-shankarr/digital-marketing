@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const YOUTUBE_VIDEO_GENERATED = {};

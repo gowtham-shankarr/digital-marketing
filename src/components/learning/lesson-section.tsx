@@ -40,7 +40,7 @@ const sectionStyles = {
     color:
       "border-orange-500/25 bg-orange-500/[0.07] dark:border-orange-400/30 dark:bg-orange-500/10",
     iconColor: "text-orange-600 dark:text-orange-400",
-    label: "Code Example Explained",
+    label: "Worked Example",
   },
   realWorld: {
     icon: Globe,

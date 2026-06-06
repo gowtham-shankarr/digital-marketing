@@ -36,6 +36,12 @@ const iconMap: Record<string, string> = {
   Wrench: "🔧",
   Mic: "🎙️",
   Pin: "📌",
+  Brain: "🧠",
+  MessageSquare: "💬",
+  Tag: "🏷️",
+  Heart: "❤️",
+  Palette: "🎨",
+  Youtube: "▶️",
 };
 
 export function TrackCard({ track }: { track: Track }) {

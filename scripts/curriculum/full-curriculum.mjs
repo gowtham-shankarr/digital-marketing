@@ -4,6 +4,7 @@
  */
 import { lessonsFromRows } from "./dm-lesson-builder.mjs";
 import { MMS_EXPANSION_TRACKS, MMS_EXISTING_TRACK_ADDITIONS } from "./mms-expansion.mjs";
+import { SPEC_EXPANSION_TRACKS } from "./spec-expansion.mjs";
 
 function mod(id, title, description, icon, color, order, rows) {
   const baseRows = rows.map((r) => {
@@ -19,7 +20,60 @@ function mod(id, title, description, icon, color, order, rows) {
   return { id, title, description, icon, color, order, lessons };
 }
 
-const CORE_TRACKS = [
+const FOUNDATIONS_AND_FUNNELS = [
+  mod(
+    "foundations",
+    "Foundations",
+    "Digital marketing basics, media types, metrics, STP, personas, journey, goals, and OKRs.",
+    "Rocket",
+    "bg-violet-500",
+    0,
+    [
+      ["Digital Marketing vs Traditional Marketing", "base", "Digital marketing uses online channels with measurable data; traditional relies on offline media with harder attribution.", ["Digital: search, social, email, ads, websites — track clicks and conversions", "Traditional: TV, print, radio, billboards — broad reach, weaker direct tracking", "Best brands blend both with consistent messaging", "Digital allows rapid A/B tests and smaller budgets"], "Pick a local business; list 3 traditional and 3 digital tactics they could use and one metric per digital tactic."],
+      ["Owned, Earned, and Paid Media", "base", "The marketing ecosystem splits channels by who controls them and who pays for reach.", ["Owned: website, email list, app — you control", "Earned: reviews, PR, shares, word of mouth — others spread your message", "Paid: ads on Google, Meta, etc. — you pay for placement", "Strong strategy balances all three"], "For a fitness app, give 2 examples of owned, earned, and paid media."],
+      ["Inbound vs Outbound Marketing", "base", "Inbound pulls interested people in with valuable content; outbound pushes messages out to audiences.", ["Inbound: SEO, content, lead magnets, social value — permission-based", "Outbound: cold email, display ads, telemarketing — interruption-based", "Inbound builds long-term trust; outbound can scale fast", "Modern funnels combine both"], "Design a simple inbound content idea and one outbound ad angle for the same B2B software product."],
+      ["B2B, B2C, B2B2C, and D2C Models", "base", "Business model shapes who you sell to, sales cycle length, and which channels work.", ["B2B: sell to businesses — longer cycles, LinkedIn, demos, ROI proof", "B2C: sell to consumers — emotion, speed, social proof, impulse", "B2B2C: partner sells to end user (e.g. bank + fintech)", "D2C: brand sells direct, skipping retail — heavy on paid social + email"], "Classify 5 brands you know as B2B, B2C, or D2C and note their primary channel."],
+      ["Core Marketing Metrics Glossary", "base", "CPC, CPM, CPA, CTR, CPL, ROAS, ROI, LTV, CAC, and conversion rate are the language of performance marketing.", ["CPC: cost per click | CPM: cost per 1000 impressions", "CPA/CPL: cost per acquisition/lead", "CTR: clicks ÷ impressions | Conversion rate: conversions ÷ visits", "ROAS: revenue ÷ ad spend | ROI: (gain−cost)÷cost", "LTV: customer lifetime value | CAC: cost to acquire customer"], "Create a one-page glossary in your notes with each metric, formula, and when you'd report it to a client."],
+      ["The Marketing Mix: 4Ps and 7Ps", "base", "Product, Price, Place, Promotion — extended to People, Process, Physical evidence for services.", ["4Ps: what you sell, for how much, where distributed, how promoted", "7Ps add service delivery: staff, systems, environment", "Digital changes Place (e-commerce) and Promotion (ads, content)", "Misaligned Ps confuse customers"], "Analyze one SaaS product across all 7Ps in bullet form."],
+      ["STP: Segmentation, Targeting, Positioning", "base", "STP is the strategic sequence: divide the market, choose segments, own a position in the mind.", ["Segmentation: group customers by needs, behavior, or firmographics", "Targeting: pick segments you can serve profitably", "Positioning: distinct promise vs alternatives", "STP precedes channel and creative choices"], "Segment a meal-delivery market into 3 groups; pick one target; write a positioning line."],
+      ["Buyer Personas and Ideal Customer Profile (ICP)", "base", "Personas humanize B2C segments; ICP defines firm traits for B2B sales and marketing alignment.", ["Persona: name, goals, pains, objections, channels", "ICP: industry, company size, tech stack, buying triggers", "Built from interviews, CRM data, support tickets", "Shared doc prevents generic messaging"], "Write one B2C persona and one B2B ICP for brands you invent."],
+      ["The Customer and Buyer Journey", "base", "Journey maps track awareness → consideration → decision → retention across touchpoints.", ["Awareness: problem recognized", "Consideration: comparing solutions", "Decision: purchase or sign-up", "Retention: repeat use, advocacy", "Map emotions and friction at each step"], "Map a 6-step journey for buying a laptop online; note one friction point per step."],
+      ["Value Proposition and Unique Selling Proposition (USP)", "base", "Value proposition states customer benefit; USP is the single clearest reason to choose you.", ["Value prop: who, problem, solution, outcome", "USP must be specific and defensible", "Test with customers — not internal opinion", "Appears in headlines, ads, sales decks"], "Write value prop + USP for an eco-friendly laundry brand in under 100 words total."],
+      ["SMART Goals, KPIs, and OKRs", "base", "SMART goals are specific and measurable; KPIs track health; OKRs align ambitious outcomes with key results.", ["SMART: Specific, Measurable, Achievable, Relevant, Time-bound", "KPIs: ongoing metrics (traffic, CPA, NPS)", "OKRs: objective + 3–5 key results per quarter", "Tie marketing metrics to revenue where possible"], "Write 1 SMART goal, 3 KPIs, and 1 OKR for a new blog launch."],
+    ]
+  ),
+  mod(
+    "marketing-funnels",
+    "Marketing Funnels",
+    "Funnel stages, AIDA, AARRR, funnel types, lead magnets, nurturing, metrics, and optimization.",
+    "Filter",
+    "bg-fuchsia-500",
+    1,
+    [
+      ["What Is a Marketing Funnel and Why It Matters", "base", "A funnel visualizes how many people move from awareness to purchase and where they drop off.", ["Wide top (many visitors) narrows to buyers", "Each stage needs different content and CTAs", "Funnels expose leaks before you scale ad spend", "Works for e-commerce, SaaS, services"], "Sketch a 4-stage funnel for a webinar product; label metrics at each stage."],
+      ["TOFU, MOFU, and BOFU Explained", "base", "Top = awareness; Middle = consideration; Bottom = conversion and purchase intent.", ["TOFU: blogs, social, ads — educate, don't hard sell", "MOFU: comparisons, case studies, email nurture", "BOFU: demos, trials, discounts, sales calls", "Message mismatch causes drop-off"], "Assign 3 content pieces you know to TOFU/MOFU/BOFU for a CRM tool."],
+      ["The AIDA Model", "base", "Attention → Interest → Desire → Action — classic persuasion sequence for ads and landing pages.", ["Attention: hook in headline or visual", "Interest: benefits and relevance", "Desire: proof, emotion, urgency", "Action: clear CTA and low friction"], "Rewrite a weak product blurb using AIDA structure."],
+      ["AARRR Pirate Metrics Framework", "base", "Acquisition, Activation, Retention, Referral, Revenue — startup growth lens.", ["Acquisition: how users find you", "Activation: first value moment (aha)", "Retention: they come back", "Referral: they invite others", "Revenue: monetization"], "For a mobile app, define one metric per AARRR letter."],
+      ["Extended Purchase Funnel Stages", "base", "Awareness → Interest → Consideration → Intent → Evaluation → Purchase — granular e-commerce path.", ["Intent: added to cart or started signup", "Evaluation: reading reviews, comparing price", "Each micro-step can be measured in GA4", "Retargeting maps to late stages"], "List one marketing tactic for each of the six stages for online courses."],
+      ["Lead Generation Funnels", "base", "Capture contact info in exchange for value, then nurture toward sale.", ["Landing page + form + thank-you page", "Thank-you page can sell next step", "Integrate with CRM/email", "Measure CPL and lead quality"], "Outline a 3-page lead gen funnel for a free SEO checklist."],
+      ["Sales Funnels for Services and High-Ticket", "base", "Longer cycles: content → call → proposal → close.", ["Multiple touchpoints and trust building", "Sales team and marketing must align on MQL/SQL", "Case studies and testimonials critical", "Pipeline velocity matters"], "Map a consulting sales funnel with 5 steps and owner (marketing vs sales)."],
+      ["Webinar Funnels", "base", "Register → attend → offer → follow-up — popular for courses and B2B.", ["Registration page with urgency", "Reminder email sequence", "Live or evergreen replay", "Pitch at end with limited offer"], "Draft registration headline + 3-email reminder outline for a marketing webinar."],
+      ["Tripwire and Low-Ticket Funnels", "base", "Small first purchase builds buyer trust; upsell core offer later.", ["$7–$27 entry product", "Order bump and upsell on checkout", "Break even on ads sometimes", "Backend profit on main offer"], "Design a tripwire idea for a photography educator."],
+      ["Product Launch Funnels", "base", "Pre-launch buzz → cart open → close — scarcity and story drive spikes.", ["Seed list before launch", "Video series or challenge", "Open/close cart dates", "Heavy email + retargeting"], "Write a 5-day launch email theme outline for a new template shop."],
+      ["Free Trial and SaaS Funnels", "base", "Signup → activation → paid conversion — product-led growth.", ["Friction-free signup", "Onboarding emails in first 7 days", "Track activation event", "Upgrade triggers before trial ends"], "Define activation event and 3 onboarding emails for a project management SaaS."],
+      ["E-commerce and Cart Funnels", "base", "Browse → add to cart → checkout → post-purchase upsell.", ["Cart abandonment emails/SMS", "Guest vs account checkout tradeoffs", "Shipping and trust at checkout", "Repeat purchase flows"], "List 4 tactics to reduce cart abandonment for a fashion store."],
+      ["Lead Magnets and Opt-In Offers", "base", "Ebooks, checklists, quizzes, templates, and trials trade value for email.", ["Must solve one specific problem", "Title promises clear outcome", "Delivery instant (PDF or link)", "Segment leads by magnet topic"], "Create 3 lead magnet ideas with titles for a personal finance coach."],
+      ["Lead Nurturing and Follow-Up Sequences", "base", "Automated emails educate and build trust between opt-in and purchase.", ["Welcome series first 5–7 days", "Mix value and soft offers", "Branch by behavior (clicked pricing?)", "Stop on purchase or unsubscribe"], "Write a 5-email nurture outline for leads who downloaded a pricing guide."],
+      ["Funnel Mapping and Customer Flow Design", "base", "Document every page, email, ad, and trigger so the team sees the full system.", ["Swimlane: traffic source → pages → CRM", "Note conversion goals per step", "Identify single biggest leak", "Version map when you test"], "Draw a funnel map on paper for a free trial SaaS with 8 nodes."],
+      ["Funnel Metrics: Drop-Off, Conversion, Velocity", "base", "Stage conversion rate, time between stages, and drop-off pinpoint fixes.", ["Conversion rate = next stage ÷ current stage", "Velocity = days from lead to customer", "Cohort analysis for SaaS", "Fix biggest leak first"], "Given sample numbers in notes, calculate stage conversion for 4 funnel steps."],
+      ["Funnel Optimization and Plugging Leaks", "base", "Hypothesize, A/B test, fix UX, align message to stage.", ["Watch session recordings on drop pages", "One variable per test", "MOFU leak often = weak proof", "BOFU leak often = pricing/trust"], "Pick one leak from your mapped funnel; write hypothesis + test idea."],
+      ["Funnel Builder Tools Overview", "base", "ClickFunnels, Leadpages, Systeme.io, GoHighLevel — drag-and-drop funnel pages and automation.", ["All-in-one vs best-of-breed stack", "Native email/CRM vs integrations", "Templates speed launches", "Track total cost of ownership"], "Compare 2 funnel tools in a table: price, email, CRM, best for whom."],
+      ["Full-Funnel vs Single-Stage Campaigns", "base", "Brand campaigns may focus one stage; performance marketing often owns full funnel.", ["TOFU-only builds awareness but may not ROI quickly", "BOFU-only exhausts small audiences", "Full-funnel needs consistent creative", "Budget split by stage goals"], "Propose % budget split TOFU/MOFU/BOFU for a new D2C brand."],
+    ]
+  ),
+];
+
+const MAIN_CORE_TRACKS = [
   mod(
     "website-cro",
     "Website, Landing Pages & CRO",
@@ -279,4 +333,55 @@ function finalizeTracks(tracks) {
   }));
 }
 
-export const FULL_CURRICULUM_TRACKS = finalizeTracks([...CORE_TRACKS, ...MMS_EXPANSION_TRACKS]);
+/** Canonical learning-path order (also used by src/content/learning-path.ts) */
+export const TRACK_ORDER = [
+  "foundations",
+  "marketing-psychology",
+  "marketing-funnels",
+  "customer-research",
+  "offer-pricing",
+  "website-cro",
+  "seo",
+  "technical-seo",
+  "aeo-geo",
+  "sem-ppc",
+  "content-marketing",
+  "youtube-video",
+  "social-media",
+  "linkedin-marketing",
+  "email-marketing",
+  "automation-crm",
+  "retention-lifecycle",
+  "cold-outreach",
+  "icp-list-building",
+  "analytics",
+  "distribution-growth",
+  "pr-digital-pr",
+  "community-marketing",
+  "ecommerce-dtc",
+  "podcast-marketing",
+  "pinterest-marketing",
+  "creative-design",
+  "other-channels",
+  "competitor-intel",
+  "strategy-branding",
+  "advanced-emerging",
+  "legal-career",
+];
+
+function buildCurriculum() {
+  const all = [
+    ...FOUNDATIONS_AND_FUNNELS,
+    ...SPEC_EXPANSION_TRACKS,
+    ...MAIN_CORE_TRACKS,
+    ...MMS_EXPANSION_TRACKS,
+  ];
+  const byId = new Map(all.map((t) => [t.id, t]));
+  return TRACK_ORDER.map((id) => {
+    const track = byId.get(id);
+    if (!track) throw new Error(`Missing track in curriculum: ${id}`);
+    return track;
+  });
+}
+
+export const FULL_CURRICULUM_TRACKS = finalizeTracks(buildCurriculum());

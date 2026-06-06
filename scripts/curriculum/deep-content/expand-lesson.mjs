@@ -1,30 +1,38 @@
 import { q } from "../helper.mjs";
 
 const TRACK_CONTEXT = {
+  "foundations": { domain: "Foundations", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "marketing-psychology": { domain: "Marketing Psychology & Persuasion", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "marketing-funnels": { domain: "Marketing Funnels", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "customer-research": { domain: "Customer & Market Research", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "offer-pricing": { domain: "Offer Creation & Pricing Strategy", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
   "website-cro": { domain: "Website, Landing Pages & CRO", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
   "seo": { domain: "SEO", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "technical-seo": { domain: "Technical SEO", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "aeo-geo": { domain: "AEO + GEO (AI Search)", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
   "sem-ppc": { domain: "SEM / PPC", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
   "content-marketing": { domain: "Content Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "youtube-video": { domain: "YouTube & Video Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
   "social-media": { domain: "Social Media Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "linkedin-marketing": { domain: "LinkedIn Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
   "email-marketing": { domain: "Email Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
   "automation-crm": { domain: "Marketing Automation & CRM", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "analytics": { domain: "Analytics & Measurement", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "other-channels": { domain: "Other Channels & Specializations", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "strategy-branding": { domain: "Strategy, Branding & Planning", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "advanced-emerging": { domain: "Advanced & Emerging Topics", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "legal-career": { domain: "Legal, Ethics & Career", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "distribution-growth": { domain: "Distribution & Growth Moat", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "icp-list-building": { domain: "B2B ICP & List Building", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "aeo-geo": { domain: "AEO + GEO (AI Search)", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "linkedin-marketing": { domain: "LinkedIn Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "retention-lifecycle": { domain: "Retention, Loyalty & Lifecycle Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
   "cold-outreach": { domain: "Cold Outreach", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "icp-list-building": { domain: "B2B ICP & List Building", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "analytics": { domain: "Analytics & Measurement", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "distribution-growth": { domain: "Distribution & Growth Moat", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
   "pr-digital-pr": { domain: "PR & Digital PR", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
   "community-marketing": { domain: "Community Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
   "ecommerce-dtc": { domain: "Ecommerce & DTC Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "technical-seo": { domain: "Technical SEO", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "competitor-intel": { domain: "Competitor Intelligence", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
   "podcast-marketing": { domain: "Podcast Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
   "pinterest-marketing": { domain: "Pinterest Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "creative-design": { domain: "Creative & Design Skills", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "other-channels": { domain: "Other Channels & Specializations", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "competitor-intel": { domain: "Competitor Intelligence", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "strategy-branding": { domain: "Strategy, Branding & Planning", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "advanced-emerging": { domain: "Advanced & Emerging Topics", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "legal-career": { domain: "Legal, Ethics & Career", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
 };
 
 /** Minimum bar for a lesson to count as "fully deep" */
@@ -320,7 +328,7 @@ export function expandLessonToDeep(lesson, { force = false } = {}) {
     example:
       lesson.example ||
       (code
-        ? `### ${lesson.title} — Code Example\n\n\`\`\`\n${code}\n\`\`\`\n\nRead each line. Run in the Live Demo. Change one value and observe the effect.`
+        ? `### ${lesson.title} — Worked Example\n\n\`\`\`\n${code}\n\`\`\`\n\nRead each line. Apply the pattern to a real brand. Change one variable and observe the effect.`
         : `### ${lesson.title}\n\nUse the Live Demo and follow the step-by-step section above.`),
     realWorld:
       lesson.realWorld ||

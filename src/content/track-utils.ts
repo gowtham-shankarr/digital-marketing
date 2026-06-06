@@ -1,4 +1,5 @@
-import { getLesson, getTrack, tracks } from "./tracks";
+import { getLesson, getTrack } from "./tracks";
+import { getPathLessonSequence } from "./learning-path-nav";
 
 export function resolveLessonRef(lessonId: string) {
   const slash = lessonId.indexOf("/");
@@ -13,11 +14,13 @@ export function resolveLessonRef(lessonId: string) {
 
 export function getNextIncompleteLesson(completedIds: string[]) {
   const done = new Set(completedIds);
-  for (const track of tracks) {
-    for (const lesson of track.lessons) {
-      const id = `${track.id}/${lesson.slug}`;
-      if (!done.has(id)) {
-        return { trackId: track.id, slug: lesson.slug, title: lesson.title, trackTitle: track.title };
+  for (const { trackId, slug } of getPathLessonSequence()) {
+    const id = `${trackId}/${slug}`;
+    if (!done.has(id)) {
+      const track = getTrack(trackId);
+      const lesson = getLesson(trackId, slug);
+      if (track && lesson) {
+        return { trackId, slug, title: lesson.title, trackTitle: track.title };
       }
     }
   }

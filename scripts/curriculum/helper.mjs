@@ -6,7 +6,7 @@ export function L(slug, title, track, level, order, minutes, d) {
     d.sandpackFiles?.["/App.tsx"] ||
     d.sandpackFiles?.["/index.ts"];
   const defaultExample = sandpackCode
-    ? `### ${title} — Code Example\n\n\`\`\`typescript\n${sandpackCode}\n\`\`\`\n\n**How to read this:** Study each line. Change one thing at a time in the Live Demo.`
+    ? `### ${title} — Worked Example\n\n\`\`\`typescript\n${sandpackCode}\n\`\`\`\n\n**How to read this:** Study each line. Apply it to a real campaign. Change one thing at a time.`
     : `### ${title}\n\nPractice this concept in the **Live Demo** tab or follow the steps above.`;
   const defaultSteps = [
     { title: "Read the concept", body: `Understand what ${title} is and when to use it in real ${track} projects.` },

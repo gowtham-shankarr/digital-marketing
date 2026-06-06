@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const FOUNDATIONS_GENERATED = {};
