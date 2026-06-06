@@ -7,95 +7,95 @@ export const advanced_emergingLessons: Lesson[] = [
     "track": "advanced-emerging",
     "level": "base",
     "order": 1,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "GenAI for copy, images, analysis — human review required.",
     "objectives": [
-      "Define AI in Marketing and AI Tools clearly in your own words",
-      "Explain how AI in Marketing and AI Tools connects to funnel stages and business goals",
-      "Identify when teams apply AI in Marketing and AI Tools in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain AI in Marketing and AI Tools in plain English with a real brand example",
+      "Apply AI in Marketing and AI Tools to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is AI in Marketing and AI Tools?\n\n**AI in Marketing and AI Tools** is a core part of professional digital marketing. GenAI for copy, images, analysis — human review required.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Use AI for drafts and variants\n- Fact-check and brand voice edit\n- Don't publish raw hallucinations\n- Disclose AI where policy requires\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | GenAI for copy, images, analysis — human review required. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "AI in Marketing and AI Tools reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply AI in Marketing and AI Tools when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is AI in Marketing and AI Tools?\n\n**AI in Marketing and AI Tools** — GenAI for copy, images, analysis — human review required.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Use AI for drafts and variants\n\nThis point matters because it connects directly to **AI in Marketing and AI Tools** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Fact-check and brand voice edit\n\nThis point matters because it connects directly to **AI in Marketing and AI Tools** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Don't publish raw hallucinations\n\nThis point matters because it connects directly to **AI in Marketing and AI Tools** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Disclose AI where policy requires\n\nThis point matters because it connects directly to **AI in Marketing and AI Tools** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | GenAI for copy, images, analysis — human review required. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**AI in Marketing and AI Tools** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **AI in Marketing and AI Tools** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what AI in Marketing and AI Tools means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Zoom's** website or ads in another tab. As you read, note one place they already apply (or violate) **AI in Marketing and AI Tools**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain AI in Marketing and AI Tools in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "List 5 safe AI uses and 3 risks for client work."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: AI in Marketing and AI Tools\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How AI in Marketing and AI Tools helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply ai in marketing and ai tools to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **AI in Marketing and AI Tools**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — AI in Marketing and AI Tools\n\nList 5 safe AI uses and 3 risks for client work.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Zoom**\n\n**Context:** GenAI for copy, images, analysis — human review required.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **AI in Marketing and AI Tools** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **AI in Marketing and AI Tools** in the real world\n\n**Coca-Cola** tested AI-generated ads; **JPMorgan** used AI for ad copy variants.\n\n**ABM:** Terminus and 6sense help B2B target named accounts.\n\n**First-party data:** Apple's ATT shift forced Meta advertisers toward Conversions API.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — AI in Marketing and AI Tools clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — AI in Marketing and AI Tools\n\nList 5 safe AI uses and 3 risks for client work.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "AI in Marketing and AI Tools is best learned by…",
+        "question": "Which is the best real-world reference for AI in Marketing and AI Tools?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Zoom — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Use AI for drafts and variants\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Use AI for drafts and variants",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -108,95 +108,95 @@ export const advanced_emergingLessons: Lesson[] = [
     "track": "advanced-emerging",
     "level": "base",
     "order": 2,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Target named accounts with personalized campaigns — B2B.",
     "objectives": [
-      "Define Account-Based Marketing (ABM) clearly in your own words",
-      "Explain how Account-Based Marketing (ABM) connects to funnel stages and business goals",
-      "Identify when teams apply Account-Based Marketing (ABM) in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Account-Based Marketing (ABM) in plain English with a real brand example",
+      "Apply Account-Based Marketing (ABM) to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Account-Based Marketing (ABM)?\n\n**Account-Based Marketing (ABM)** is a core part of professional digital marketing. Target named accounts with personalized campaigns — B2B.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Tier 1 accounts custom\n- LinkedIn + direct mail + SDR\n- Measure engagement per account\n- Sales alignment critical\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Target named accounts with personalized campaigns — B2B. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Account-Based Marketing (ABM) reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Account-Based Marketing (ABM) when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Account-Based Marketing (ABM)?\n\n**Account-Based Marketing (ABM)** — Target named accounts with personalized campaigns — B2B.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Tier 1 accounts custom\n\nThis point matters because it connects directly to **Account-Based Marketing (ABM)** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. LinkedIn + direct mail + SDR\n\nThis point matters because it connects directly to **Account-Based Marketing (ABM)** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Measure engagement per account\n\nThis point matters because it connects directly to **Account-Based Marketing (ABM)** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Sales alignment critical\n\nThis point matters because it connects directly to **Account-Based Marketing (ABM)** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Target named accounts with personalized campaigns — B2B. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Account-Based Marketing (ABM)** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Account-Based Marketing (ABM)** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Account-Based Marketing (ABM) means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Salesforce's** website or ads in another tab. As you read, note one place they already apply (or violate) **Account-Based Marketing (ABM)**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Account-Based Marketing (ABM) in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Pick 10 dream accounts; outline ABM tactics for one."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Account-Based Marketing (ABM)\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Account-Based Marketing (ABM) helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply account-based marketing (abm) to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Account-Based Marketing (ABM)**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Account-Based Marketing (ABM)\n\nPick 10 dream accounts; outline ABM tactics for one.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Salesforce**\n\n**Context:** Target named accounts with personalized campaigns — B2B.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Account-Based Marketing (ABM)** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Account-Based Marketing (ABM)** in the real world\n\n**Coca-Cola** tested AI-generated ads; **JPMorgan** used AI for ad copy variants.\n\n**ABM:** Terminus and 6sense help B2B target named accounts.\n\n**First-party data:** Apple's ATT shift forced Meta advertisers toward Conversions API.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Account-Based Marketing (ABM) clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Account-Based Marketing (ABM)\n\nPick 10 dream accounts; outline ABM tactics for one.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Account-Based Marketing (ABM) is best learned by…",
+        "question": "Which is the best real-world reference for Account-Based Marketing (ABM)?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Salesforce — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Tier 1 accounts custom\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Tier 1 accounts custom",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -209,95 +209,95 @@ export const advanced_emergingLessons: Lesson[] = [
     "track": "advanced-emerging",
     "level": "base",
     "order": 3,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Rapid experiment loops across product and marketing.",
     "objectives": [
-      "Define Growth Marketing and Growth Hacking clearly in your own words",
-      "Explain how Growth Marketing and Growth Hacking connects to funnel stages and business goals",
-      "Identify when teams apply Growth Marketing and Growth Hacking in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Growth Marketing and Growth Hacking in plain English with a real brand example",
+      "Apply Growth Marketing and Growth Hacking to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Growth Marketing and Growth Hacking?\n\n**Growth Marketing and Growth Hacking** is a core part of professional digital marketing. Rapid experiment loops across product and marketing.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- North star metric\n- ICE score prioritization\n- Viral loops and referrals\n- Cross-functional squad\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Rapid experiment loops across product and marketing. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Growth Marketing and Growth Hacking reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Growth Marketing and Growth Hacking when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Growth Marketing and Growth Hacking?\n\n**Growth Marketing and Growth Hacking** — Rapid experiment loops across product and marketing.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. North star metric\n\nThis point matters because it connects directly to **Growth Marketing and Growth Hacking** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. ICE score prioritization\n\nThis point matters because it connects directly to **Growth Marketing and Growth Hacking** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Viral loops and referrals\n\nThis point matters because it connects directly to **Growth Marketing and Growth Hacking** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Cross-functional squad\n\nThis point matters because it connects directly to **Growth Marketing and Growth Hacking** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Rapid experiment loops across product and marketing. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Growth Marketing and Growth Hacking** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Growth Marketing and Growth Hacking** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Growth Marketing and Growth Hacking means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Glossier's** website or ads in another tab. As you read, note one place they already apply (or violate) **Growth Marketing and Growth Hacking**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Growth Marketing and Growth Hacking in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Generate 10 growth ideas; ICE score top 3."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Growth Marketing and Growth Hacking\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Growth Marketing and Growth Hacking helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply growth marketing and growth hacking to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Growth Marketing and Growth Hacking**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Growth Marketing and Growth Hacking\n\nGenerate 10 growth ideas; ICE score top 3.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Glossier**\n\n**Context:** Rapid experiment loops across product and marketing.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Growth Marketing and Growth Hacking** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Growth Marketing and Growth Hacking** in the real world\n\n**Coca-Cola** tested AI-generated ads; **JPMorgan** used AI for ad copy variants.\n\n**ABM:** Terminus and 6sense help B2B target named accounts.\n\n**First-party data:** Apple's ATT shift forced Meta advertisers toward Conversions API.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Growth Marketing and Growth Hacking clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Growth Marketing and Growth Hacking\n\nGenerate 10 growth ideas; ICE score top 3.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Growth Marketing and Growth Hacking is best learned by…",
+        "question": "Which is the best real-world reference for Growth Marketing and Growth Hacking?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Glossier — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"North star metric\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "North star metric",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -310,95 +310,95 @@ export const advanced_emergingLessons: Lesson[] = [
     "track": "advanced-emerging",
     "level": "base",
     "order": 4,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Live chat and bots qualify leads 24/7.",
     "objectives": [
-      "Define Conversational Marketing and Chatbots clearly in your own words",
-      "Explain how Conversational Marketing and Chatbots connects to funnel stages and business goals",
-      "Identify when teams apply Conversational Marketing and Chatbots in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Conversational Marketing and Chatbots in plain English with a real brand example",
+      "Apply Conversational Marketing and Chatbots to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Conversational Marketing and Chatbots?\n\n**Conversational Marketing and Chatbots** is a core part of professional digital marketing. Live chat and bots qualify leads 24/7.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Qualify before human handoff\n- Train on FAQs\n- GDPR on chat data\n- Measure booked meetings\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Live chat and bots qualify leads 24/7. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Conversational Marketing and Chatbots reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Conversational Marketing and Chatbots when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Conversational Marketing and Chatbots?\n\n**Conversational Marketing and Chatbots** — Live chat and bots qualify leads 24/7.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Qualify before human handoff\n\nThis point matters because it connects directly to **Conversational Marketing and Chatbots** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Train on FAQs\n\nThis point matters because it connects directly to **Conversational Marketing and Chatbots** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. GDPR on chat data\n\nLegal compliance is not optional. One violation can mean fines, blocked emails, or ad account bans. Document consent and opt-out paths before you scale.\n\n#### 4. Measure booked meetings\n\nThis point matters because it connects directly to **Conversational Marketing and Chatbots** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Live chat and bots qualify leads 24/7. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Conversational Marketing and Chatbots** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Conversational Marketing and Chatbots** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Conversational Marketing and Chatbots means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Slack's** website or ads in another tab. As you read, note one place they already apply (or violate) **Conversational Marketing and Chatbots**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Conversational Marketing and Chatbots in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Write chatbot flow: 5 questions to book demo."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Conversational Marketing and Chatbots\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Conversational Marketing and Chatbots helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply conversational marketing and chatbots to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Conversational Marketing and Chatbots**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Conversational Marketing and Chatbots\n\nWrite chatbot flow: 5 questions to book demo.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Slack**\n\n**Context:** Live chat and bots qualify leads 24/7.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Conversational Marketing and Chatbots** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Conversational Marketing and Chatbots** in the real world\n\n**Coca-Cola** tested AI-generated ads; **JPMorgan** used AI for ad copy variants.\n\n**ABM:** Terminus and 6sense help B2B target named accounts.\n\n**First-party data:** Apple's ATT shift forced Meta advertisers toward Conversions API.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Conversational Marketing and Chatbots clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Conversational Marketing and Chatbots\n\nWrite chatbot flow: 5 questions to book demo.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Conversational Marketing and Chatbots is best learned by…",
+        "question": "Which is the best real-world reference for Conversational Marketing and Chatbots?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Slack — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Qualify before human handoff\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Qualify before human handoff",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -411,95 +411,95 @@ export const advanced_emergingLessons: Lesson[] = [
     "track": "advanced-emerging",
     "level": "base",
     "order": 5,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Dynamic web, email, ads using first-party data.",
     "objectives": [
-      "Define Personalization at Scale clearly in your own words",
-      "Explain how Personalization at Scale connects to funnel stages and business goals",
-      "Identify when teams apply Personalization at Scale in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Personalization at Scale in plain English with a real brand example",
+      "Apply Personalization at Scale to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Personalization at Scale?\n\n**Personalization at Scale** is a core part of professional digital marketing. Dynamic web, email, ads using first-party data.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Segments not creepy 1:1 fake\n- CDP unifies data\n- Test lift vs control\n- Cookie deprecation ready\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Dynamic web, email, ads using first-party data. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Personalization at Scale reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Personalization at Scale when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Personalization at Scale?\n\n**Personalization at Scale** — Dynamic web, email, ads using first-party data.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Segments not creepy 1:1 fake\n\nThis point matters because it connects directly to **Personalization at Scale** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. CDP unifies data\n\nThis point matters because it connects directly to **Personalization at Scale** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Test lift vs control\n\nThis point matters because it connects directly to **Personalization at Scale** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Cookie deprecation ready\n\nThis point matters because it connects directly to **Personalization at Scale** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Dynamic web, email, ads using first-party data. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Personalization at Scale** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Personalization at Scale** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Personalization at Scale means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Airbnb's** website or ads in another tab. As you read, note one place they already apply (or violate) **Personalization at Scale**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Personalization at Scale in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Plan 3 personalization rules for returning visitors."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Personalization at Scale\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Personalization at Scale helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply personalization at scale to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Personalization at Scale**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Personalization at Scale\n\nPlan 3 personalization rules for returning visitors.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real persona + ICP: **Notion** (B2B side)\n\n**ICP:** 50–500 employee tech companies, already using Slack, no unified wiki.\n\n**Persona — \"Operations lead Olivia\":**\n- **Goal:** One source of truth for team docs\n- **Pain:** Docs scattered in Drive, Confluence, Notion trials that failed\n- **Objection:** \"Another tool nobody will use\"\n- **Channel:** LinkedIn ads, productivity podcasts, template gallery SEO\n\n**Positioning line:** \"One workspace. Every doc, task, and wiki.\"\n\nMessaging came from **interviews**, not a conference room guess.",
+    "realWorld": "### Where you see **Personalization at Scale** in the real world\n\n**Coca-Cola** tested AI-generated ads; **JPMorgan** used AI for ad copy variants.\n\n**ABM:** Terminus and 6sense help B2B target named accounts.\n\n**First-party data:** Apple's ATT shift forced Meta advertisers toward Conversions API.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Personalization at Scale clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Personalization at Scale\n\nPlan 3 personalization rules for returning visitors.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Personalization at Scale is best learned by…",
+        "question": "Which is the best real-world reference for Personalization at Scale?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Airbnb — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Segments not creepy 1\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Segments not creepy 1:1 fake",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -512,95 +512,95 @@ export const advanced_emergingLessons: Lesson[] = [
     "track": "advanced-emerging",
     "level": "base",
     "order": 6,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "First-party data, server-side tracking, consent platforms.",
     "objectives": [
-      "Define Privacy and the Cookieless Future clearly in your own words",
-      "Explain how Privacy and the Cookieless Future connects to funnel stages and business goals",
-      "Identify when teams apply Privacy and the Cookieless Future in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Privacy and the Cookieless Future in plain English with a real brand example",
+      "Apply Privacy and the Cookieless Future to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Privacy and the Cookieless Future?\n\n**Privacy and the Cookieless Future** is a core part of professional digital marketing. First-party data, server-side tracking, consent platforms.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Chrome third-party cookie changes\n- Consent Management Platforms\n- Server-side GTM\n- Contextual ads return\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | First-party data, server-side tracking, consent platforms. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Privacy and the Cookieless Future reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Privacy and the Cookieless Future when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Privacy and the Cookieless Future?\n\n**Privacy and the Cookieless Future** — First-party data, server-side tracking, consent platforms.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Chrome third-party cookie changes\n\nThis point matters because it connects directly to **Privacy and the Cookieless Future** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Consent Management Platforms\n\nLegal compliance is not optional. One violation can mean fines, blocked emails, or ad account bans. Document consent and opt-out paths before you scale.\n\n#### 3. Server-side GTM\n\nThis point matters because it connects directly to **Privacy and the Cookieless Future** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Contextual ads return\n\nThis point matters because it connects directly to **Privacy and the Cookieless Future** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | First-party data, server-side tracking, consent platforms. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Privacy and the Cookieless Future** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Privacy and the Cookieless Future** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Privacy and the Cookieless Future means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Zoom's** website or ads in another tab. As you read, note one place they already apply (or violate) **Privacy and the Cookieless Future**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Privacy and the Cookieless Future in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Write first-party data collection plan post-cookies."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Privacy and the Cookieless Future\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Privacy and the Cookieless Future helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply privacy and the cookieless future to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Privacy and the Cookieless Future**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Privacy and the Cookieless Future\n\nWrite first-party data collection plan post-cookies.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Zoom**\n\n**Context:** First-party data, server-side tracking, consent platforms.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Privacy and the Cookieless Future** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Privacy and the Cookieless Future** in the real world\n\n**Coca-Cola** tested AI-generated ads; **JPMorgan** used AI for ad copy variants.\n\n**ABM:** Terminus and 6sense help B2B target named accounts.\n\n**First-party data:** Apple's ATT shift forced Meta advertisers toward Conversions API.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Privacy and the Cookieless Future clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Privacy and the Cookieless Future\n\nWrite first-party data collection plan post-cookies.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Privacy and the Cookieless Future is best learned by…",
+        "question": "Which is the best real-world reference for Privacy and the Cookieless Future?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Zoom — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Chrome third-party cookie changes\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Chrome third-party cookie changes",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -613,95 +613,95 @@ export const advanced_emergingLessons: Lesson[] = [
     "track": "advanced-emerging",
     "level": "base",
     "order": 7,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Experimental — NFTs, virtual events, new platforms.",
     "objectives": [
-      "Define Web3, Metaverse, and Emerging Channels clearly in your own words",
-      "Explain how Web3, Metaverse, and Emerging Channels connects to funnel stages and business goals",
-      "Identify when teams apply Web3, Metaverse, and Emerging Channels in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Web3, Metaverse, and Emerging Channels in plain English with a real brand example",
+      "Apply Web3, Metaverse, and Emerging Channels to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Web3, Metaverse, and Emerging Channels?\n\n**Web3, Metaverse, and Emerging Channels** is a core part of professional digital marketing. Experimental — NFTs, virtual events, new platforms.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Evaluate hype vs audience fit\n- Small pilots only\n- Brand risk on unproven tech\n- Measure like any campaign\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Experimental — NFTs, virtual events, new platforms. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Web3, Metaverse, and Emerging Channels reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Web3, Metaverse, and Emerging Channels when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Web3, Metaverse, and Emerging Channels?\n\n**Web3, Metaverse, and Emerging Channels** — Experimental — NFTs, virtual events, new platforms.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Evaluate hype vs audience fit\n\nThis point matters because it connects directly to **Web3, Metaverse, and Emerging Channels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Small pilots only\n\nThis point matters because it connects directly to **Web3, Metaverse, and Emerging Channels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Brand risk on unproven tech\n\nThis point matters because it connects directly to **Web3, Metaverse, and Emerging Channels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Measure like any campaign\n\nThis point matters because it connects directly to **Web3, Metaverse, and Emerging Channels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Experimental — NFTs, virtual events, new platforms. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Web3, Metaverse, and Emerging Channels** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Web3, Metaverse, and Emerging Channels** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Web3, Metaverse, and Emerging Channels means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Glossier's** website or ads in another tab. As you read, note one place they already apply (or violate) **Web3, Metaverse, and Emerging Channels**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Web3, Metaverse, and Emerging Channels in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Write go/no-go criteria for metaverse pilot."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Web3, Metaverse, and Emerging Channels\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Web3, Metaverse, and Emerging Channels helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply web3, metaverse, and emerging channels to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Web3, Metaverse, and Emerging Channels**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Web3, Metaverse, and Emerging Channels\n\nWrite go/no-go criteria for metaverse pilot.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Glossier**\n\n**Context:** Experimental — NFTs, virtual events, new platforms.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Web3, Metaverse, and Emerging Channels** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Web3, Metaverse, and Emerging Channels** in the real world\n\n**Coca-Cola** tested AI-generated ads; **JPMorgan** used AI for ad copy variants.\n\n**ABM:** Terminus and 6sense help B2B target named accounts.\n\n**First-party data:** Apple's ATT shift forced Meta advertisers toward Conversions API.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Web3, Metaverse, and Emerging Channels clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Web3, Metaverse, and Emerging Channels\n\nWrite go/no-go criteria for metaverse pilot.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Web3, Metaverse, and Emerging Channels is best learned by…",
+        "question": "Which is the best real-world reference for Web3, Metaverse, and Emerging Channels?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Glossier — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Evaluate hype vs audience fit\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Evaluate hype vs audience fit",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }

@@ -9,95 +9,95 @@ export const _strategy_brandingLessons = [
     "track": "strategy-branding",
     "level": "base",
     "order": 1,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Research → goals → audience → channels → plan → measure → optimize.",
     "objectives": [
-      "Define Building a Digital Marketing Strategy End-to-End clearly in your own words",
-      "Explain how Building a Digital Marketing Strategy End-to-End connects to funnel stages and business goals",
-      "Identify when teams apply Building a Digital Marketing Strategy End-to-End in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Building a Digital Marketing Strategy End-to-End in plain English with a real brand example",
+      "Apply Building a Digital Marketing Strategy End-to-End to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Building a Digital Marketing Strategy End-to-End?\n\n**Building a Digital Marketing Strategy End-to-End** is a core part of professional digital marketing. Research → goals → audience → channels → plan → measure → optimize.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Situation analysis first\n- Channel mix from STP\n- Quarterly roadmap\n- Resource and budget realistic\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Research → goals → audience → channels → plan → measure → optimize. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Building a Digital Marketing Strategy End-to-End reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Building a Digital Marketing Strategy End-to-End when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Building a Digital Marketing Strategy End-to-End?\n\n**Building a Digital Marketing Strategy End-to-End** — Research → goals → audience → channels → plan → measure → optimize.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Situation analysis first\n\nThis point matters because it connects directly to **Building a Digital Marketing Strategy End-to-End** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Channel mix from STP\n\nThis point matters because it connects directly to **Building a Digital Marketing Strategy End-to-End** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Quarterly roadmap\n\nThis point matters because it connects directly to **Building a Digital Marketing Strategy End-to-End** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Resource and budget realistic\n\nThis point matters because it connects directly to **Building a Digital Marketing Strategy End-to-End** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Research → goals → audience → channels → plan → measure → optimize. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Building a Digital Marketing Strategy End-to-End** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Building a Digital Marketing Strategy End-to-End** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Building a Digital Marketing Strategy End-to-End means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Spotify's** website or ads in another tab. As you read, note one place they already apply (or violate) **Building a Digital Marketing Strategy End-to-End**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Building a Digital Marketing Strategy End-to-End in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Write 1-page strategy summary for fictional D2C brand."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Building a Digital Marketing Strategy End-to-End\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Building a Digital Marketing Strategy End-to-End helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply building a digital marketing strategy end-to-end to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Building a Digital Marketing Strategy End-to-End**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Building a Digital Marketing Strategy End-to-End\n\nWrite 1-page strategy summary for fictional D2C brand.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Spotify**\n\n**Context:** Research → goals → audience → channels → plan → measure → optimize.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Building a Digital Marketing Strategy End-to-End** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Building a Digital Marketing Strategy End-to-End** in the real world\n\n**Apple** \"Think Different\" — positioning beats spec wars.\n\n**Old Spice** rebranded via viral video + integrated social response campaign.\n\n**Patagonia** brand voice (\"Don't buy this jacket\") builds trust that supports premium pricing.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Building a Digital Marketing Strategy End-to-End clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Building a Digital Marketing Strategy End-to-End\n\nWrite 1-page strategy summary for fictional D2C brand.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Building a Digital Marketing Strategy End-to-End is best learned by…",
+        "question": "Which is the best real-world reference for Building a Digital Marketing Strategy End-to-End?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Spotify — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Situation analysis first\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Situation analysis first",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -110,95 +110,95 @@ export const _strategy_brandingLessons = [
     "track": "strategy-branding",
     "level": "base",
     "order": 2,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Brand is perception; voice is how you sound consistently.",
     "objectives": [
-      "Define Branding, Brand Voice, and Positioning clearly in your own words",
-      "Explain how Branding, Brand Voice, and Positioning connects to funnel stages and business goals",
-      "Identify when teams apply Branding, Brand Voice, and Positioning in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Branding, Brand Voice, and Positioning in plain English with a real brand example",
+      "Apply Branding, Brand Voice, and Positioning to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Branding, Brand Voice, and Positioning?\n\n**Branding, Brand Voice, and Positioning** is a core part of professional digital marketing. Brand is perception; voice is how you sound consistently.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Voice chart: formal/casual, funny/serious\n- Visual identity basics\n- Positioning statement template\n- Internal brand guide\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Brand is perception; voice is how you sound consistently. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Branding, Brand Voice, and Positioning reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Branding, Brand Voice, and Positioning when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Branding, Brand Voice, and Positioning?\n\n**Branding, Brand Voice, and Positioning** — Brand is perception; voice is how you sound consistently.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Voice chart: formal/casual, funny/serious\n\nThis point matters because it connects directly to **Branding, Brand Voice, and Positioning** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Visual identity basics\n\nThis point matters because it connects directly to **Branding, Brand Voice, and Positioning** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Positioning statement template\n\nThis point matters because it connects directly to **Branding, Brand Voice, and Positioning** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Internal brand guide\n\nThis point matters because it connects directly to **Branding, Brand Voice, and Positioning** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Brand is perception; voice is how you sound consistently. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Branding, Brand Voice, and Positioning** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Branding, Brand Voice, and Positioning** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Branding, Brand Voice, and Positioning means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **HubSpot's** website or ads in another tab. As you read, note one place they already apply (or violate) **Branding, Brand Voice, and Positioning**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Branding, Brand Voice, and Positioning in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Create voice chart with 4 dimensions for tech startup."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Branding, Brand Voice, and Positioning\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Branding, Brand Voice, and Positioning helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply branding, brand voice, and positioning to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Branding, Brand Voice, and Positioning**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Branding, Brand Voice, and Positioning\n\nCreate voice chart with 4 dimensions for tech startup.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **HubSpot**\n\n**Context:** Brand is perception; voice is how you sound consistently.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Branding, Brand Voice, and Positioning** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Branding, Brand Voice, and Positioning** in the real world\n\n**Apple** \"Think Different\" — positioning beats spec wars.\n\n**Old Spice** rebranded via viral video + integrated social response campaign.\n\n**Patagonia** brand voice (\"Don't buy this jacket\") builds trust that supports premium pricing.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Branding, Brand Voice, and Positioning clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Branding, Brand Voice, and Positioning\n\nCreate voice chart with 4 dimensions for tech startup.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Branding, Brand Voice, and Positioning is best learned by…",
+        "question": "Which is the best real-world reference for Branding, Brand Voice, and Positioning?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "HubSpot — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Voice chart\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Voice chart: formal/casual, funny/serious",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -211,95 +211,95 @@ export const _strategy_brandingLessons = [
     "track": "strategy-branding",
     "level": "base",
     "order": 3,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Size market, map competitors, find white space.",
     "objectives": [
-      "Define Competitive and Market Analysis clearly in your own words",
-      "Explain how Competitive and Market Analysis connects to funnel stages and business goals",
-      "Identify when teams apply Competitive and Market Analysis in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Competitive and Market Analysis in plain English with a real brand example",
+      "Apply Competitive and Market Analysis to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Competitive and Market Analysis?\n\n**Competitive and Market Analysis** is a core part of professional digital marketing. Size market, map competitors, find white space.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- TAM SAM SOM\n- Competitor matrix features and price\n- SWOT per major rival\n- Trends PESTLE optional\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Size market, map competitors, find white space. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Competitive and Market Analysis reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Competitive and Market Analysis when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Competitive and Market Analysis?\n\n**Competitive and Market Analysis** — Size market, map competitors, find white space.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. TAM SAM SOM\n\nThis point matters because it connects directly to **Competitive and Market Analysis** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Competitor matrix features and price\n\nThis point matters because it connects directly to **Competitive and Market Analysis** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. SWOT per major rival\n\nThis point matters because it connects directly to **Competitive and Market Analysis** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Trends PESTLE optional\n\nThis point matters because it connects directly to **Competitive and Market Analysis** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Size market, map competitors, find white space. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Competitive and Market Analysis** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Competitive and Market Analysis** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Competitive and Market Analysis means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Airbnb's** website or ads in another tab. As you read, note one place they already apply (or violate) **Competitive and Market Analysis**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Competitive and Market Analysis in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Build competitor matrix with 5 rivals and 6 criteria."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Competitive and Market Analysis\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Competitive and Market Analysis helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply competitive and market analysis to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Competitive and Market Analysis**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Competitive and Market Analysis\n\nBuild competitor matrix with 5 rivals and 6 criteria.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Airbnb**\n\n**Context:** Size market, map competitors, find white space.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Competitive and Market Analysis** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Competitive and Market Analysis** in the real world\n\n**Apple** \"Think Different\" — positioning beats spec wars.\n\n**Old Spice** rebranded via viral video + integrated social response campaign.\n\n**Patagonia** brand voice (\"Don't buy this jacket\") builds trust that supports premium pricing.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Competitive and Market Analysis clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Competitive and Market Analysis\n\nBuild competitor matrix with 5 rivals and 6 criteria.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Competitive and Market Analysis is best learned by…",
+        "question": "Which is the best real-world reference for Competitive and Market Analysis?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Airbnb — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"TAM SAM SOM\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "TAM SAM SOM",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -312,95 +312,95 @@ export const _strategy_brandingLessons = [
     "track": "strategy-branding",
     "level": "base",
     "order": 4,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Split budget by goal, CAC targets, and test reserve.",
     "objectives": [
-      "Define Budgeting and Channel Allocation clearly in your own words",
-      "Explain how Budgeting and Channel Allocation connects to funnel stages and business goals",
-      "Identify when teams apply Budgeting and Channel Allocation in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Budgeting and Channel Allocation in plain English with a real brand example",
+      "Apply Budgeting and Channel Allocation to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Budgeting and Channel Allocation?\n\n**Budgeting and Channel Allocation** is a core part of professional digital marketing. Split budget by goal, CAC targets, and test reserve.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- 70/20/10 core/test/learn\n- CAC payback period\n- Seasonality\n- Reforecast monthly\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Split budget by goal, CAC targets, and test reserve. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Budgeting and Channel Allocation reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Budgeting and Channel Allocation when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Budgeting and Channel Allocation?\n\n**Budgeting and Channel Allocation** — Split budget by goal, CAC targets, and test reserve.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. 70/20/10 core/test/learn\n\nThis point matters because it connects directly to **Budgeting and Channel Allocation** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. CAC payback period\n\nThis point matters because it connects directly to **Budgeting and Channel Allocation** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Seasonality\n\nThis point matters because it connects directly to **Budgeting and Channel Allocation** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Reforecast monthly\n\nThis point matters because it connects directly to **Budgeting and Channel Allocation** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Split budget by goal, CAC targets, and test reserve. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Budgeting and Channel Allocation** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Budgeting and Channel Allocation** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Budgeting and Channel Allocation means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Spotify's** website or ads in another tab. As you read, note one place they already apply (or violate) **Budgeting and Channel Allocation**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Budgeting and Channel Allocation in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Allocate $10k/mo across 5 channels with %."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Budgeting and Channel Allocation\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Budgeting and Channel Allocation helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply budgeting and channel allocation to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Budgeting and Channel Allocation**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Budgeting and Channel Allocation\n\nAllocate $10k/mo across 5 channels with %.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Spotify**\n\n**Context:** Split budget by goal, CAC targets, and test reserve.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Budgeting and Channel Allocation** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Budgeting and Channel Allocation** in the real world\n\n**Apple** \"Think Different\" — positioning beats spec wars.\n\n**Old Spice** rebranded via viral video + integrated social response campaign.\n\n**Patagonia** brand voice (\"Don't buy this jacket\") builds trust that supports premium pricing.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Budgeting and Channel Allocation clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Budgeting and Channel Allocation\n\nAllocate $10k/mo across 5 channels with %.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Budgeting and Channel Allocation is best learned by…",
+        "question": "Which is the best real-world reference for Budgeting and Channel Allocation?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Spotify — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"70/20/10 core/test/learn\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "70/20/10 core/test/learn",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -413,95 +413,95 @@ export const _strategy_brandingLessons = [
     "track": "strategy-branding",
     "level": "base",
     "order": 5,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Brief, timeline, assets, approvals, launch checklist.",
     "objectives": [
-      "Define Campaign Planning and Project Management clearly in your own words",
-      "Explain how Campaign Planning and Project Management connects to funnel stages and business goals",
-      "Identify when teams apply Campaign Planning and Project Management in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Campaign Planning and Project Management in plain English with a real brand example",
+      "Apply Campaign Planning and Project Management to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Campaign Planning and Project Management?\n\n**Campaign Planning and Project Management** is a core part of professional digital marketing. Brief, timeline, assets, approvals, launch checklist.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Gantt or kanban\n- RACI roles\n- Creative rounds\n- Post-mortem template\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Brief, timeline, assets, approvals, launch checklist. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Campaign Planning and Project Management reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Campaign Planning and Project Management when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Campaign Planning and Project Management?\n\n**Campaign Planning and Project Management** — Brief, timeline, assets, approvals, launch checklist.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Gantt or kanban\n\nThis point matters because it connects directly to **Campaign Planning and Project Management** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. RACI roles\n\nThis point matters because it connects directly to **Campaign Planning and Project Management** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Creative rounds\n\nThis point matters because it connects directly to **Campaign Planning and Project Management** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Post-mortem template\n\nThis point matters because it connects directly to **Campaign Planning and Project Management** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Brief, timeline, assets, approvals, launch checklist. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Campaign Planning and Project Management** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Campaign Planning and Project Management** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Campaign Planning and Project Management means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Spotify's** website or ads in another tab. As you read, note one place they already apply (or violate) **Campaign Planning and Project Management**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Campaign Planning and Project Management in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Write campaign brief: objective, audience, channels, KPIs, dates."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Campaign Planning and Project Management\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Campaign Planning and Project Management helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply campaign planning and project management to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Campaign Planning and Project Management**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Campaign Planning and Project Management\n\nWrite campaign brief: objective, audience, channels, KPIs, dates.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Spotify**\n\n**Context:** Brief, timeline, assets, approvals, launch checklist.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Campaign Planning and Project Management** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Campaign Planning and Project Management** in the real world\n\n**Apple** \"Think Different\" — positioning beats spec wars.\n\n**Old Spice** rebranded via viral video + integrated social response campaign.\n\n**Patagonia** brand voice (\"Don't buy this jacket\") builds trust that supports premium pricing.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Campaign Planning and Project Management clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Campaign Planning and Project Management\n\nWrite campaign brief: objective, audience, channels, KPIs, dates.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Campaign Planning and Project Management is best learned by…",
+        "question": "Which is the best real-world reference for Campaign Planning and Project Management?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Spotify — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Gantt or kanban\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Gantt or kanban",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -514,95 +514,95 @@ export const _strategy_brandingLessons = [
     "track": "strategy-branding",
     "level": "base",
     "order": 6,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Same story across email, social, ads, PR — unified measurement.",
     "objectives": [
-      "Define Integrated Multi-Channel Campaigns clearly in your own words",
-      "Explain how Integrated Multi-Channel Campaigns connects to funnel stages and business goals",
-      "Identify when teams apply Integrated Multi-Channel Campaigns in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Integrated Multi-Channel Campaigns in plain English with a real brand example",
+      "Apply Integrated Multi-Channel Campaigns to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Integrated Multi-Channel Campaigns?\n\n**Integrated Multi-Channel Campaigns** is a core part of professional digital marketing. Same story across email, social, ads, PR — unified measurement.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Hero message one line\n- Channel-specific execution\n- UTM and dashboard\n- Retargeting ties it together\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Same story across email, social, ads, PR — unified measurement. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Integrated Multi-Channel Campaigns reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Integrated Multi-Channel Campaigns when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Integrated Multi-Channel Campaigns?\n\n**Integrated Multi-Channel Campaigns** — Same story across email, social, ads, PR — unified measurement.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Hero message one line\n\nThis point matters because it connects directly to **Integrated Multi-Channel Campaigns** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Channel-specific execution\n\nThis point matters because it connects directly to **Integrated Multi-Channel Campaigns** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. UTM and dashboard\n\nThis point matters because it connects directly to **Integrated Multi-Channel Campaigns** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Retargeting ties it together\n\nThis point matters because it connects directly to **Integrated Multi-Channel Campaigns** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Same story across email, social, ads, PR — unified measurement. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Integrated Multi-Channel Campaigns** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Integrated Multi-Channel Campaigns** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Integrated Multi-Channel Campaigns means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **McDonald's's** website or ads in another tab. As you read, note one place they already apply (or violate) **Integrated Multi-Channel Campaigns**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Integrated Multi-Channel Campaigns in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Design integrated launch for product: 6 touchpoints."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Integrated Multi-Channel Campaigns\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Integrated Multi-Channel Campaigns helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply integrated multi-channel campaigns to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Integrated Multi-Channel Campaigns**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Integrated Multi-Channel Campaigns\n\nDesign integrated launch for product: 6 touchpoints.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **McDonald's**\n\n**Context:** Same story across email, social, ads, PR — unified measurement.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Integrated Multi-Channel Campaigns** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Integrated Multi-Channel Campaigns** in the real world\n\n**Apple** \"Think Different\" — positioning beats spec wars.\n\n**Old Spice** rebranded via viral video + integrated social response campaign.\n\n**Patagonia** brand voice (\"Don't buy this jacket\") builds trust that supports premium pricing.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Integrated Multi-Channel Campaigns clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Integrated Multi-Channel Campaigns\n\nDesign integrated launch for product: 6 touchpoints.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Integrated Multi-Channel Campaigns is best learned by…",
+        "question": "Which is the best real-world reference for Integrated Multi-Channel Campaigns?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "McDonald's — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Hero message one line\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Hero message one line",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }

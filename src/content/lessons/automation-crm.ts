@@ -7,95 +7,95 @@ export const automation_crmLessons: Lesson[] = [
     "track": "automation-crm",
     "level": "base",
     "order": 1,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Software runs repetitive marketing tasks based on rules and behavior.",
     "objectives": [
-      "Define What Is Marketing Automation clearly in your own words",
-      "Explain how What Is Marketing Automation connects to funnel stages and business goals",
-      "Identify when teams apply What Is Marketing Automation in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain What Is Marketing Automation in plain English with a real brand example",
+      "Apply What Is Marketing Automation to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is What Is Marketing Automation?\n\n**What Is Marketing Automation** is a core part of professional digital marketing. Software runs repetitive marketing tasks based on rules and behavior.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Saves time on nurture and handoffs\n- Requires clean data\n- Start simple then complex\n- Aligns marketing and sales\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Software runs repetitive marketing tasks based on rules and behavior. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "What Is Marketing Automation reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply What Is Marketing Automation when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is What Is Marketing Automation?\n\n**What Is Marketing Automation** — Software runs repetitive marketing tasks based on rules and behavior.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Saves time on nurture and handoffs\n\nThis point matters because it connects directly to **What Is Marketing Automation** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Requires clean data\n\nThis point matters because it connects directly to **What Is Marketing Automation** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Start simple then complex\n\nThis point matters because it connects directly to **What Is Marketing Automation** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Aligns marketing and sales\n\nThis point matters because it connects directly to **What Is Marketing Automation** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Software runs repetitive marketing tasks based on rules and behavior. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**What Is Marketing Automation** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **What Is Marketing Automation** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what What Is Marketing Automation means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Slack's** website or ads in another tab. As you read, note one place they already apply (or violate) **What Is Marketing Automation**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain What Is Marketing Automation in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "List 5 tasks you'd automate for a B2B webinar funnel."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: What Is Marketing Automation\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How What Is Marketing Automation helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply what is marketing automation to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **What Is Marketing Automation**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — What Is Marketing Automation\n\nList 5 tasks you'd automate for a B2B webinar funnel.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Slack**\n\n**Context:** Software runs repetitive marketing tasks based on rules and behavior.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **What Is Marketing Automation** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **What Is Marketing Automation** in the real world\n\n**Salesforce + Pardot** power enterprise lead scoring for Fortune 500.\n\n**HubSpot** free CRM made automation accessible to SMB — MQL → SQL workflows built-in.\n\n**ActiveCampaign** popular with creators selling courses via tag-based automations.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — What Is Marketing Automation clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — What Is Marketing Automation\n\nList 5 tasks you'd automate for a B2B webinar funnel.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "What Is Marketing Automation is best learned by…",
+        "question": "Which is the best real-world reference for What Is Marketing Automation?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Slack — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Saves time on nurture and handoffs\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Saves time on nurture and handoffs",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -108,95 +108,95 @@ export const automation_crmLessons: Lesson[] = [
     "track": "automation-crm",
     "level": "base",
     "order": 2,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Points for fit and behavior; threshold for sales-ready.",
     "objectives": [
-      "Define Lead Scoring and Qualification clearly in your own words",
-      "Explain how Lead Scoring and Qualification connects to funnel stages and business goals",
-      "Identify when teams apply Lead Scoring and Qualification in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Lead Scoring and Qualification in plain English with a real brand example",
+      "Apply Lead Scoring and Qualification to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Lead Scoring and Qualification?\n\n**Lead Scoring and Qualification** is a core part of professional digital marketing. Points for fit and behavior; threshold for sales-ready.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Fit: title, company size\n- Behavior: pricing page, demo request\n- Negative scores for bad fit\n- Review model quarterly\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Points for fit and behavior; threshold for sales-ready. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Lead Scoring and Qualification reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Lead Scoring and Qualification when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Lead Scoring and Qualification?\n\n**Lead Scoring and Qualification** — Points for fit and behavior; threshold for sales-ready.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Fit: title, company size\n\nThis point matters because it connects directly to **Lead Scoring and Qualification** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Behavior: pricing page, demo request\n\nThis point matters because it connects directly to **Lead Scoring and Qualification** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Negative scores for bad fit\n\nThis point matters because it connects directly to **Lead Scoring and Qualification** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Review model quarterly\n\nThis point matters because it connects directly to **Lead Scoring and Qualification** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Points for fit and behavior; threshold for sales-ready. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Lead Scoring and Qualification** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Lead Scoring and Qualification** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Lead Scoring and Qualification means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **HubSpot's** website or ads in another tab. As you read, note one place they already apply (or violate) **Lead Scoring and Qualification**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Lead Scoring and Qualification in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Build simple lead score model with 10 rules."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Lead Scoring and Qualification\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Lead Scoring and Qualification helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply lead scoring and qualification to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Lead Scoring and Qualification**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Lead Scoring and Qualification\n\nBuild simple lead score model with 10 rules.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **HubSpot**\n\n**Context:** Points for fit and behavior; threshold for sales-ready.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Lead Scoring and Qualification** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Lead Scoring and Qualification** in the real world\n\n**Salesforce + Pardot** power enterprise lead scoring for Fortune 500.\n\n**HubSpot** free CRM made automation accessible to SMB — MQL → SQL workflows built-in.\n\n**ActiveCampaign** popular with creators selling courses via tag-based automations.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Lead Scoring and Qualification clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Lead Scoring and Qualification\n\nBuild simple lead score model with 10 rules.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Lead Scoring and Qualification is best learned by…",
+        "question": "Which is the best real-world reference for Lead Scoring and Qualification?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "HubSpot — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Fit\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Fit: title, company size",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -209,95 +209,95 @@ export const automation_crmLessons: Lesson[] = [
     "track": "automation-crm",
     "level": "base",
     "order": 3,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Marketing Qualified Lead ready for nurture/sales; Sales Qualified Lead accepted by sales.",
     "objectives": [
-      "Define MQL vs SQL Definitions clearly in your own words",
-      "Explain how MQL vs SQL Definitions connects to funnel stages and business goals",
-      "Identify when teams apply MQL vs SQL Definitions in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain MQL vs SQL Definitions in plain English with a real brand example",
+      "Apply MQL vs SQL Definitions to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is MQL vs SQL Definitions?\n\n**MQL vs SQL Definitions** is a core part of professional digital marketing. Marketing Qualified Lead ready for nurture/sales; Sales Qualified Lead accepted by sales.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- SLA between teams\n- Shared definitions documented\n- Rejection feedback loop\n- Different funnels per product\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Marketing Qualified Lead ready for nurture/sales; Sales Qualified Lead accepted by sales. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "MQL vs SQL Definitions reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply MQL vs SQL Definitions when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is MQL vs SQL Definitions?\n\n**MQL vs SQL Definitions** — Marketing Qualified Lead ready for nurture/sales; Sales Qualified Lead accepted by sales.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. SLA between teams\n\nThis point matters because it connects directly to **MQL vs SQL Definitions** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Shared definitions documented\n\nThis point matters because it connects directly to **MQL vs SQL Definitions** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Rejection feedback loop\n\nThis point matters because it connects directly to **MQL vs SQL Definitions** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Different funnels per product\n\nThis point matters because it connects directly to **MQL vs SQL Definitions** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Marketing Qualified Lead ready for nurture/sales; Sales Qualified Lead accepted by sales. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**MQL vs SQL Definitions** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **MQL vs SQL Definitions** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what MQL vs SQL Definitions means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Zoom's** website or ads in another tab. As you read, note one place they already apply (or violate) **MQL vs SQL Definitions**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain MQL vs SQL Definitions in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Write MQL and SQL criteria for $5k/mo software."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: MQL vs SQL Definitions\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How MQL vs SQL Definitions helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply mql vs sql definitions to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **MQL vs SQL Definitions**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — MQL vs SQL Definitions\n\nWrite MQL and SQL criteria for $5k/mo software.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Zoom**\n\n**Context:** Marketing Qualified Lead ready for nurture/sales; Sales Qualified Lead accepted by sales.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **MQL vs SQL Definitions** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **MQL vs SQL Definitions** in the real world\n\n**Salesforce + Pardot** power enterprise lead scoring for Fortune 500.\n\n**HubSpot** free CRM made automation accessible to SMB — MQL → SQL workflows built-in.\n\n**ActiveCampaign** popular with creators selling courses via tag-based automations.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — MQL vs SQL Definitions clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — MQL vs SQL Definitions\n\nWrite MQL and SQL criteria for $5k/mo software.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "MQL vs SQL Definitions is best learned by…",
+        "question": "Which is the best real-world reference for MQL vs SQL Definitions?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Zoom — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"SLA between teams\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "SLA between teams",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -310,95 +310,95 @@ export const automation_crmLessons: Lesson[] = [
     "track": "automation-crm",
     "level": "base",
     "order": 4,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "If contact does X, send Y, notify sales, update field.",
     "objectives": [
-      "Define Workflows and Triggered Campaigns clearly in your own words",
-      "Explain how Workflows and Triggered Campaigns connects to funnel stages and business goals",
-      "Identify when teams apply Workflows and Triggered Campaigns in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Workflows and Triggered Campaigns in plain English with a real brand example",
+      "Apply Workflows and Triggered Campaigns to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Workflows and Triggered Campaigns?\n\n**Workflows and Triggered Campaigns** is a core part of professional digital marketing. If contact does X, send Y, notify sales, update field.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Delays and goal steps\n- Suppression for customers\n- Test with internal contacts\n- Monitor enrollment caps\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | If contact does X, send Y, notify sales, update field. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Workflows and Triggered Campaigns reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Workflows and Triggered Campaigns when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Workflows and Triggered Campaigns?\n\n**Workflows and Triggered Campaigns** — If contact does X, send Y, notify sales, update field.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Delays and goal steps\n\nThis point matters because it connects directly to **Workflows and Triggered Campaigns** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Suppression for customers\n\nThis point matters because it connects directly to **Workflows and Triggered Campaigns** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Test with internal contacts\n\nThis point matters because it connects directly to **Workflows and Triggered Campaigns** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Monitor enrollment caps\n\nThis point matters because it connects directly to **Workflows and Triggered Campaigns** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | If contact does X, send Y, notify sales, update field. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Workflows and Triggered Campaigns** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Workflows and Triggered Campaigns** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Workflows and Triggered Campaigns means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Slack's** website or ads in another tab. As you read, note one place they already apply (or violate) **Workflows and Triggered Campaigns**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Workflows and Triggered Campaigns in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Draw workflow: form submit → 3 emails → sales task."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Workflows and Triggered Campaigns\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Workflows and Triggered Campaigns helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply workflows and triggered campaigns to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Workflows and Triggered Campaigns**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Workflows and Triggered Campaigns\n\nDraw workflow: form submit → 3 emails → sales task.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Slack**\n\n**Context:** If contact does X, send Y, notify sales, update field.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Workflows and Triggered Campaigns** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Workflows and Triggered Campaigns** in the real world\n\n**Salesforce + Pardot** power enterprise lead scoring for Fortune 500.\n\n**HubSpot** free CRM made automation accessible to SMB — MQL → SQL workflows built-in.\n\n**ActiveCampaign** popular with creators selling courses via tag-based automations.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Workflows and Triggered Campaigns clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Workflows and Triggered Campaigns\n\nDraw workflow: form submit → 3 emails → sales task.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Workflows and Triggered Campaigns is best learned by…",
+        "question": "Which is the best real-world reference for Workflows and Triggered Campaigns?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Slack — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Delays and goal steps\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Delays and goal steps",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -411,95 +411,95 @@ export const automation_crmLessons: Lesson[] = [
     "track": "automation-crm",
     "level": "base",
     "order": 5,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Single customer record: marketing, sales, support.",
     "objectives": [
-      "Define CRM Fundamentals and Integration clearly in your own words",
-      "Explain how CRM Fundamentals and Integration connects to funnel stages and business goals",
-      "Identify when teams apply CRM Fundamentals and Integration in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain CRM Fundamentals and Integration in plain English with a real brand example",
+      "Apply CRM Fundamentals and Integration to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is CRM Fundamentals and Integration?\n\n**CRM Fundamentals and Integration** is a core part of professional digital marketing. Single customer record: marketing, sales, support.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- HubSpot, Salesforce, Pipedrive roles\n- Sync forms and ads leads\n- Duplicate management\n- Pipeline stages mirror journey\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Single customer record: marketing, sales, support. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "CRM Fundamentals and Integration reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply CRM Fundamentals and Integration when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is CRM Fundamentals and Integration?\n\n**CRM Fundamentals and Integration** — Single customer record: marketing, sales, support.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. HubSpot, Salesforce, Pipedrive roles\n\nThis point matters because it connects directly to **CRM Fundamentals and Integration** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Sync forms and ads leads\n\nThis point matters because it connects directly to **CRM Fundamentals and Integration** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Duplicate management\n\nThis point matters because it connects directly to **CRM Fundamentals and Integration** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Pipeline stages mirror journey\n\nThis point matters because it connects directly to **CRM Fundamentals and Integration** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Single customer record: marketing, sales, support. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**CRM Fundamentals and Integration** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **CRM Fundamentals and Integration** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what CRM Fundamentals and Integration means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Zoom's** website or ads in another tab. As you read, note one place they already apply (or violate) **CRM Fundamentals and Integration**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain CRM Fundamentals and Integration in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Map CRM fields needed for lead from ad to close."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: CRM Fundamentals and Integration\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How CRM Fundamentals and Integration helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply crm fundamentals and integration to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **CRM Fundamentals and Integration**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — CRM Fundamentals and Integration\n\nMap CRM fields needed for lead from ad to close.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Zoom**\n\n**Context:** Single customer record: marketing, sales, support.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **CRM Fundamentals and Integration** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **CRM Fundamentals and Integration** in the real world\n\n**Salesforce + Pardot** power enterprise lead scoring for Fortune 500.\n\n**HubSpot** free CRM made automation accessible to SMB — MQL → SQL workflows built-in.\n\n**ActiveCampaign** popular with creators selling courses via tag-based automations.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — CRM Fundamentals and Integration clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — CRM Fundamentals and Integration\n\nMap CRM fields needed for lead from ad to close.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "CRM Fundamentals and Integration is best learned by…",
+        "question": "Which is the best real-world reference for CRM Fundamentals and Integration?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Zoom — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"HubSpot, Salesforce, Pipedrive roles\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "HubSpot, Salesforce, Pipedrive roles",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -512,95 +512,95 @@ export const automation_crmLessons: Lesson[] = [
     "track": "automation-crm",
     "level": "base",
     "order": 6,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Long-term education until timing right.",
     "objectives": [
-      "Define Drip and Nurture Campaigns in CRM clearly in your own words",
-      "Explain how Drip and Nurture Campaigns in CRM connects to funnel stages and business goals",
-      "Identify when teams apply Drip and Nurture Campaigns in CRM in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Drip and Nurture Campaigns in CRM in plain English with a real brand example",
+      "Apply Drip and Nurture Campaigns in CRM to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Drip and Nurture Campaigns in CRM?\n\n**Drip and Nurture Campaigns in CRM** is a core part of professional digital marketing. Long-term education until timing right.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Content tracks by persona\n- Sales triggers on score\n- Pause on reply\n- Measure influenced revenue\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Long-term education until timing right. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Drip and Nurture Campaigns in CRM reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Drip and Nurture Campaigns in CRM when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Drip and Nurture Campaigns in CRM?\n\n**Drip and Nurture Campaigns in CRM** — Long-term education until timing right.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Content tracks by persona\n\nThis point matters because it connects directly to **Drip and Nurture Campaigns in CRM** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Sales triggers on score\n\nThis point matters because it connects directly to **Drip and Nurture Campaigns in CRM** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Pause on reply\n\nThis point matters because it connects directly to **Drip and Nurture Campaigns in CRM** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Measure influenced revenue\n\nThis point matters because it connects directly to **Drip and Nurture Campaigns in CRM** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Long-term education until timing right. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Drip and Nurture Campaigns in CRM** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Drip and Nurture Campaigns in CRM** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Drip and Nurture Campaigns in CRM means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Salesforce's** website or ads in another tab. As you read, note one place they already apply (or violate) **Drip and Nurture Campaigns in CRM**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Drip and Nurture Campaigns in CRM in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Outline 90-day nurture for CFO persona."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Drip and Nurture Campaigns in CRM\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Drip and Nurture Campaigns in CRM helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply drip and nurture campaigns in crm to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Drip and Nurture Campaigns in CRM**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Drip and Nurture Campaigns in CRM\n\nOutline 90-day nurture for CFO persona.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real email sequence: **Dollar Shave Club** welcome flow (simplified)\n\n1. **Email 1 (immediate):** \"Your first razor ships free\" — confirms purchase, sets tone\n2. **Email 2 (day 2):** \"How to get the closest shave\" — value, no sell\n3. **Email 3 (day 5):** \"Add shave butter?\" — soft cross-sell\n4. **Email 4 (day 10):** Social proof + referral link\n5. **Email 5 (day 14):** Subscription reminder before rebill\n\n**Benchmark:** Welcome series often drives **30–50% of email revenue** for e-commerce despite being only a few emails.",
+    "realWorld": "### Where you see **Drip and Nurture Campaigns in CRM** in the real world\n\n**Salesforce + Pardot** power enterprise lead scoring for Fortune 500.\n\n**HubSpot** free CRM made automation accessible to SMB — MQL → SQL workflows built-in.\n\n**ActiveCampaign** popular with creators selling courses via tag-based automations.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Drip and Nurture Campaigns in CRM clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Drip and Nurture Campaigns in CRM\n\nOutline 90-day nurture for CFO persona.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Drip and Nurture Campaigns in CRM is best learned by…",
+        "question": "Which is the best real-world reference for Drip and Nurture Campaigns in CRM?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Salesforce — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Content tracks by persona\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Content tracks by persona",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -613,95 +613,95 @@ export const automation_crmLessons: Lesson[] = [
     "track": "automation-crm",
     "level": "base",
     "order": 7,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "HubSpot, Marketo, ActiveCampaign, Salesforce Marketing Cloud.",
     "objectives": [
-      "Define Marketing Automation Platforms Compared clearly in your own words",
-      "Explain how Marketing Automation Platforms Compared connects to funnel stages and business goals",
-      "Identify when teams apply Marketing Automation Platforms Compared in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Marketing Automation Platforms Compared in plain English with a real brand example",
+      "Apply Marketing Automation Platforms Compared to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Marketing Automation Platforms Compared?\n\n**Marketing Automation Platforms Compared** is a core part of professional digital marketing. HubSpot, Marketo, ActiveCampaign, Salesforce Marketing Cloud.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- SMB vs enterprise\n- Native CRM vs integration\n- Pricing models\n- Certification paths\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | HubSpot, Marketo, ActiveCampaign, Salesforce Marketing Cloud. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Marketing Automation Platforms Compared reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Marketing Automation Platforms Compared when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Marketing Automation Platforms Compared?\n\n**Marketing Automation Platforms Compared** — HubSpot, Marketo, ActiveCampaign, Salesforce Marketing Cloud.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. SMB vs enterprise\n\nThis point matters because it connects directly to **Marketing Automation Platforms Compared** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Native CRM vs integration\n\nThis point matters because it connects directly to **Marketing Automation Platforms Compared** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Pricing models\n\nThis point matters because it connects directly to **Marketing Automation Platforms Compared** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Certification paths\n\nThis point matters because it connects directly to **Marketing Automation Platforms Compared** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | HubSpot, Marketo, ActiveCampaign, Salesforce Marketing Cloud. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Marketing Automation Platforms Compared** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Marketing Automation Platforms Compared** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Marketing Automation Platforms Compared means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Notion's** website or ads in another tab. As you read, note one place they already apply (or violate) **Marketing Automation Platforms Compared**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Marketing Automation Platforms Compared in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Pick platform for 50-person B2B and justify in 1 page."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Marketing Automation Platforms Compared\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Marketing Automation Platforms Compared helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply marketing automation platforms compared to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Marketing Automation Platforms Compared**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Marketing Automation Platforms Compared\n\nPick platform for 50-person B2B and justify in 1 page.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Notion**\n\n**Context:** HubSpot, Marketo, ActiveCampaign, Salesforce Marketing Cloud.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Marketing Automation Platforms Compared** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Marketing Automation Platforms Compared** in the real world\n\n**Salesforce + Pardot** power enterprise lead scoring for Fortune 500.\n\n**HubSpot** free CRM made automation accessible to SMB — MQL → SQL workflows built-in.\n\n**ActiveCampaign** popular with creators selling courses via tag-based automations.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Marketing Automation Platforms Compared clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Marketing Automation Platforms Compared\n\nPick platform for 50-person B2B and justify in 1 page.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Marketing Automation Platforms Compared is best learned by…",
+        "question": "Which is the best real-world reference for Marketing Automation Platforms Compared?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Notion — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"SMB vs enterprise\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "SMB vs enterprise",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }

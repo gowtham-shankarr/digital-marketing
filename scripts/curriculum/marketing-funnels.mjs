@@ -9,95 +9,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 1,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "A funnel visualizes how many people move from awareness to purchase and where they drop off.",
     "objectives": [
-      "Define What Is a Marketing Funnel and Why It Matters clearly in your own words",
-      "Explain how What Is a Marketing Funnel and Why It Matters connects to funnel stages and business goals",
-      "Identify when teams apply What Is a Marketing Funnel and Why It Matters in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain What Is a Marketing Funnel and Why It Matters in plain English with a real brand example",
+      "Apply What Is a Marketing Funnel and Why It Matters to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is What Is a Marketing Funnel and Why It Matters?\n\n**What Is a Marketing Funnel and Why It Matters** is a core part of professional digital marketing. A funnel visualizes how many people move from awareness to purchase and where they drop off.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Wide top (many visitors) narrows to buyers\n- Each stage needs different content and CTAs\n- Funnels expose leaks before you scale ad spend\n- Works for e-commerce, SaaS, services\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | A funnel visualizes how many people move from awareness to purchase and where they drop off. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "What Is a Marketing Funnel and Why It Matters reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply What Is a Marketing Funnel and Why It Matters when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is What Is a Marketing Funnel and Why It Matters?\n\n**What Is a Marketing Funnel and Why It Matters** — A funnel visualizes how many people move from awareness to purchase and where they drop off.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Wide top (many visitors) narrows to buyers\n\nThis point matters because it connects directly to **What Is a Marketing Funnel and Why It Matters** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Each stage needs different content and CTAs\n\nThis point matters because it connects directly to **What Is a Marketing Funnel and Why It Matters** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Funnels expose leaks before you scale ad spend\n\nThis point matters because it connects directly to **What Is a Marketing Funnel and Why It Matters** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Works for e-commerce, SaaS, services\n\nThis point matters because it connects directly to **What Is a Marketing Funnel and Why It Matters** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | A funnel visualizes how many people move from awareness to purchase and where they drop off. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**What Is a Marketing Funnel and Why It Matters** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **What Is a Marketing Funnel and Why It Matters** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what What Is a Marketing Funnel and Why It Matters means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Allbirds's** website or ads in another tab. As you read, note one place they already apply (or violate) **What Is a Marketing Funnel and Why It Matters**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain What Is a Marketing Funnel and Why It Matters in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Sketch a 4-stage funnel for a webinar product; label metrics at each stage."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: What Is a Marketing Funnel and Why It Matters\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How What Is a Marketing Funnel and Why It Matters helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply what is a marketing funnel and why it matters to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **What Is a Marketing Funnel and Why It Matters**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — What Is a Marketing Funnel and Why It Matters\n\nSketch a 4-stage funnel for a webinar product; label metrics at each stage.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real funnel snapshot: **Spotify** Free → Premium\n\n| Stage | User behavior | Spotify tactic |\n|-------|---------------|----------------|\n| **TOFU** | Hears about free music | Social ads, podcasts, word of mouth |\n| **MOFU** | Uses free tier daily | Playlists, Discover Weekly (habit) |\n| **BOFU** | Hits ads / offline limit | \"3 months Premium for $0.99\" offer |\n| **Retention** | Stays subscribed | Wrapped, family plan, podcasts |\n\n**Numbers mindset:** If 100M free users and 2% convert to paid monthly, that's 2M new subscribers — funnel math at scale.",
+    "realWorld": "### Where you see **What Is a Marketing Funnel and Why It Matters** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — What Is a Marketing Funnel and Why It Matters clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — What Is a Marketing Funnel and Why It Matters\n\nSketch a 4-stage funnel for a webinar product; label metrics at each stage.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "What Is a Marketing Funnel and Why It Matters is best learned by…",
+        "question": "Which is the best real-world reference for What Is a Marketing Funnel and Why It Matters?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Allbirds — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Wide top (many visitors) narrows to buyers\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Wide top (many visitors) narrows to buyers",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -110,95 +110,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 2,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Top = awareness; Middle = consideration; Bottom = conversion and purchase intent.",
     "objectives": [
-      "Define TOFU, MOFU, and BOFU Explained clearly in your own words",
-      "Explain how TOFU, MOFU, and BOFU Explained connects to funnel stages and business goals",
-      "Identify when teams apply TOFU, MOFU, and BOFU Explained in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain TOFU, MOFU, and BOFU Explained in plain English with a real brand example",
+      "Apply TOFU, MOFU, and BOFU Explained to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is TOFU, MOFU, and BOFU Explained?\n\n**TOFU, MOFU, and BOFU Explained** is a core part of professional digital marketing. Top = awareness; Middle = consideration; Bottom = conversion and purchase intent.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- TOFU: blogs, social, ads — educate, don't hard sell\n- MOFU: comparisons, case studies, email nurture\n- BOFU: demos, trials, discounts, sales calls\n- Message mismatch causes drop-off\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Top = awareness; Middle = consideration; Bottom = conversion and purchase intent. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "TOFU, MOFU, and BOFU Explained reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply TOFU, MOFU, and BOFU Explained when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is TOFU, MOFU, and BOFU Explained?\n\n**TOFU, MOFU, and BOFU Explained** — Top = awareness; Middle = consideration; Bottom = conversion and purchase intent.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. TOFU: blogs, social, ads\n\neducate, don't hard sell\n\n#### 2. MOFU: comparisons, case studies, email nurture\n\nThis point matters because it connects directly to **TOFU, MOFU, and BOFU Explained** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. BOFU: demos, trials, discounts, sales calls\n\nThis point matters because it connects directly to **TOFU, MOFU, and BOFU Explained** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Message mismatch causes drop-off\n\nThis point matters because it connects directly to **TOFU, MOFU, and BOFU Explained** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Top = awareness; Middle = consideration; Bottom = conversion and purchase intent. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**TOFU, MOFU, and BOFU Explained** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **TOFU, MOFU, and BOFU Explained** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what TOFU, MOFU, and BOFU Explained means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Nike's** website or ads in another tab. As you read, note one place they already apply (or violate) **TOFU, MOFU, and BOFU Explained**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain TOFU, MOFU, and BOFU Explained in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Assign 3 content pieces you know to TOFU/MOFU/BOFU for a CRM tool."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: TOFU, MOFU, and BOFU Explained\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How TOFU, MOFU, and BOFU Explained helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply tofu, mofu, and bofu explained to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **TOFU, MOFU, and BOFU Explained**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — TOFU, MOFU, and BOFU Explained\n\nAssign 3 content pieces you know to TOFU/MOFU/BOFU for a CRM tool.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real funnel snapshot: **Spotify** Free → Premium\n\n| Stage | User behavior | Spotify tactic |\n|-------|---------------|----------------|\n| **TOFU** | Hears about free music | Social ads, podcasts, word of mouth |\n| **MOFU** | Uses free tier daily | Playlists, Discover Weekly (habit) |\n| **BOFU** | Hits ads / offline limit | \"3 months Premium for $0.99\" offer |\n| **Retention** | Stays subscribed | Wrapped, family plan, podcasts |\n\n**Numbers mindset:** If 100M free users and 2% convert to paid monthly, that's 2M new subscribers — funnel math at scale.",
+    "realWorld": "### Where you see **TOFU, MOFU, and BOFU Explained** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — TOFU, MOFU, and BOFU Explained clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — TOFU, MOFU, and BOFU Explained\n\nAssign 3 content pieces you know to TOFU/MOFU/BOFU for a CRM tool.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "TOFU, MOFU, and BOFU Explained is best learned by…",
+        "question": "Which is the best real-world reference for TOFU, MOFU, and BOFU Explained?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Nike — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"TOFU\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "TOFU: blogs, social, ads — educate, don't hard sell",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -211,95 +211,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 3,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Attention → Interest → Desire → Action — classic persuasion sequence for ads and landing pages.",
     "objectives": [
-      "Define The AIDA Model clearly in your own words",
-      "Explain how The AIDA Model connects to funnel stages and business goals",
-      "Identify when teams apply The AIDA Model in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain The AIDA Model in plain English with a real brand example",
+      "Apply The AIDA Model to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is The AIDA Model?\n\n**The AIDA Model** is a core part of professional digital marketing. Attention → Interest → Desire → Action — classic persuasion sequence for ads and landing pages.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Attention: hook in headline or visual\n- Interest: benefits and relevance\n- Desire: proof, emotion, urgency\n- Action: clear CTA and low friction\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Attention → Interest → Desire → Action — classic persuasion sequence for ads and landing pages. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "The AIDA Model reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply The AIDA Model when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is The AIDA Model?\n\n**The AIDA Model** — Attention → Interest → Desire → Action — classic persuasion sequence for ads and landing pages.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Attention: hook in headline or visual\n\nThis point matters because it connects directly to **The AIDA Model** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Interest: benefits and relevance\n\nThis point matters because it connects directly to **The AIDA Model** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Desire: proof, emotion, urgency\n\nThis point matters because it connects directly to **The AIDA Model** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Action: clear CTA and low friction\n\nThis point matters because it connects directly to **The AIDA Model** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Attention → Interest → Desire → Action — classic persuasion sequence for ads and landing pages. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**The AIDA Model** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **The AIDA Model** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what The AIDA Model means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Allbirds's** website or ads in another tab. As you read, note one place they already apply (or violate) **The AIDA Model**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain The AIDA Model in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Rewrite a weak product blurb using AIDA structure."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: The AIDA Model\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How The AIDA Model helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply the aida model to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **The AIDA Model**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — The AIDA Model\n\nRewrite a weak product blurb using AIDA structure.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real ad breakdown: AIDA on a Allbirds product launch\n\n**Attention:** Video opens on a close-up problem — \"Your old shoes are killing your knees.\" (pattern interrupt in first 2 seconds)\n\n**Interest:** \"Our lab-tested foam reduces impact by 32%.\" (specific benefit, not fluff)\n\n**Desire:** Athlete testimonial + \"50,000 5-star reviews\" + limited color drop. (proof + scarcity)\n\n**Action:** \"Shop the drop — free returns for 30 days.\" (clear CTA, risk reversal)\n\n**Result (public case pattern):** DTC brands using structured AIDA on Meta often see **20–40% higher click-to-purchase** vs. generic product slideshows — because each line has a job.",
+    "realWorld": "### Where you see **The AIDA Model** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — The AIDA Model clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — The AIDA Model\n\nRewrite a weak product blurb using AIDA structure.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "The AIDA Model is best learned by…",
+        "question": "Which is the best real-world reference for The AIDA Model?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Allbirds — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Attention\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Attention: hook in headline or visual",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -312,95 +312,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 4,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Acquisition, Activation, Retention, Referral, Revenue — startup growth lens.",
     "objectives": [
-      "Define AARRR Pirate Metrics Framework clearly in your own words",
-      "Explain how AARRR Pirate Metrics Framework connects to funnel stages and business goals",
-      "Identify when teams apply AARRR Pirate Metrics Framework in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain AARRR Pirate Metrics Framework in plain English with a real brand example",
+      "Apply AARRR Pirate Metrics Framework to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is AARRR Pirate Metrics Framework?\n\n**AARRR Pirate Metrics Framework** is a core part of professional digital marketing. Acquisition, Activation, Retention, Referral, Revenue — startup growth lens.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Acquisition: how users find you\n- Activation: first value moment (aha)\n- Retention: they come back\n- Referral: they invite others\n- Revenue: monetization\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Acquisition, Activation, Retention, Referral, Revenue — startup growth lens. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "AARRR Pirate Metrics Framework reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply AARRR Pirate Metrics Framework when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is AARRR Pirate Metrics Framework?\n\n**AARRR Pirate Metrics Framework** — Acquisition, Activation, Retention, Referral, Revenue — startup growth lens.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Acquisition: how users find you\n\nThis point matters because it connects directly to **AARRR Pirate Metrics Framework** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Activation: first value moment (aha)\n\nThis point matters because it connects directly to **AARRR Pirate Metrics Framework** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Retention: they come back\n\nThis point matters because it connects directly to **AARRR Pirate Metrics Framework** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Referral: they invite others\n\nThis point matters because it connects directly to **AARRR Pirate Metrics Framework** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 5. Revenue: monetization\n\nThis point matters because it connects directly to **AARRR Pirate Metrics Framework** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Acquisition, Activation, Retention, Referral, Revenue — startup growth lens. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**AARRR Pirate Metrics Framework** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **AARRR Pirate Metrics Framework** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what AARRR Pirate Metrics Framework means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Allbirds's** website or ads in another tab. As you read, note one place they already apply (or violate) **AARRR Pirate Metrics Framework**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain AARRR Pirate Metrics Framework in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "For a mobile app, define one metric per AARRR letter."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: AARRR Pirate Metrics Framework\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How AARRR Pirate Metrics Framework helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply aarrr pirate metrics framework to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **AARRR Pirate Metrics Framework**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — AARRR Pirate Metrics Framework\n\nFor a mobile app, define one metric per AARRR letter.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Worked example: Real campaign math (Allbirds)\n\nA paid social campaign for **Allbirds** ran for 30 days:\n\n| Input | Value |\n|-------|-------|\n| Ad spend | $5,000 |\n| Impressions | 400,000 |\n| Clicks | 8,000 |\n| Purchases | 200 |\n| Revenue from those purchases | $18,000 |\n\n**Calculate step by step:**\n\n1. **CTR** = 8,000 ÷ 400,000 = **2%** (strong for cold traffic)\n2. **CPC** = $5,000 ÷ 8,000 = **$0.63**\n3. **Conversion rate** = 200 ÷ 8,000 = **2.5%**\n4. **CPA** = $5,000 ÷ 200 = **$25** per purchase\n5. **ROAS** = $18,000 ÷ $5,000 = **3.6x**\n\n**So what?** ROAS 3.6x means the campaign returned $3.60 for every $1 spent — profitable if margin supports it. A junior mistake is celebrating high CTR while CPA is above product margin. Always report revenue or qualified leads, not vanity metrics.",
+    "realWorld": "### Where you see **AARRR Pirate Metrics Framework** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — AARRR Pirate Metrics Framework clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — AARRR Pirate Metrics Framework\n\nFor a mobile app, define one metric per AARRR letter.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "AARRR Pirate Metrics Framework is best learned by…",
+        "question": "Which is the best real-world reference for AARRR Pirate Metrics Framework?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Allbirds — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Acquisition\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Acquisition: how users find you",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -413,95 +413,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 5,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Awareness → Interest → Consideration → Intent → Evaluation → Purchase — granular e-commerce path.",
     "objectives": [
-      "Define Extended Purchase Funnel Stages clearly in your own words",
-      "Explain how Extended Purchase Funnel Stages connects to funnel stages and business goals",
-      "Identify when teams apply Extended Purchase Funnel Stages in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Extended Purchase Funnel Stages in plain English with a real brand example",
+      "Apply Extended Purchase Funnel Stages to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Extended Purchase Funnel Stages?\n\n**Extended Purchase Funnel Stages** is a core part of professional digital marketing. Awareness → Interest → Consideration → Intent → Evaluation → Purchase — granular e-commerce path.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Intent: added to cart or started signup\n- Evaluation: reading reviews, comparing price\n- Each micro-step can be measured in GA4\n- Retargeting maps to late stages\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Awareness → Interest → Consideration → Intent → Evaluation → Purchase — granular e-commerce path. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Extended Purchase Funnel Stages reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Extended Purchase Funnel Stages when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Extended Purchase Funnel Stages?\n\n**Extended Purchase Funnel Stages** — Awareness → Interest → Consideration → Intent → Evaluation → Purchase — granular e-commerce path.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Intent: added to cart or started signup\n\nThis point matters because it connects directly to **Extended Purchase Funnel Stages** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Evaluation: reading reviews, comparing price\n\nThis point matters because it connects directly to **Extended Purchase Funnel Stages** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Each micro-step can be measured in GA4\n\nThis point matters because it connects directly to **Extended Purchase Funnel Stages** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Retargeting maps to late stages\n\nThis point matters because it connects directly to **Extended Purchase Funnel Stages** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Awareness → Interest → Consideration → Intent → Evaluation → Purchase — granular e-commerce path. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Extended Purchase Funnel Stages** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Extended Purchase Funnel Stages** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Extended Purchase Funnel Stages means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Dollar Shave Club's** website or ads in another tab. As you read, note one place they already apply (or violate) **Extended Purchase Funnel Stages**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Extended Purchase Funnel Stages in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "List one marketing tactic for each of the six stages for online courses."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Extended Purchase Funnel Stages\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Extended Purchase Funnel Stages helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply extended purchase funnel stages to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Extended Purchase Funnel Stages**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Extended Purchase Funnel Stages\n\nList one marketing tactic for each of the six stages for online courses.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real funnel snapshot: **Spotify** Free → Premium\n\n| Stage | User behavior | Spotify tactic |\n|-------|---------------|----------------|\n| **TOFU** | Hears about free music | Social ads, podcasts, word of mouth |\n| **MOFU** | Uses free tier daily | Playlists, Discover Weekly (habit) |\n| **BOFU** | Hits ads / offline limit | \"3 months Premium for $0.99\" offer |\n| **Retention** | Stays subscribed | Wrapped, family plan, podcasts |\n\n**Numbers mindset:** If 100M free users and 2% convert to paid monthly, that's 2M new subscribers — funnel math at scale.",
+    "realWorld": "### Where you see **Extended Purchase Funnel Stages** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Extended Purchase Funnel Stages clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Extended Purchase Funnel Stages\n\nList one marketing tactic for each of the six stages for online courses.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Extended Purchase Funnel Stages is best learned by…",
+        "question": "Which is the best real-world reference for Extended Purchase Funnel Stages?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Dollar Shave Club — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Intent\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Intent: added to cart or started signup",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -514,95 +514,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 6,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Capture contact info in exchange for value, then nurture toward sale.",
     "objectives": [
-      "Define Lead Generation Funnels clearly in your own words",
-      "Explain how Lead Generation Funnels connects to funnel stages and business goals",
-      "Identify when teams apply Lead Generation Funnels in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Lead Generation Funnels in plain English with a real brand example",
+      "Apply Lead Generation Funnels to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Lead Generation Funnels?\n\n**Lead Generation Funnels** is a core part of professional digital marketing. Capture contact info in exchange for value, then nurture toward sale.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Landing page + form + thank-you page\n- Thank-you page can sell next step\n- Integrate with CRM/email\n- Measure CPL and lead quality\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Capture contact info in exchange for value, then nurture toward sale. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Lead Generation Funnels reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Lead Generation Funnels when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Lead Generation Funnels?\n\n**Lead Generation Funnels** — Capture contact info in exchange for value, then nurture toward sale.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Landing page + form + thank-you page\n\nThis point matters because it connects directly to **Lead Generation Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Thank-you page can sell next step\n\nThis point matters because it connects directly to **Lead Generation Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Integrate with CRM/email\n\nThis point matters because it connects directly to **Lead Generation Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Measure CPL and lead quality\n\nThis point matters because it connects directly to **Lead Generation Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Capture contact info in exchange for value, then nurture toward sale. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Lead Generation Funnels** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Lead Generation Funnels** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Lead Generation Funnels means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Warby Parker's** website or ads in another tab. As you read, note one place they already apply (or violate) **Lead Generation Funnels**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Lead Generation Funnels in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Outline a 3-page lead gen funnel for a free SEO checklist."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Lead Generation Funnels\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Lead Generation Funnels helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply lead generation funnels to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Lead Generation Funnels**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Lead Generation Funnels\n\nOutline a 3-page lead gen funnel for a free SEO checklist.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real funnel snapshot: **Spotify** Free → Premium\n\n| Stage | User behavior | Spotify tactic |\n|-------|---------------|----------------|\n| **TOFU** | Hears about free music | Social ads, podcasts, word of mouth |\n| **MOFU** | Uses free tier daily | Playlists, Discover Weekly (habit) |\n| **BOFU** | Hits ads / offline limit | \"3 months Premium for $0.99\" offer |\n| **Retention** | Stays subscribed | Wrapped, family plan, podcasts |\n\n**Numbers mindset:** If 100M free users and 2% convert to paid monthly, that's 2M new subscribers — funnel math at scale.",
+    "realWorld": "### Where you see **Lead Generation Funnels** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Lead Generation Funnels clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Lead Generation Funnels\n\nOutline a 3-page lead gen funnel for a free SEO checklist.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Lead Generation Funnels is best learned by…",
+        "question": "Which is the best real-world reference for Lead Generation Funnels?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Warby Parker — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Landing page + form + thank-you page\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Landing page + form + thank-you page",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -615,95 +615,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 7,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Longer cycles: content → call → proposal → close.",
     "objectives": [
-      "Define Sales Funnels for Services and High-Ticket clearly in your own words",
-      "Explain how Sales Funnels for Services and High-Ticket connects to funnel stages and business goals",
-      "Identify when teams apply Sales Funnels for Services and High-Ticket in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Sales Funnels for Services and High-Ticket in plain English with a real brand example",
+      "Apply Sales Funnels for Services and High-Ticket to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Sales Funnels for Services and High-Ticket?\n\n**Sales Funnels for Services and High-Ticket** is a core part of professional digital marketing. Longer cycles: content → call → proposal → close.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Multiple touchpoints and trust building\n- Sales team and marketing must align on MQL/SQL\n- Case studies and testimonials critical\n- Pipeline velocity matters\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Longer cycles: content → call → proposal → close. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Sales Funnels for Services and High-Ticket reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Sales Funnels for Services and High-Ticket when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Sales Funnels for Services and High-Ticket?\n\n**Sales Funnels for Services and High-Ticket** — Longer cycles: content → call → proposal → close.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Multiple touchpoints and trust building\n\nThis point matters because it connects directly to **Sales Funnels for Services and High-Ticket** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Sales team and marketing must align on MQL/SQL\n\nThis point matters because it connects directly to **Sales Funnels for Services and High-Ticket** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Case studies and testimonials critical\n\nThis point matters because it connects directly to **Sales Funnels for Services and High-Ticket** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Pipeline velocity matters\n\nThis point matters because it connects directly to **Sales Funnels for Services and High-Ticket** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Longer cycles: content → call → proposal → close. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Sales Funnels for Services and High-Ticket** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Sales Funnels for Services and High-Ticket** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Sales Funnels for Services and High-Ticket means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Nike's** website or ads in another tab. As you read, note one place they already apply (or violate) **Sales Funnels for Services and High-Ticket**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Sales Funnels for Services and High-Ticket in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Map a consulting sales funnel with 5 steps and owner (marketing vs sales)."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Sales Funnels for Services and High-Ticket\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Sales Funnels for Services and High-Ticket helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply sales funnels for services and high-ticket to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Sales Funnels for Services and High-Ticket**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Sales Funnels for Services and High-Ticket\n\nMap a consulting sales funnel with 5 steps and owner (marketing vs sales).\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real funnel snapshot: **Spotify** Free → Premium\n\n| Stage | User behavior | Spotify tactic |\n|-------|---------------|----------------|\n| **TOFU** | Hears about free music | Social ads, podcasts, word of mouth |\n| **MOFU** | Uses free tier daily | Playlists, Discover Weekly (habit) |\n| **BOFU** | Hits ads / offline limit | \"3 months Premium for $0.99\" offer |\n| **Retention** | Stays subscribed | Wrapped, family plan, podcasts |\n\n**Numbers mindset:** If 100M free users and 2% convert to paid monthly, that's 2M new subscribers — funnel math at scale.",
+    "realWorld": "### Where you see **Sales Funnels for Services and High-Ticket** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Sales Funnels for Services and High-Ticket clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Sales Funnels for Services and High-Ticket\n\nMap a consulting sales funnel with 5 steps and owner (marketing vs sales).\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Sales Funnels for Services and High-Ticket is best learned by…",
+        "question": "Which is the best real-world reference for Sales Funnels for Services and High-Ticket?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Nike — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Multiple touchpoints and trust building\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Multiple touchpoints and trust building",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -716,95 +716,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 8,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Register → attend → offer → follow-up — popular for courses and B2B.",
     "objectives": [
-      "Define Webinar Funnels clearly in your own words",
-      "Explain how Webinar Funnels connects to funnel stages and business goals",
-      "Identify when teams apply Webinar Funnels in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Webinar Funnels in plain English with a real brand example",
+      "Apply Webinar Funnels to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Webinar Funnels?\n\n**Webinar Funnels** is a core part of professional digital marketing. Register → attend → offer → follow-up — popular for courses and B2B.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Registration page with urgency\n- Reminder email sequence\n- Live or evergreen replay\n- Pitch at end with limited offer\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Register → attend → offer → follow-up — popular for courses and B2B. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Webinar Funnels reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Webinar Funnels when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Webinar Funnels?\n\n**Webinar Funnels** — Register → attend → offer → follow-up — popular for courses and B2B.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Registration page with urgency\n\nThis point matters because it connects directly to **Webinar Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Reminder email sequence\n\nThis point matters because it connects directly to **Webinar Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Live or evergreen replay\n\nThis point matters because it connects directly to **Webinar Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Pitch at end with limited offer\n\nThis point matters because it connects directly to **Webinar Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Register → attend → offer → follow-up — popular for courses and B2B. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Webinar Funnels** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Webinar Funnels** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Webinar Funnels means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **McDonald's's** website or ads in another tab. As you read, note one place they already apply (or violate) **Webinar Funnels**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Webinar Funnels in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Draft registration headline + 3-email reminder outline for a marketing webinar."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Webinar Funnels\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Webinar Funnels helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply webinar funnels to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Webinar Funnels**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Webinar Funnels\n\nDraft registration headline + 3-email reminder outline for a marketing webinar.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real funnel snapshot: **Spotify** Free → Premium\n\n| Stage | User behavior | Spotify tactic |\n|-------|---------------|----------------|\n| **TOFU** | Hears about free music | Social ads, podcasts, word of mouth |\n| **MOFU** | Uses free tier daily | Playlists, Discover Weekly (habit) |\n| **BOFU** | Hits ads / offline limit | \"3 months Premium for $0.99\" offer |\n| **Retention** | Stays subscribed | Wrapped, family plan, podcasts |\n\n**Numbers mindset:** If 100M free users and 2% convert to paid monthly, that's 2M new subscribers — funnel math at scale.",
+    "realWorld": "### Where you see **Webinar Funnels** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Webinar Funnels clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Webinar Funnels\n\nDraft registration headline + 3-email reminder outline for a marketing webinar.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Webinar Funnels is best learned by…",
+        "question": "Which is the best real-world reference for Webinar Funnels?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "McDonald's — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Registration page with urgency\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Registration page with urgency",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -817,95 +817,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 9,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Small first purchase builds buyer trust; upsell core offer later.",
     "objectives": [
-      "Define Tripwire and Low-Ticket Funnels clearly in your own words",
-      "Explain how Tripwire and Low-Ticket Funnels connects to funnel stages and business goals",
-      "Identify when teams apply Tripwire and Low-Ticket Funnels in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Tripwire and Low-Ticket Funnels in plain English with a real brand example",
+      "Apply Tripwire and Low-Ticket Funnels to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Tripwire and Low-Ticket Funnels?\n\n**Tripwire and Low-Ticket Funnels** is a core part of professional digital marketing. Small first purchase builds buyer trust; upsell core offer later.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- $7–$27 entry product\n- Order bump and upsell on checkout\n- Break even on ads sometimes\n- Backend profit on main offer\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Small first purchase builds buyer trust; upsell core offer later. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Tripwire and Low-Ticket Funnels reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Tripwire and Low-Ticket Funnels when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Tripwire and Low-Ticket Funnels?\n\n**Tripwire and Low-Ticket Funnels** — Small first purchase builds buyer trust; upsell core offer later.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. $7–$27 entry product\n\nThis point matters because it connects directly to **Tripwire and Low-Ticket Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Order bump and upsell on checkout\n\nThis point matters because it connects directly to **Tripwire and Low-Ticket Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Break even on ads sometimes\n\nThis point matters because it connects directly to **Tripwire and Low-Ticket Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Backend profit on main offer\n\nThis point matters because it connects directly to **Tripwire and Low-Ticket Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Small first purchase builds buyer trust; upsell core offer later. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Tripwire and Low-Ticket Funnels** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Tripwire and Low-Ticket Funnels** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Tripwire and Low-Ticket Funnels means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **McDonald's's** website or ads in another tab. As you read, note one place they already apply (or violate) **Tripwire and Low-Ticket Funnels**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Tripwire and Low-Ticket Funnels in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Design a tripwire idea for a photography educator."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Tripwire and Low-Ticket Funnels\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Tripwire and Low-Ticket Funnels helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply tripwire and low-ticket funnels to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Tripwire and Low-Ticket Funnels**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Tripwire and Low-Ticket Funnels\n\nDesign a tripwire idea for a photography educator.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real funnel snapshot: **Spotify** Free → Premium\n\n| Stage | User behavior | Spotify tactic |\n|-------|---------------|----------------|\n| **TOFU** | Hears about free music | Social ads, podcasts, word of mouth |\n| **MOFU** | Uses free tier daily | Playlists, Discover Weekly (habit) |\n| **BOFU** | Hits ads / offline limit | \"3 months Premium for $0.99\" offer |\n| **Retention** | Stays subscribed | Wrapped, family plan, podcasts |\n\n**Numbers mindset:** If 100M free users and 2% convert to paid monthly, that's 2M new subscribers — funnel math at scale.",
+    "realWorld": "### Where you see **Tripwire and Low-Ticket Funnels** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Tripwire and Low-Ticket Funnels clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Tripwire and Low-Ticket Funnels\n\nDesign a tripwire idea for a photography educator.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Tripwire and Low-Ticket Funnels is best learned by…",
+        "question": "Which is the best real-world reference for Tripwire and Low-Ticket Funnels?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "McDonald's — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"$7–$27 entry product\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "$7–$27 entry product",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -918,95 +918,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 10,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Pre-launch buzz → cart open → close — scarcity and story drive spikes.",
     "objectives": [
-      "Define Product Launch Funnels clearly in your own words",
-      "Explain how Product Launch Funnels connects to funnel stages and business goals",
-      "Identify when teams apply Product Launch Funnels in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Product Launch Funnels in plain English with a real brand example",
+      "Apply Product Launch Funnels to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Product Launch Funnels?\n\n**Product Launch Funnels** is a core part of professional digital marketing. Pre-launch buzz → cart open → close — scarcity and story drive spikes.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Seed list before launch\n- Video series or challenge\n- Open/close cart dates\n- Heavy email + retargeting\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Pre-launch buzz → cart open → close — scarcity and story drive spikes. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Product Launch Funnels reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Product Launch Funnels when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Product Launch Funnels?\n\n**Product Launch Funnels** — Pre-launch buzz → cart open → close — scarcity and story drive spikes.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Seed list before launch\n\nThis point matters because it connects directly to **Product Launch Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Video series or challenge\n\nThis point matters because it connects directly to **Product Launch Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Open/close cart dates\n\nThis point matters because it connects directly to **Product Launch Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Heavy email + retargeting\n\nThis point matters because it connects directly to **Product Launch Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Pre-launch buzz → cart open → close — scarcity and story drive spikes. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Product Launch Funnels** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Product Launch Funnels** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Product Launch Funnels means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Allbirds's** website or ads in another tab. As you read, note one place they already apply (or violate) **Product Launch Funnels**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Product Launch Funnels in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Write a 5-day launch email theme outline for a new template shop."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Product Launch Funnels\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Product Launch Funnels helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply product launch funnels to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Product Launch Funnels**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Product Launch Funnels\n\nWrite a 5-day launch email theme outline for a new template shop.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real funnel snapshot: **Spotify** Free → Premium\n\n| Stage | User behavior | Spotify tactic |\n|-------|---------------|----------------|\n| **TOFU** | Hears about free music | Social ads, podcasts, word of mouth |\n| **MOFU** | Uses free tier daily | Playlists, Discover Weekly (habit) |\n| **BOFU** | Hits ads / offline limit | \"3 months Premium for $0.99\" offer |\n| **Retention** | Stays subscribed | Wrapped, family plan, podcasts |\n\n**Numbers mindset:** If 100M free users and 2% convert to paid monthly, that's 2M new subscribers — funnel math at scale.",
+    "realWorld": "### Where you see **Product Launch Funnels** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Product Launch Funnels clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Product Launch Funnels\n\nWrite a 5-day launch email theme outline for a new template shop.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Product Launch Funnels is best learned by…",
+        "question": "Which is the best real-world reference for Product Launch Funnels?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Allbirds — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Seed list before launch\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Seed list before launch",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -1019,95 +1019,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 11,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Signup → activation → paid conversion — product-led growth.",
     "objectives": [
-      "Define Free Trial and SaaS Funnels clearly in your own words",
-      "Explain how Free Trial and SaaS Funnels connects to funnel stages and business goals",
-      "Identify when teams apply Free Trial and SaaS Funnels in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Free Trial and SaaS Funnels in plain English with a real brand example",
+      "Apply Free Trial and SaaS Funnels to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Free Trial and SaaS Funnels?\n\n**Free Trial and SaaS Funnels** is a core part of professional digital marketing. Signup → activation → paid conversion — product-led growth.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Friction-free signup\n- Onboarding emails in first 7 days\n- Track activation event\n- Upgrade triggers before trial ends\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Signup → activation → paid conversion — product-led growth. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Free Trial and SaaS Funnels reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Free Trial and SaaS Funnels when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Free Trial and SaaS Funnels?\n\n**Free Trial and SaaS Funnels** — Signup → activation → paid conversion — product-led growth.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Friction-free signup\n\nThis point matters because it connects directly to **Free Trial and SaaS Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Onboarding emails in first 7 days\n\nThis point matters because it connects directly to **Free Trial and SaaS Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Track activation event\n\nThis point matters because it connects directly to **Free Trial and SaaS Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Upgrade triggers before trial ends\n\nThis point matters because it connects directly to **Free Trial and SaaS Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Signup → activation → paid conversion — product-led growth. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Free Trial and SaaS Funnels** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Free Trial and SaaS Funnels** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Free Trial and SaaS Funnels means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **McDonald's's** website or ads in another tab. As you read, note one place they already apply (or violate) **Free Trial and SaaS Funnels**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Free Trial and SaaS Funnels in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Define activation event and 3 onboarding emails for a project management SaaS."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Free Trial and SaaS Funnels\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Free Trial and SaaS Funnels helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply free trial and saas funnels to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Free Trial and SaaS Funnels**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Free Trial and SaaS Funnels\n\nDefine activation event and 3 onboarding emails for a project management SaaS.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real funnel snapshot: **Spotify** Free → Premium\n\n| Stage | User behavior | Spotify tactic |\n|-------|---------------|----------------|\n| **TOFU** | Hears about free music | Social ads, podcasts, word of mouth |\n| **MOFU** | Uses free tier daily | Playlists, Discover Weekly (habit) |\n| **BOFU** | Hits ads / offline limit | \"3 months Premium for $0.99\" offer |\n| **Retention** | Stays subscribed | Wrapped, family plan, podcasts |\n\n**Numbers mindset:** If 100M free users and 2% convert to paid monthly, that's 2M new subscribers — funnel math at scale.",
+    "realWorld": "### Where you see **Free Trial and SaaS Funnels** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Free Trial and SaaS Funnels clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Free Trial and SaaS Funnels\n\nDefine activation event and 3 onboarding emails for a project management SaaS.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Free Trial and SaaS Funnels is best learned by…",
+        "question": "Which is the best real-world reference for Free Trial and SaaS Funnels?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "McDonald's — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Friction-free signup\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Friction-free signup",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -1120,95 +1120,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 12,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Browse → add to cart → checkout → post-purchase upsell.",
     "objectives": [
-      "Define E-commerce and Cart Funnels clearly in your own words",
-      "Explain how E-commerce and Cart Funnels connects to funnel stages and business goals",
-      "Identify when teams apply E-commerce and Cart Funnels in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain E-commerce and Cart Funnels in plain English with a real brand example",
+      "Apply E-commerce and Cart Funnels to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is E-commerce and Cart Funnels?\n\n**E-commerce and Cart Funnels** is a core part of professional digital marketing. Browse → add to cart → checkout → post-purchase upsell.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Cart abandonment emails/SMS\n- Guest vs account checkout tradeoffs\n- Shipping and trust at checkout\n- Repeat purchase flows\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Browse → add to cart → checkout → post-purchase upsell. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "E-commerce and Cart Funnels reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply E-commerce and Cart Funnels when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is E-commerce and Cart Funnels?\n\n**E-commerce and Cart Funnels** — Browse → add to cart → checkout → post-purchase upsell.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Cart abandonment emails/SMS\n\nThis point matters because it connects directly to **E-commerce and Cart Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Guest vs account checkout tradeoffs\n\nThis point matters because it connects directly to **E-commerce and Cart Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Shipping and trust at checkout\n\nThis point matters because it connects directly to **E-commerce and Cart Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Repeat purchase flows\n\nThis point matters because it connects directly to **E-commerce and Cart Funnels** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Browse → add to cart → checkout → post-purchase upsell. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**E-commerce and Cart Funnels** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **E-commerce and Cart Funnels** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what E-commerce and Cart Funnels means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Warby Parker's** website or ads in another tab. As you read, note one place they already apply (or violate) **E-commerce and Cart Funnels**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain E-commerce and Cart Funnels in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "List 4 tactics to reduce cart abandonment for a fashion store."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: E-commerce and Cart Funnels\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How E-commerce and Cart Funnels helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply e-commerce and cart funnels to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **E-commerce and Cart Funnels**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — E-commerce and Cart Funnels\n\nList 4 tactics to reduce cart abandonment for a fashion store.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real funnel snapshot: **Spotify** Free → Premium\n\n| Stage | User behavior | Spotify tactic |\n|-------|---------------|----------------|\n| **TOFU** | Hears about free music | Social ads, podcasts, word of mouth |\n| **MOFU** | Uses free tier daily | Playlists, Discover Weekly (habit) |\n| **BOFU** | Hits ads / offline limit | \"3 months Premium for $0.99\" offer |\n| **Retention** | Stays subscribed | Wrapped, family plan, podcasts |\n\n**Numbers mindset:** If 100M free users and 2% convert to paid monthly, that's 2M new subscribers — funnel math at scale.",
+    "realWorld": "### Where you see **E-commerce and Cart Funnels** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — E-commerce and Cart Funnels clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — E-commerce and Cart Funnels\n\nList 4 tactics to reduce cart abandonment for a fashion store.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "E-commerce and Cart Funnels is best learned by…",
+        "question": "Which is the best real-world reference for E-commerce and Cart Funnels?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Warby Parker — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Cart abandonment emails/SMS\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Cart abandonment emails/SMS",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -1221,95 +1221,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 13,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Ebooks, checklists, quizzes, templates, and trials trade value for email.",
     "objectives": [
-      "Define Lead Magnets and Opt-In Offers clearly in your own words",
-      "Explain how Lead Magnets and Opt-In Offers connects to funnel stages and business goals",
-      "Identify when teams apply Lead Magnets and Opt-In Offers in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Lead Magnets and Opt-In Offers in plain English with a real brand example",
+      "Apply Lead Magnets and Opt-In Offers to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Lead Magnets and Opt-In Offers?\n\n**Lead Magnets and Opt-In Offers** is a core part of professional digital marketing. Ebooks, checklists, quizzes, templates, and trials trade value for email.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Must solve one specific problem\n- Title promises clear outcome\n- Delivery instant (PDF or link)\n- Segment leads by magnet topic\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Ebooks, checklists, quizzes, templates, and trials trade value for email. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Lead Magnets and Opt-In Offers reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Lead Magnets and Opt-In Offers when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Lead Magnets and Opt-In Offers?\n\n**Lead Magnets and Opt-In Offers** — Ebooks, checklists, quizzes, templates, and trials trade value for email.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Must solve one specific problem\n\nThis point matters because it connects directly to **Lead Magnets and Opt-In Offers** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Title promises clear outcome\n\nThis point matters because it connects directly to **Lead Magnets and Opt-In Offers** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Delivery instant (PDF or link)\n\nThis point matters because it connects directly to **Lead Magnets and Opt-In Offers** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Segment leads by magnet topic\n\nThis point matters because it connects directly to **Lead Magnets and Opt-In Offers** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Ebooks, checklists, quizzes, templates, and trials trade value for email. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Lead Magnets and Opt-In Offers** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Lead Magnets and Opt-In Offers** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Lead Magnets and Opt-In Offers means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Casper's** website or ads in another tab. As you read, note one place they already apply (or violate) **Lead Magnets and Opt-In Offers**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Lead Magnets and Opt-In Offers in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Create 3 lead magnet ideas with titles for a personal finance coach."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Lead Magnets and Opt-In Offers\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Lead Magnets and Opt-In Offers helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply lead magnets and opt-in offers to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Lead Magnets and Opt-In Offers**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Lead Magnets and Opt-In Offers\n\nCreate 3 lead magnet ideas with titles for a personal finance coach.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Casper**\n\n**Context:** Ebooks, checklists, quizzes, templates, and trials trade value for email.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Lead Magnets and Opt-In Offers** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Lead Magnets and Opt-In Offers** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Lead Magnets and Opt-In Offers clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Lead Magnets and Opt-In Offers\n\nCreate 3 lead magnet ideas with titles for a personal finance coach.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Lead Magnets and Opt-In Offers is best learned by…",
+        "question": "Which is the best real-world reference for Lead Magnets and Opt-In Offers?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Casper — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Must solve one specific problem\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Must solve one specific problem",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -1322,95 +1322,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 14,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Automated emails educate and build trust between opt-in and purchase.",
     "objectives": [
-      "Define Lead Nurturing and Follow-Up Sequences clearly in your own words",
-      "Explain how Lead Nurturing and Follow-Up Sequences connects to funnel stages and business goals",
-      "Identify when teams apply Lead Nurturing and Follow-Up Sequences in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Lead Nurturing and Follow-Up Sequences in plain English with a real brand example",
+      "Apply Lead Nurturing and Follow-Up Sequences to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Lead Nurturing and Follow-Up Sequences?\n\n**Lead Nurturing and Follow-Up Sequences** is a core part of professional digital marketing. Automated emails educate and build trust between opt-in and purchase.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Welcome series first 5–7 days\n- Mix value and soft offers\n- Branch by behavior (clicked pricing?)\n- Stop on purchase or unsubscribe\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Automated emails educate and build trust between opt-in and purchase. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Lead Nurturing and Follow-Up Sequences reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Lead Nurturing and Follow-Up Sequences when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Lead Nurturing and Follow-Up Sequences?\n\n**Lead Nurturing and Follow-Up Sequences** — Automated emails educate and build trust between opt-in and purchase.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Welcome series first 5–7 days\n\nThis point matters because it connects directly to **Lead Nurturing and Follow-Up Sequences** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Mix value and soft offers\n\nThis point matters because it connects directly to **Lead Nurturing and Follow-Up Sequences** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Branch by behavior (clicked pricing?)\n\nThis point matters because it connects directly to **Lead Nurturing and Follow-Up Sequences** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Stop on purchase or unsubscribe\n\nThis point matters because it connects directly to **Lead Nurturing and Follow-Up Sequences** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Automated emails educate and build trust between opt-in and purchase. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Lead Nurturing and Follow-Up Sequences** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Lead Nurturing and Follow-Up Sequences** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Lead Nurturing and Follow-Up Sequences means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Dollar Shave Club's** website or ads in another tab. As you read, note one place they already apply (or violate) **Lead Nurturing and Follow-Up Sequences**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Lead Nurturing and Follow-Up Sequences in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Write a 5-email nurture outline for leads who downloaded a pricing guide."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Lead Nurturing and Follow-Up Sequences\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Lead Nurturing and Follow-Up Sequences helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply lead nurturing and follow-up sequences to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Lead Nurturing and Follow-Up Sequences**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Lead Nurturing and Follow-Up Sequences\n\nWrite a 5-email nurture outline for leads who downloaded a pricing guide.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real-world scenario: **Dollar Shave Club**\n\n**Context:** Automated emails educate and build trust between opt-in and purchase.\n\n**What the marketing team did:**\n1. Audited current performance (baseline metrics documented)\n2. Applied **Lead Nurturing and Follow-Up Sequences** to the highest-impact customer segment first\n3. Ran a 2-week test with $500–$2,000 or equivalent time budget\n4. Measured results weekly against one primary KPI\n\n**Sample results pattern (illustrative):**\n\n| Metric | Before | After |\n|--------|--------|-------|\n| Primary KPI | Baseline | +15–30% improvement |\n| Cost efficiency | Unknown | Clear CPA/ROAS |\n| Learning | — | Documented in retrospective |\n\n**Your job in the Practice tab:** Recreate this thinking for a brand you choose — real or fictional — with numbers you research or estimate realistically.",
+    "realWorld": "### Where you see **Lead Nurturing and Follow-Up Sequences** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Lead Nurturing and Follow-Up Sequences clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Lead Nurturing and Follow-Up Sequences\n\nWrite a 5-email nurture outline for leads who downloaded a pricing guide.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Lead Nurturing and Follow-Up Sequences is best learned by…",
+        "question": "Which is the best real-world reference for Lead Nurturing and Follow-Up Sequences?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Dollar Shave Club — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Welcome series first 5–7 days\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Welcome series first 5–7 days",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -1423,95 +1423,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 15,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Document every page, email, ad, and trigger so the team sees the full system.",
     "objectives": [
-      "Define Funnel Mapping and Customer Flow Design clearly in your own words",
-      "Explain how Funnel Mapping and Customer Flow Design connects to funnel stages and business goals",
-      "Identify when teams apply Funnel Mapping and Customer Flow Design in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Funnel Mapping and Customer Flow Design in plain English with a real brand example",
+      "Apply Funnel Mapping and Customer Flow Design to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Funnel Mapping and Customer Flow Design?\n\n**Funnel Mapping and Customer Flow Design** is a core part of professional digital marketing. Document every page, email, ad, and trigger so the team sees the full system.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Swimlane: traffic source → pages → CRM\n- Note conversion goals per step\n- Identify single biggest leak\n- Version map when you test\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Document every page, email, ad, and trigger so the team sees the full system. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Funnel Mapping and Customer Flow Design reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Funnel Mapping and Customer Flow Design when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Funnel Mapping and Customer Flow Design?\n\n**Funnel Mapping and Customer Flow Design** — Document every page, email, ad, and trigger so the team sees the full system.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Swimlane: traffic source → pages → CRM\n\nThis point matters because it connects directly to **Funnel Mapping and Customer Flow Design** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Note conversion goals per step\n\nThis point matters because it connects directly to **Funnel Mapping and Customer Flow Design** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Identify single biggest leak\n\nThis point matters because it connects directly to **Funnel Mapping and Customer Flow Design** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Version map when you test\n\nThis point matters because it connects directly to **Funnel Mapping and Customer Flow Design** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Document every page, email, ad, and trigger so the team sees the full system. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Funnel Mapping and Customer Flow Design** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Funnel Mapping and Customer Flow Design** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Funnel Mapping and Customer Flow Design means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Warby Parker's** website or ads in another tab. As you read, note one place they already apply (or violate) **Funnel Mapping and Customer Flow Design**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Funnel Mapping and Customer Flow Design in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Draw a funnel map on paper for a free trial SaaS with 8 nodes."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Funnel Mapping and Customer Flow Design\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Funnel Mapping and Customer Flow Design helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply funnel mapping and customer flow design to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Funnel Mapping and Customer Flow Design**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Funnel Mapping and Customer Flow Design\n\nDraw a funnel map on paper for a free trial SaaS with 8 nodes.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real funnel snapshot: **Spotify** Free → Premium\n\n| Stage | User behavior | Spotify tactic |\n|-------|---------------|----------------|\n| **TOFU** | Hears about free music | Social ads, podcasts, word of mouth |\n| **MOFU** | Uses free tier daily | Playlists, Discover Weekly (habit) |\n| **BOFU** | Hits ads / offline limit | \"3 months Premium for $0.99\" offer |\n| **Retention** | Stays subscribed | Wrapped, family plan, podcasts |\n\n**Numbers mindset:** If 100M free users and 2% convert to paid monthly, that's 2M new subscribers — funnel math at scale.",
+    "realWorld": "### Where you see **Funnel Mapping and Customer Flow Design** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Funnel Mapping and Customer Flow Design clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Funnel Mapping and Customer Flow Design\n\nDraw a funnel map on paper for a free trial SaaS with 8 nodes.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Funnel Mapping and Customer Flow Design is best learned by…",
+        "question": "Which is the best real-world reference for Funnel Mapping and Customer Flow Design?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Warby Parker — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Swimlane\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Swimlane: traffic source → pages → CRM",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -1524,95 +1524,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 16,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Stage conversion rate, time between stages, and drop-off pinpoint fixes.",
     "objectives": [
-      "Define Funnel Metrics: Drop-Off, Conversion, Velocity clearly in your own words",
-      "Explain how Funnel Metrics: Drop-Off, Conversion, Velocity connects to funnel stages and business goals",
-      "Identify when teams apply Funnel Metrics: Drop-Off, Conversion, Velocity in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Funnel Metrics: Drop-Off, Conversion, Velocity in plain English with a real brand example",
+      "Apply Funnel Metrics: Drop-Off, Conversion, Velocity to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Funnel Metrics: Drop-Off, Conversion, Velocity?\n\n**Funnel Metrics: Drop-Off, Conversion, Velocity** is a core part of professional digital marketing. Stage conversion rate, time between stages, and drop-off pinpoint fixes.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Conversion rate = next stage ÷ current stage\n- Velocity = days from lead to customer\n- Cohort analysis for SaaS\n- Fix biggest leak first\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Stage conversion rate, time between stages, and drop-off pinpoint fixes. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Funnel Metrics: Drop-Off, Conversion, Velocity reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Funnel Metrics: Drop-Off, Conversion, Velocity when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Funnel Metrics: Drop-Off, Conversion, Velocity?\n\n**Funnel Metrics: Drop-Off, Conversion, Velocity** — Stage conversion rate, time between stages, and drop-off pinpoint fixes.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Conversion rate = next stage ÷ current stage\n\nThis point matters because it connects directly to **Funnel Metrics: Drop-Off, Conversion, Velocity** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Velocity = days from lead to customer\n\nThis point matters because it connects directly to **Funnel Metrics: Drop-Off, Conversion, Velocity** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Cohort analysis for SaaS\n\nThis point matters because it connects directly to **Funnel Metrics: Drop-Off, Conversion, Velocity** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Fix biggest leak first\n\nThis point matters because it connects directly to **Funnel Metrics: Drop-Off, Conversion, Velocity** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Stage conversion rate, time between stages, and drop-off pinpoint fixes. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Funnel Metrics: Drop-Off, Conversion, Velocity** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Funnel Metrics: Drop-Off, Conversion, Velocity** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Funnel Metrics: Drop-Off, Conversion, Velocity means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Spotify's** website or ads in another tab. As you read, note one place they already apply (or violate) **Funnel Metrics: Drop-Off, Conversion, Velocity**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Funnel Metrics: Drop-Off, Conversion, Velocity in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Given sample numbers in notes, calculate stage conversion for 4 funnel steps."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Funnel Metrics: Drop-Off, Conversion, Velocity\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Funnel Metrics: Drop-Off, Conversion, Velocity helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply funnel metrics: drop-off, conversion, velocity to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Funnel Metrics: Drop-Off, Conversion, Velocity**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Funnel Metrics: Drop-Off, Conversion, Velocity\n\nGiven sample numbers in notes, calculate stage conversion for 4 funnel steps.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Worked example: Real campaign math (Spotify)\n\nA paid social campaign for **Spotify** ran for 30 days:\n\n| Input | Value |\n|-------|-------|\n| Ad spend | $5,000 |\n| Impressions | 400,000 |\n| Clicks | 8,000 |\n| Purchases | 200 |\n| Revenue from those purchases | $18,000 |\n\n**Calculate step by step:**\n\n1. **CTR** = 8,000 ÷ 400,000 = **2%** (strong for cold traffic)\n2. **CPC** = $5,000 ÷ 8,000 = **$0.63**\n3. **Conversion rate** = 200 ÷ 8,000 = **2.5%**\n4. **CPA** = $5,000 ÷ 200 = **$25** per purchase\n5. **ROAS** = $18,000 ÷ $5,000 = **3.6x**\n\n**So what?** ROAS 3.6x means the campaign returned $3.60 for every $1 spent — profitable if margin supports it. A junior mistake is celebrating high CTR while CPA is above product margin. Always report revenue or qualified leads, not vanity metrics.",
+    "realWorld": "### Where you see **Funnel Metrics: Drop-Off, Conversion, Velocity** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Funnel Metrics: Drop-Off, Conversion, Velocity clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Funnel Metrics: Drop-Off, Conversion, Velocity\n\nGiven sample numbers in notes, calculate stage conversion for 4 funnel steps.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Funnel Metrics: Drop-Off, Conversion, Velocity is best learned by…",
+        "question": "Which is the best real-world reference for Funnel Metrics: Drop-Off, Conversion, Velocity?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Spotify — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Conversion rate = next stage ÷ current stage\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Conversion rate = next stage ÷ current stage",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -1625,95 +1625,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 17,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Hypothesize, A/B test, fix UX, align message to stage.",
     "objectives": [
-      "Define Funnel Optimization and Plugging Leaks clearly in your own words",
-      "Explain how Funnel Optimization and Plugging Leaks connects to funnel stages and business goals",
-      "Identify when teams apply Funnel Optimization and Plugging Leaks in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Funnel Optimization and Plugging Leaks in plain English with a real brand example",
+      "Apply Funnel Optimization and Plugging Leaks to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Funnel Optimization and Plugging Leaks?\n\n**Funnel Optimization and Plugging Leaks** is a core part of professional digital marketing. Hypothesize, A/B test, fix UX, align message to stage.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Watch session recordings on drop pages\n- One variable per test\n- MOFU leak often = weak proof\n- BOFU leak often = pricing/trust\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Hypothesize, A/B test, fix UX, align message to stage. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Funnel Optimization and Plugging Leaks reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Funnel Optimization and Plugging Leaks when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Funnel Optimization and Plugging Leaks?\n\n**Funnel Optimization and Plugging Leaks** — Hypothesize, A/B test, fix UX, align message to stage.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. Watch session recordings on drop pages\n\nThis point matters because it connects directly to **Funnel Optimization and Plugging Leaks** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. One variable per test\n\nThis point matters because it connects directly to **Funnel Optimization and Plugging Leaks** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. MOFU leak often = weak proof\n\nThis point matters because it connects directly to **Funnel Optimization and Plugging Leaks** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. BOFU leak often = pricing/trust\n\nThis point matters because it connects directly to **Funnel Optimization and Plugging Leaks** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Hypothesize, A/B test, fix UX, align message to stage. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Funnel Optimization and Plugging Leaks** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Funnel Optimization and Plugging Leaks** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Funnel Optimization and Plugging Leaks means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Nike's** website or ads in another tab. As you read, note one place they already apply (or violate) **Funnel Optimization and Plugging Leaks**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Funnel Optimization and Plugging Leaks in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Pick one leak from your mapped funnel; write hypothesis + test idea."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Funnel Optimization and Plugging Leaks\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Funnel Optimization and Plugging Leaks helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply funnel optimization and plugging leaks to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Funnel Optimization and Plugging Leaks**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Funnel Optimization and Plugging Leaks\n\nPick one leak from your mapped funnel; write hypothesis + test idea.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real funnel snapshot: **Spotify** Free → Premium\n\n| Stage | User behavior | Spotify tactic |\n|-------|---------------|----------------|\n| **TOFU** | Hears about free music | Social ads, podcasts, word of mouth |\n| **MOFU** | Uses free tier daily | Playlists, Discover Weekly (habit) |\n| **BOFU** | Hits ads / offline limit | \"3 months Premium for $0.99\" offer |\n| **Retention** | Stays subscribed | Wrapped, family plan, podcasts |\n\n**Numbers mindset:** If 100M free users and 2% convert to paid monthly, that's 2M new subscribers — funnel math at scale.",
+    "realWorld": "### Where you see **Funnel Optimization and Plugging Leaks** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Funnel Optimization and Plugging Leaks clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Funnel Optimization and Plugging Leaks\n\nPick one leak from your mapped funnel; write hypothesis + test idea.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Funnel Optimization and Plugging Leaks is best learned by…",
+        "question": "Which is the best real-world reference for Funnel Optimization and Plugging Leaks?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Nike — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"Watch session recordings on drop pages\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "Watch session recordings on drop pages",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -1726,95 +1726,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 18,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "ClickFunnels, Leadpages, Systeme.io, GoHighLevel — drag-and-drop funnel pages and automation.",
     "objectives": [
-      "Define Funnel Builder Tools Overview clearly in your own words",
-      "Explain how Funnel Builder Tools Overview connects to funnel stages and business goals",
-      "Identify when teams apply Funnel Builder Tools Overview in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Funnel Builder Tools Overview in plain English with a real brand example",
+      "Apply Funnel Builder Tools Overview to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Funnel Builder Tools Overview?\n\n**Funnel Builder Tools Overview** is a core part of professional digital marketing. ClickFunnels, Leadpages, Systeme.io, GoHighLevel — drag-and-drop funnel pages and automation.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- All-in-one vs best-of-breed stack\n- Native email/CRM vs integrations\n- Templates speed launches\n- Track total cost of ownership\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | ClickFunnels, Leadpages, Systeme. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Funnel Builder Tools Overview reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Funnel Builder Tools Overview when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Funnel Builder Tools Overview?\n\n**Funnel Builder Tools Overview** — ClickFunnels, Leadpages, Systeme.io, GoHighLevel — drag-and-drop funnel pages and automation.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. All-in-one vs best-of-breed stack\n\nThis point matters because it connects directly to **Funnel Builder Tools Overview** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 2. Native email/CRM vs integrations\n\nThis point matters because it connects directly to **Funnel Builder Tools Overview** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Templates speed launches\n\nThis point matters because it connects directly to **Funnel Builder Tools Overview** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Track total cost of ownership\n\nThis point matters because it connects directly to **Funnel Builder Tools Overview** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | ClickFunnels, Leadpages, Systeme. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Funnel Builder Tools Overview** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Funnel Builder Tools Overview** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Funnel Builder Tools Overview means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **McDonald's's** website or ads in another tab. As you read, note one place they already apply (or violate) **Funnel Builder Tools Overview**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Funnel Builder Tools Overview in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Compare 2 funnel tools in a table: price, email, CRM, best for whom."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Funnel Builder Tools Overview\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Funnel Builder Tools Overview helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply funnel builder tools overview to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Funnel Builder Tools Overview**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Funnel Builder Tools Overview\n\nCompare 2 funnel tools in a table: price, email, CRM, best for whom.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real funnel snapshot: **Spotify** Free → Premium\n\n| Stage | User behavior | Spotify tactic |\n|-------|---------------|----------------|\n| **TOFU** | Hears about free music | Social ads, podcasts, word of mouth |\n| **MOFU** | Uses free tier daily | Playlists, Discover Weekly (habit) |\n| **BOFU** | Hits ads / offline limit | \"3 months Premium for $0.99\" offer |\n| **Retention** | Stays subscribed | Wrapped, family plan, podcasts |\n\n**Numbers mindset:** If 100M free users and 2% convert to paid monthly, that's 2M new subscribers — funnel math at scale.",
+    "realWorld": "### Where you see **Funnel Builder Tools Overview** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Funnel Builder Tools Overview clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Funnel Builder Tools Overview\n\nCompare 2 funnel tools in a table: price, email, CRM, best for whom.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Funnel Builder Tools Overview is best learned by…",
+        "question": "Which is the best real-world reference for Funnel Builder Tools Overview?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "McDonald's — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"All-in-one vs best-of-breed stack\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "All-in-one vs best-of-breed stack",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }
@@ -1827,95 +1827,95 @@ export const _marketing_funnelsLessons = [
     "track": "marketing-funnels",
     "level": "base",
     "order": 19,
-    "estimatedMinutes": 32,
+    "estimatedMinutes": 38,
     "summary": "Brand campaigns may focus one stage; performance marketing often owns full funnel.",
     "objectives": [
-      "Define Full-Funnel vs Single-Stage Campaigns clearly in your own words",
-      "Explain how Full-Funnel vs Single-Stage Campaigns connects to funnel stages and business goals",
-      "Identify when teams apply Full-Funnel vs Single-Stage Campaigns in real campaigns",
-      "Complete a practice deliverable you could show in a portfolio"
+      "Explain Full-Funnel vs Single-Stage Campaigns in plain English with a real brand example",
+      "Apply Full-Funnel vs Single-Stage Campaigns to a funnel stage and name the right KPI",
+      "Work through numeric or scenario examples (not theory only)",
+      "Complete the practice deliverable with documented results"
     ],
-    "whatIs": "### What is Full-Funnel vs Single-Stage Campaigns?\n\n**Full-Funnel vs Single-Stage Campaigns** is a core part of professional digital marketing. Brand campaigns may focus one stage; performance marketing often owns full funnel.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- TOFU-only builds awareness but may not ROI quickly\n- BOFU-only exhausts small audiences\n- Full-funnel needs consistent creative\n- Budget split by stage goals\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Brand campaigns may focus one stage; performance marketing often owns full funnel. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
-    "whyUse": "Full-Funnel vs Single-Stage Campaigns reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
-    "whenToUse": "Apply Full-Funnel vs Single-Stage Campaigns when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "whatIs": "### What is Full-Funnel vs Single-Stage Campaigns?\n\n**Full-Funnel vs Single-Stage Campaigns** — Brand campaigns may focus one stage; performance marketing often owns full funnel.\n\nRead this section fully. Below, each idea is explained in plain English with enough detail to use on a real client or job interview — not just memorize a definition.\n\n#### 1. TOFU-only builds awareness but may not ROI quickly\n\nAt this stage the buyer often does not know your brand yet. Content should educate and earn attention — not push a hard sale on first touch.\n\n#### 2. BOFU-only exhausts small audiences\n\nThis point matters because it connects directly to **Full-Funnel vs Single-Stage Campaigns** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 3. Full-funnel needs consistent creative\n\nThis point matters because it connects directly to **Full-Funnel vs Single-Stage Campaigns** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n#### 4. Budget split by stage goals\n\nThis point matters because it connects directly to **Full-Funnel vs Single-Stage Campaigns** in live campaigns. When you audit a brand, look for evidence of this principle in their website, ads, or emails — then note what they do well and what you would fix.\n\n### Quick reference\n\n| Question | Answer |\n|----------|--------|\n| **One-line summary** | Brand campaigns may focus one stage; performance marketing often owns full funnel. |\n| **Level** | base — foundational for all marketers |\n| **Proof you learned it** | Practice deliverable + quiz + real brand notes |",
+    "whyUse": "**Full-Funnel vs Single-Stage Campaigns** turns vague \"we should market more\" into decisions you can defend. Managers and clients ask *why this channel, why this budget, why this message* — this topic gives you the vocabulary and logic to answer with evidence, not opinions.",
+    "whenToUse": "Use **Full-Funnel vs Single-Stage Campaigns** when writing a marketing plan, auditing a live campaign, preparing for Google/Meta/HubSpot interviews, or building a case study. Skip deep dives here only after you can teach the basics to someone else using a real example.",
     "steps": [
       {
-        "title": "Learn the concept",
-        "body": "Read what Full-Funnel vs Single-Stage Campaigns means and list 3 real-world examples from brands you follow."
+        "title": "Read with a real brand in mind",
+        "body": "Open **Casper's** website or ads in another tab. As you read, note one place they already apply (or violate) **Full-Funnel vs Single-Stage Campaigns**. Screenshot optional."
       },
       {
-        "title": "Map to a funnel stage",
-        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+        "title": "Write the definition in your own words",
+        "body": "Without looking, explain Full-Funnel vs Single-Stage Campaigns in 2–3 sentences a friend would understand. If you use jargon (CPC, TOFU, etc.), define it inline."
       },
       {
-        "title": "Choose metrics",
-        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+        "title": "Map to funnel stage",
+        "body": "Label this topic: primarily TOFU, MOFU, BOFU, or retention? One sentence why. Example: 'BOFU — removes checkout friction.'"
       },
       {
-        "title": "Study the example",
-        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+        "title": "Study the worked example",
+        "body": "Copy the numbers table from the Examples tab into your notes. Recalculate one metric manually (CTR, CPA, ROAS, or conversion rate)."
       },
       {
-        "title": "Complete practice",
-        "body": "Produce the written deliverable described in the Practice tab."
+        "title": "Complete the practice task",
+        "body": "Propose % budget split TOFU/MOFU/BOFU for a new D2C brand."
       },
       {
-        "title": "Validate with quiz",
-        "body": "Score 100% on the quiz or redo until confident."
+        "title": "Self-check before quiz",
+        "body": "Can you name one real company example, one metric, and one common mistake? If not, re-read Deep dive sections."
       }
     ],
-    "example": "### Worked example: Full-Funnel vs Single-Stage Campaigns\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Full-Funnel vs Single-Stage Campaigns helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply full-funnel vs single-stage campaigns to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
-    "realWorld": "Agencies bill clients for expertise in areas like **Full-Funnel vs Single-Stage Campaigns**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
-    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
-    "tryIt": "### Practice — Full-Funnel vs Single-Stage Campaigns\n\nPropose % budget split TOFU/MOFU/BOFU for a new D2C brand.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "example": "### Real funnel snapshot: **Spotify** Free → Premium\n\n| Stage | User behavior | Spotify tactic |\n|-------|---------------|----------------|\n| **TOFU** | Hears about free music | Social ads, podcasts, word of mouth |\n| **MOFU** | Uses free tier daily | Playlists, Discover Weekly (habit) |\n| **BOFU** | Hits ads / offline limit | \"3 months Premium for $0.99\" offer |\n| **Retention** | Stays subscribed | Wrapped, family plan, podcasts |\n\n**Numbers mindset:** If 100M free users and 2% convert to paid monthly, that's 2M new subscribers — funnel math at scale.",
+    "realWorld": "### Where you see **Full-Funnel vs Single-Stage Campaigns** in the real world\n\n**Dropbox** grew with a referral funnel (free storage for invites) — classic AARRR referral loop.\n\n**Webinar funnels:** HubSpot's free certification courses feed millions of leads into Marketing Hub sales.\n\n**Tripwire:** Ryan Deiss popularized $7 ebook funnels that fund ad spend while backend courses profit.\n\n**Portfolio tip:** Pick one case above and write 5 bullets: situation, tactic, metric, result, what you'd test next.",
+    "commonMistakes": "1. **Only reading definitions** — Full-Funnel vs Single-Stage Campaigns clicks when you apply it to a named brand with numbers\n2. **Same example for every topic** — compare Nike vs. HubSpot vs. a local shop; context changes tactics\n3. **No baseline metric** — write \"before\" numbers or you cannot prove improvement\n4. **Tool obsession** — software does not replace strategy; learn the why first\n5. **Isolated channel thinking** — tie this lesson to email + ads + site together, not one silo",
+    "tryIt": "### Practice — Full-Funnel vs Single-Stage Campaigns\n\nPropose % budget split TOFU/MOFU/BOFU for a new D2C brand.\n\n**Use a REAL brand** (e.g. one you shop from, a local business, or a site you admire). **Deliverable:**\n- Brand name\n- What you observed or changed\n- At least **one number** (traffic, followers, price, CTR estimate, etc.)\n- One sentence: what you'd test next week",
     "quiz": [
       {
-        "question": "Full-Funnel vs Single-Stage Campaigns is best learned by…",
+        "question": "Which is the best real-world reference for Full-Funnel vs Single-Stage Campaigns?",
         "options": [
-          "Theory + practice on a real example",
-          "Definitions only",
-          "Skipping metrics",
-          "Ignoring audience"
+          "Casper — study their live marketing",
+          "A random meme page",
+          "Ignore all brands",
+          "Only textbook definitions"
         ],
         "answer": 0
       },
       {
-        "question": "A strong deliverable after this lesson includes…",
+        "question": "\"TOFU-only builds awareness but may not ROI quickly\" in practice means…",
         "options": [
-          "Written notes with metrics and actions",
-          "Nothing",
-          "Only screenshots",
-          "Copied competitor text"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "This topic connects to business goals through…",
-        "options": [
-          "Measurable outcomes",
-          "Random posts",
-          "Ignoring data",
-          "No funnel context"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Best way to learn this topic?",
-        "options": [
-          "Read + complete the practice task",
-          "Skip the practice exercise",
-          "Memorize definitions only",
-          "Jump to advanced tactics without basics"
+          "TOFU-only builds awareness but may not ROI quickly",
+          "Memorize without using",
+          "Only for enterprise",
+          "Not measurable"
         ],
         "answer": 0
       },
       {
         "question": "After this lesson you should be able to…",
         "options": [
-          "Explain it and apply it to a real brand",
-          "Only recite definitions",
-          "Ignore metrics",
-          "Avoid hands-on practice"
+          "Explain with a real example + numbers",
+          "Only recite the title",
+          "Skip practice",
+          "Avoid all tools"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A portfolio-ready note includes…",
+        "options": [
+          "Brand, action, metric, result",
+          "Copied text only",
+          "No numbers",
+          "Only definitions"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best next step after reading?",
+        "options": [
+          "Complete Practice + quiz",
+          "Skip to Module 14",
+          "Ignore examples",
+          "Never apply to a brand"
         ],
         "answer": 0
       }

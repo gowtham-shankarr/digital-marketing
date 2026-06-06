@@ -4,22 +4,12 @@
  */
 import { lessonsFromRows } from "./dm-lesson-builder.mjs";
 
-function q(question, options, answer) {
-  return { question, options, answer };
-}
-
-const defaultQuiz = (title) => [
-  q(`${title} is best learned by…`, ["Theory + practice on a real example", "Definitions only", "Skipping metrics", "Ignoring audience"], 0),
-  q("A strong deliverable after this lesson includes…", ["Written notes with metrics and actions", "Nothing", "Only screenshots", "Copied competitor text"], 0),
-  q("This topic connects to business goals through…", ["Measurable outcomes", "Random posts", "Ignoring data", "No funnel context"], 0),
-];
-
 function mod(id, title, description, icon, color, order, rows) {
   const lessons = lessonsFromRows(
     id,
     rows.map((r) => {
       const [t, level, summary, sections, practice] = r;
-      return [t, level, summary, sections, practice, defaultQuiz(t)];
+      return [t, level, summary, sections, practice, []];
     })
   );
   return { id, title, description, icon, color, order, lessons };

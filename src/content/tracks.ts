@@ -23,7 +23,7 @@ export const trackMeta = [
     "color": "bg-violet-500",
     "order": 0,
     "lessonCount": 11,
-    "estimatedMinutes": 352
+    "estimatedMinutes": 427
   },
   {
     "id": "marketing-funnels",
@@ -33,7 +33,7 @@ export const trackMeta = [
     "color": "bg-fuchsia-500",
     "order": 1,
     "lessonCount": 19,
-    "estimatedMinutes": 608
+    "estimatedMinutes": 722
   },
   {
     "id": "website-cro",
@@ -43,7 +43,7 @@ export const trackMeta = [
     "color": "bg-cyan-500",
     "order": 2,
     "lessonCount": 10,
-    "estimatedMinutes": 320
+    "estimatedMinutes": 380
   },
   {
     "id": "seo",
@@ -53,7 +53,7 @@ export const trackMeta = [
     "color": "bg-green-500",
     "order": 3,
     "lessonCount": 13,
-    "estimatedMinutes": 416
+    "estimatedMinutes": 494
   },
   {
     "id": "sem-ppc",
@@ -63,7 +63,7 @@ export const trackMeta = [
     "color": "bg-orange-500",
     "order": 4,
     "lessonCount": 14,
-    "estimatedMinutes": 448
+    "estimatedMinutes": 532
   },
   {
     "id": "content-marketing",
@@ -73,7 +73,7 @@ export const trackMeta = [
     "color": "bg-amber-500",
     "order": 5,
     "lessonCount": 10,
-    "estimatedMinutes": 320
+    "estimatedMinutes": 380
   },
   {
     "id": "social-media",
@@ -83,7 +83,7 @@ export const trackMeta = [
     "color": "bg-sky-500",
     "order": 6,
     "lessonCount": 14,
-    "estimatedMinutes": 448
+    "estimatedMinutes": 532
   },
   {
     "id": "email-marketing",
@@ -93,7 +93,7 @@ export const trackMeta = [
     "color": "bg-indigo-500",
     "order": 7,
     "lessonCount": 11,
-    "estimatedMinutes": 352
+    "estimatedMinutes": 418
   },
   {
     "id": "automation-crm",
@@ -103,7 +103,7 @@ export const trackMeta = [
     "color": "bg-purple-500",
     "order": 8,
     "lessonCount": 7,
-    "estimatedMinutes": 224
+    "estimatedMinutes": 266
   },
   {
     "id": "analytics",
@@ -113,7 +113,7 @@ export const trackMeta = [
     "color": "bg-emerald-500",
     "order": 9,
     "lessonCount": 8,
-    "estimatedMinutes": 256
+    "estimatedMinutes": 304
   },
   {
     "id": "other-channels",
@@ -123,7 +123,7 @@ export const trackMeta = [
     "color": "bg-pink-500",
     "order": 10,
     "lessonCount": 10,
-    "estimatedMinutes": 320
+    "estimatedMinutes": 380
   },
   {
     "id": "strategy-branding",
@@ -133,7 +133,7 @@ export const trackMeta = [
     "color": "bg-rose-500",
     "order": 11,
     "lessonCount": 6,
-    "estimatedMinutes": 192
+    "estimatedMinutes": 228
   },
   {
     "id": "advanced-emerging",
@@ -143,7 +143,7 @@ export const trackMeta = [
     "color": "bg-yellow-500",
     "order": 12,
     "lessonCount": 7,
-    "estimatedMinutes": 224
+    "estimatedMinutes": 266
   },
   {
     "id": "legal-career",
@@ -153,7 +153,7 @@ export const trackMeta = [
     "color": "bg-slate-500",
     "order": 13,
     "lessonCount": 7,
-    "estimatedMinutes": 224
+    "estimatedMinutes": 270
   }
 ] as const;
 

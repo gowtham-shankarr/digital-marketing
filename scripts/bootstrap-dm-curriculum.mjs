@@ -3,7 +3,7 @@
  * Bootstrap 14-module DM curriculum + deep indexes + generator registry.
  * Run: node scripts/bootstrap-dm-curriculum.mjs
  */
-import { writeFileSync, mkdirSync, readFileSync } from "fs";
+import { writeFileSync, mkdirSync, readFileSync, existsSync } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 import { FULL_CURRICULUM_TRACKS } from "./curriculum/full-curriculum.mjs";
@@ -30,7 +30,10 @@ function writeTrackFile(track) {
 
   const deepDir = join(curriculumDir, `${track.id}-deep`);
   mkdirSync(deepDir, { recursive: true });
-  writeFileSync(join(deepDir, "index.mjs"), `/** Hand-authored deep overrides for ${track.id} */\nexport const ${deepVar} = {};\n`);
+  const deepIndexPath = join(deepDir, "index.mjs");
+  if (!existsSync(deepIndexPath)) {
+    writeFileSync(deepIndexPath, `/** Hand-authored deep overrides for ${track.id} */\nexport const ${deepVar} = {};\n`);
+  }
 
   const content = `import { applyAllDeepOverrides } from "./deep-content/merge.mjs";
 import { ${genVar} } from "./deep-content/generated/${track.id}.mjs";
