@@ -12,17 +12,19 @@ import { cn } from "@/lib/utils";
 
 const iconMap: Record<string, string> = {
   Rocket: "🚀",
-  Target: "🎯",
-  FileText: "📝",
+  Filter: "🔽",
+  Layout: "🖥️",
   Search: "🔍",
+  DollarSign: "💰",
+  FileText: "📝",
   Share2: "📱",
   Mail: "✉️",
-  DollarSign: "💰",
+  Workflow: "⚙️",
   BarChart3: "📊",
+  Radio: "📻",
+  Compass: "🧭",
   Sparkles: "✨",
-  TrendingUp: "📈",
-  Map: "🗺️",
-  Briefcase: "💼",
+  GraduationCap: "🎓",
 };
 
 export function TrackCard({ track }: { track: Track }) {

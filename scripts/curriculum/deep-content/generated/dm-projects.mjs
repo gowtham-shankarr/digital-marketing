@@ -1,2 +1,0 @@
-/** AUTO-GENERATED */
-export const DM_PROJECTS_GENERATED = {};

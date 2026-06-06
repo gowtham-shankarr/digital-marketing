@@ -2,76 +2,80 @@ import type { Lesson } from "@/lib/types";
 
 export const social_mediaLessons: Lesson[] = [
   {
-    "slug": "social-media-intro",
-    "title": "Social Media Marketing Intro",
+    "slug": "social-platform-landscape-overview",
+    "title": "Social Platform Landscape Overview",
     "track": "social-media",
     "level": "base",
     "order": 1,
-    "estimatedMinutes": 28,
-    "summary": "Build community and drive traffic/sales on platforms where audiences engage.",
+    "estimatedMinutes": 32,
+    "summary": "Facebook, Instagram, LinkedIn, X, TikTok, YouTube, Pinterest, Threads, Snapchat — different audiences.",
     "objectives": [
-      "Define Social Media Marketing Intro in your own words",
-      "Explain why Social Media Marketing Intro matters for business growth",
-      "Identify when to use Social Media Marketing Intro in a campaign",
-      "Complete a hands-on practice task for Social Media Marketing Intro"
+      "Define Social Platform Landscape Overview clearly in your own words",
+      "Explain how Social Platform Landscape Overview connects to funnel stages and business goals",
+      "Identify when teams apply Social Platform Landscape Overview in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Social Media Marketing Intro?\n\n**Social Media Marketing Intro** is essential for modern marketers. Build community and drive traffic/sales on platforms where audiences engage.\n\nIn real campaigns, teams use social media marketing intro to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align social media marketing intro with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Build community and drive traffic/sales on platforms where audiences engage. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nSocial Media Marketing Intro is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Social Media Marketing Intro improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use social media marketing intro when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Social Platform Landscape Overview?\n\n**Social Platform Landscape Overview** is a core part of professional digital marketing. Facebook, Instagram, LinkedIn, X, TikTok, YouTube, Pinterest, Threads, Snapchat — different audiences.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- B2B skews LinkedIn\n- Gen Z: TikTok, Instagram Reels\n- YouTube long-form + Shorts\n- Pick 2–3 platforms max at start\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Facebook, Instagram, LinkedIn, X, TikTok, YouTube, Pinterest, Threads, Snapchat — different audiences. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Social Platform Landscape Overview reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Social Platform Landscape Overview when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Social Media Marketing Intro means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Social Platform Landscape Overview means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Social Media Marketing Intro in action\n\nImagine a small online store launching a new product. The team uses **Social Media Marketing Intro** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Social Media Marketing Intro**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Social Media Marketing Intro\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Apply deployment/CI concepts from Social Media Marketing Intro.\n\n**Part A — Checklist** — List 5 pre-deploy checks (build, lint, env vars, preview URL, smoke test).\n\n**Part B — Script** — Run `npm run build` locally. Fix any error before proceeding.\n\n**Part C — Document** — Write 3-line deploy runbook: trigger, verify, rollback.\n\n**Done when:** Build passes; runbook is actionable.",
+    "example": "### Worked example: Social Platform Landscape Overview\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Social Platform Landscape Overview helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply social platform landscape overview to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Social Platform Landscape Overview**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Social Platform Landscape Overview\n\nChoose 2 platforms for a brand you like; justify with audience data.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Social marketing is…",
+        "question": "Social Platform Landscape Overview is best learned by…",
         "options": [
-          "Engaging on platforms",
-          "Print only",
-          "DNS",
-          "Payroll"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Pick platforms by…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Audience presence",
-          "Random",
-          "Fonts",
-          "CSS"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Success needs…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Consistent value",
-          "Spam",
-          "No plan",
-          "Hidden CTA"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -81,7 +85,7 @@ export const social_mediaLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -99,76 +103,80 @@ export const social_mediaLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "platform-strategy",
-    "title": "Platform Strategy",
+    "slug": "choosing-the-right-platforms",
+    "title": "Choosing the Right Platforms",
     "track": "social-media",
     "level": "base",
     "order": 2,
-    "estimatedMinutes": 30,
-    "summary": "Match content format to LinkedIn, Instagram, TikTok, X, YouTube strengths.",
+    "estimatedMinutes": 32,
+    "summary": "Go where your ICP spends time; don't spread thin.",
     "objectives": [
-      "Define Platform Strategy in your own words",
-      "Explain why Platform Strategy matters for business growth",
-      "Identify when to use Platform Strategy in a campaign",
-      "Complete a hands-on practice task for Platform Strategy"
+      "Define Choosing the Right Platforms clearly in your own words",
+      "Explain how Choosing the Right Platforms connects to funnel stages and business goals",
+      "Identify when teams apply Choosing the Right Platforms in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Platform Strategy?\n\n**Platform Strategy** is essential for modern marketers. Match content format to LinkedIn, Instagram, TikTok, X, YouTube strengths.\n\nIn real campaigns, teams use platform strategy to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align platform strategy with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Match content format to LinkedIn, Instagram, TikTok, X, YouTube strengths. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nPlatform Strategy is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Platform Strategy improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use platform strategy when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Choosing the Right Platforms?\n\n**Choosing the Right Platforms** is a core part of professional digital marketing. Go where your ICP spends time; don't spread thin.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Research competitor presence\n- Test 90 days before quitting\n- Resource reality check\n- Repurpose across chosen set\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Go where your ICP spends time; don't spread thin. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Choosing the Right Platforms reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Choosing the Right Platforms when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Platform Strategy means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Choosing the Right Platforms means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Platform Strategy in action\n\nImagine a small online store launching a new product. The team uses **Platform Strategy** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Platform Strategy**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Platform Strategy\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Build and validate a form for Platform Strategy.\n\n**Part A — Markup** — Create form with label+input pairs (text, email). Use proper `for`/`id`.\n\n**Part B — Validate** — Add required, minlength, or pattern. Submit empty — read browser message.\n\n**Part C — JS hook** — preventDefault on submit. Log FormData entries to console.\n\n**Done when:** Invalid submit blocked; valid submit logs correct data.",
+    "example": "### Worked example: Choosing the Right Platforms\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Choosing the Right Platforms helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply choosing the right platforms to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Choosing the Right Platforms**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Choosing the Right Platforms\n\nWrite platform rationale doc: 1 page for fictional startup.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "LinkedIn suits…",
+        "question": "Choosing the Right Platforms is best learned by…",
         "options": [
-          "B2B professional",
-          "Only memes",
-          "Payroll",
-          "DNS"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "TikTok favors…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Short video",
-          "Whitepapers",
-          "CSS",
-          "Tax"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Strategy avoids…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Posting everywhere identical",
-          "Goals",
-          "Audience",
-          "Metrics"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -178,7 +186,7 @@ export const social_mediaLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -196,76 +204,80 @@ export const social_mediaLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "social-content-types",
-    "title": "Social Content Types",
+    "slug": "organic-social-strategy-and-content-pillars",
+    "title": "Organic Social Strategy and Content Pillars",
     "track": "social-media",
     "level": "base",
     "order": 3,
-    "estimatedMinutes": 28,
-    "summary": "Educational, entertaining, promotional mix — 80/20 value vs sell.",
+    "estimatedMinutes": 32,
+    "summary": "Repeatable themes: educate, entertain, inspire, promote (80/20 rule).",
     "objectives": [
-      "Define Social Content Types in your own words",
-      "Explain why Social Content Types matters for business growth",
-      "Identify when to use Social Content Types in a campaign",
-      "Complete a hands-on practice task for Social Content Types"
+      "Define Organic Social Strategy and Content Pillars clearly in your own words",
+      "Explain how Organic Social Strategy and Content Pillars connects to funnel stages and business goals",
+      "Identify when teams apply Organic Social Strategy and Content Pillars in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Social Content Types?\n\n**Social Content Types** is essential for modern marketers. Educational, entertaining, promotional mix — 80/20 value vs sell.\n\nIn real campaigns, teams use social content types to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align social content types with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Educational, entertaining, promotional mix — 80/20 value vs sell. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nSocial Content Types is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Social Content Types improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use social content types when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Organic Social Strategy and Content Pillars?\n\n**Organic Social Strategy and Content Pillars** is a core part of professional digital marketing. Repeatable themes: educate, entertain, inspire, promote (80/20 rule).\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- 3–5 pillars documented\n- Brand voice guide\n- Native formats per platform\n- Consistency beats viral lottery\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Repeatable themes: educate, entertain, inspire, promote (80/20 rule). |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Organic Social Strategy and Content Pillars reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Organic Social Strategy and Content Pillars when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Social Content Types means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Organic Social Strategy and Content Pillars means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Social Content Types in action\n\nImagine a small online store launching a new product. The team uses **Social Content Types** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Social Content Types**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Social Content Types\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Apply TypeScript types for Social Content Types.\n\n**Part A — Annotate** — Add types to function params and return. Fix one intentional error.\n\n**Part B — Interface** — Define interface for object shape. Use on a variable and function arg.\n\n**Part C — Narrow** — Use typeof or in check to narrow union type in if block.\n\n**Done when:** tsc/Sandpack shows error before fix and passes after.",
+    "example": "### Worked example: Organic Social Strategy and Content Pillars\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Organic Social Strategy and Content Pillars helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply organic social strategy and content pillars to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Organic Social Strategy and Content Pillars**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Organic Social Strategy and Content Pillars\n\nDefine 4 content pillars + 3 post ideas each for a cafe.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Too promotional…",
+        "question": "Organic Social Strategy and Content Pillars is best learned by…",
         "options": [
-          "Loses followers",
-          "Improves trust always",
-          "Fixes SEO",
-          "Removes email"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Educational posts…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Build authority",
-          "Hide brand",
-          "Spam",
-          "DNS"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Mix depends on…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Audience and funnel",
-          "Random",
-          "Fonts",
-          "CSS"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -275,7 +287,7 @@ export const social_mediaLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -293,76 +305,80 @@ export const social_mediaLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "social-copy-hooks",
-    "title": "Social Copy & Hooks",
+    "slug": "facebook-and-instagram-marketing",
+    "title": "Facebook and Instagram Marketing",
     "track": "social-media",
     "level": "base",
     "order": 4,
-    "estimatedMinutes": 28,
-    "summary": "First line hooks, concise captions, CTAs, hashtags strategically.",
+    "estimatedMinutes": 32,
+    "summary": "Meta ecosystem: feed, Stories, Reels, Groups, Shops.",
     "objectives": [
-      "Define Social Copy & Hooks in your own words",
-      "Explain why Social Copy & Hooks matters for business growth",
-      "Identify when to use Social Copy & Hooks in a campaign",
-      "Complete a hands-on practice task for Social Copy & Hooks"
+      "Define Facebook and Instagram Marketing clearly in your own words",
+      "Explain how Facebook and Instagram Marketing connects to funnel stages and business goals",
+      "Identify when teams apply Facebook and Instagram Marketing in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Social Copy & Hooks?\n\n**Social Copy & Hooks** is essential for modern marketers. First line hooks, concise captions, CTAs, hashtags strategically.\n\nIn real campaigns, teams use social copy & hooks to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align social copy & hooks with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | First line hooks, concise captions, CTAs, hashtags strategically. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nSocial Copy & Hooks is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Social Copy & Hooks improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use social copy & hooks when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Facebook and Instagram Marketing?\n\n**Facebook and Instagram Marketing** is a core part of professional digital marketing. Meta ecosystem: feed, Stories, Reels, Groups, Shops.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Business suite scheduling\n- Reels for reach\n- Community in Groups\n- Shop and catalog for D2C\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Meta ecosystem: feed, Stories, Reels, Groups, Shops. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Facebook and Instagram Marketing reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Facebook and Instagram Marketing when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Social Copy & Hooks means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Facebook and Instagram Marketing means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Social Copy & Hooks in action\n\nImagine a small online store launching a new product. The team uses **Social Copy & Hooks** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Social Copy & Hooks**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Social Copy & Hooks\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Use React hooks for Social Copy & Hooks.\n\n**Part A — State** — useState with button toggling boolean or counter.\n\n**Part B — Effect** — useEffect logging mount. Optional: cleanup on unmount.\n\n**Part C — Refactor** — Extract custom hook `useToggle()` and use in component.\n\n**Done when:** UI reacts to state; effect runs on mount.",
+    "example": "### Worked example: Facebook and Instagram Marketing\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Facebook and Instagram Marketing helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply facebook and instagram marketing to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Facebook and Instagram Marketing**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Facebook and Instagram Marketing\n\nPlan 1 week of IG: 3 Reels, 2 carousels, 2 Stories themes.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Hook should…",
+        "question": "Facebook and Instagram Marketing is best learned by…",
         "options": [
-          "Stop the scroll",
-          "Hide message",
-          "Use jargon only",
-          "Skip mobile"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Hashtags…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Aid discovery when relevant",
-          "Replace strategy",
-          "Spam always",
-          "DNS"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "CTA examples…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Save, comment, link",
-          "None",
-          "Close account",
-          "Payroll"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -372,7 +388,7 @@ export const social_mediaLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -390,76 +406,80 @@ export const social_mediaLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "social-scheduling",
-    "title": "Scheduling & Planning",
+    "slug": "linkedin-marketing-organic-and-paid",
+    "title": "LinkedIn Marketing Organic and Paid",
     "track": "social-media",
-    "level": "intermediate",
+    "level": "base",
     "order": 5,
-    "estimatedMinutes": 28,
-    "summary": "Batch create, schedule with Meta Suite/Buffer, best times to post.",
+    "estimatedMinutes": 32,
+    "summary": "B2B thought leadership and precise job targeting ads.",
     "objectives": [
-      "Define Scheduling & Planning in your own words",
-      "Explain why Scheduling & Planning matters for business growth",
-      "Identify when to use Scheduling & Planning in a campaign",
-      "Complete a hands-on practice task for Scheduling & Planning"
+      "Define LinkedIn Marketing Organic and Paid clearly in your own words",
+      "Explain how LinkedIn Marketing Organic and Paid connects to funnel stages and business goals",
+      "Identify when teams apply LinkedIn Marketing Organic and Paid in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Scheduling & Planning?\n\n**Scheduling & Planning** is essential for modern marketers. Batch create, schedule with Meta Suite/Buffer, best times to post.\n\nIn real campaigns, teams use scheduling & planning to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align scheduling & planning with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Batch create, schedule with Meta Suite/Buffer, best times to post. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nScheduling & Planning is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Scheduling & Planning improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use scheduling & planning when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is LinkedIn Marketing Organic and Paid?\n\n**LinkedIn Marketing Organic and Paid** is a core part of professional digital marketing. B2B thought leadership and precise job targeting ads.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Personal + company page strategy\n- Document posts and newsletters\n- LinkedIn Ads: lead gen forms\n- Employee advocacy\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | B2B thought leadership and precise job targeting ads. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "LinkedIn Marketing Organic and Paid reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply LinkedIn Marketing Organic and Paid when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Scheduling & Planning means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what LinkedIn Marketing Organic and Paid means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Scheduling & Planning in action\n\nImagine a small online store launching a new product. The team uses **Scheduling & Planning** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Scheduling & Planning**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Scheduling & Planning\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Apply deployment/CI concepts from Scheduling & Planning.\n\n**Part A — Checklist** — List 5 pre-deploy checks (build, lint, env vars, preview URL, smoke test).\n\n**Part B — Script** — Run `npm run build` locally. Fix any error before proceeding.\n\n**Part C — Document** — Write 3-line deploy runbook: trigger, verify, rollback.\n\n**Done when:** Build passes; runbook is actionable.",
+    "example": "### Worked example: LinkedIn Marketing Organic and Paid\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How LinkedIn Marketing Organic and Paid helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply linkedin marketing organic and paid to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **LinkedIn Marketing Organic and Paid**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — LinkedIn Marketing Organic and Paid\n\nDraft LinkedIn post hook + 3 bullet value for SaaS CEO.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Scheduling helps…",
+        "question": "LinkedIn Marketing Organic and Paid is best learned by…",
         "options": [
-          "Consistency",
-          "Random chaos",
-          "No goals",
-          "CSS"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Batching…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Saves time",
-          "Removes quality",
-          "DNS",
-          "Tax"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Review times using…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Analytics",
-          "Guessing only",
-          "Fonts",
-          "Payroll"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -469,7 +489,7 @@ export const social_mediaLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -487,76 +507,80 @@ export const social_mediaLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "community-management",
-    "title": "Community Management",
+    "slug": "x-twitter-and-threads",
+    "title": "X (Twitter) and Threads",
     "track": "social-media",
-    "level": "intermediate",
+    "level": "base",
     "order": 6,
-    "estimatedMinutes": 28,
-    "summary": "Reply guidelines, handling complaints, fostering discussion.",
+    "estimatedMinutes": 32,
+    "summary": "Real-time conversation and text-first communities.",
     "objectives": [
-      "Define Community Management in your own words",
-      "Explain why Community Management matters for business growth",
-      "Identify when to use Community Management in a campaign",
-      "Complete a hands-on practice task for Community Management"
+      "Define X (Twitter) and Threads clearly in your own words",
+      "Explain how X (Twitter) and Threads connects to funnel stages and business goals",
+      "Identify when teams apply X (Twitter) and Threads in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Community Management?\n\n**Community Management** is essential for modern marketers. Reply guidelines, handling complaints, fostering discussion.\n\nIn real campaigns, teams use community management to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align community management with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Reply guidelines, handling complaints, fostering discussion. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nCommunity Management is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Community Management improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use community management when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is X (Twitter) and Threads?\n\n**X (Twitter) and Threads** is a core part of professional digital marketing. Real-time conversation and text-first communities.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Short punchy takes\n- Engage in replies\n- Threads for lighter Meta audience\n- Avoid ratio without strategy\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Real-time conversation and text-first communities. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "X (Twitter) and Threads reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply X (Twitter) and Threads when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Community Management means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what X (Twitter) and Threads means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Community Management in action\n\nImagine a small online store launching a new product. The team uses **Community Management** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Community Management**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Community Management\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Community Management by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Community Management example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Community Management: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Community Management to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: X (Twitter) and Threads\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How X (Twitter) and Threads helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply x (twitter) and threads to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **X (Twitter) and Threads**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — X (Twitter) and Threads\n\nWrite 5 tweet angles for product launch (no links yet).\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Fast replies…",
+        "question": "X (Twitter) and Threads is best learned by…",
         "options": [
-          "Build trust",
-          "Always ignore",
-          "Spam",
-          "DNS"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Complaints need…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Empathy and solution",
-          "Arguments",
-          "Delete all",
-          "CSS"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Community grows…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "With genuine engagement",
-          "Buy bots",
-          "Hide brand",
-          "Tax"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -566,7 +590,7 @@ export const social_mediaLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -584,76 +608,80 @@ export const social_mediaLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "influencer-basics",
-    "title": "Influencer Marketing Basics",
+    "slug": "tiktok-and-short-form-video",
+    "title": "TikTok and Short-Form Video",
     "track": "social-media",
-    "level": "intermediate",
+    "level": "base",
     "order": 7,
-    "estimatedMinutes": 30,
-    "summary": "Micro vs macro influencers, briefs, disclosure (#ad), ROI.",
+    "estimatedMinutes": 32,
+    "summary": "Algorithm favors watch time and hooks; authenticity wins.",
     "objectives": [
-      "Define Influencer Marketing Basics in your own words",
-      "Explain why Influencer Marketing Basics matters for business growth",
-      "Identify when to use Influencer Marketing Basics in a campaign",
-      "Complete a hands-on practice task for Influencer Marketing Basics"
+      "Define TikTok and Short-Form Video clearly in your own words",
+      "Explain how TikTok and Short-Form Video connects to funnel stages and business goals",
+      "Identify when teams apply TikTok and Short-Form Video in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Influencer Marketing Basics?\n\n**Influencer Marketing Basics** is essential for modern marketers. Micro vs macro influencers, briefs, disclosure (#ad), ROI.\n\nIn real campaigns, teams use influencer marketing basics to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align influencer marketing basics with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Micro vs macro influencers, briefs, disclosure (#ad), ROI. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nInfluencer Marketing Basics is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Influencer Marketing Basics improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use influencer marketing basics when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is TikTok and Short-Form Video?\n\n**TikTok and Short-Form Video** is a core part of professional digital marketing. Algorithm favors watch time and hooks; authenticity wins.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- First 2 seconds critical\n- Trends vs evergreen education\n- TikTok Shop emerging\n- Repurpose to Reels/Shorts\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Algorithm favors watch time and hooks; authenticity wins. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "TikTok and Short-Form Video reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply TikTok and Short-Form Video when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Influencer Marketing Basics means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what TikTok and Short-Form Video means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Influencer Marketing Basics in action\n\nImagine a small online store launching a new product. The team uses **Influencer Marketing Basics** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Influencer Marketing Basics**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Influencer Marketing Basics\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Influencer Marketing Basics by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Influencer Marketing Basics example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Influencer Marketing Basics: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Influencer Marketing Basics to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: TikTok and Short-Form Video\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How TikTok and Short-Form Video helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply tiktok and short-form video to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **TikTok and Short-Form Video**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — TikTok and Short-Form Video\n\nScript 30-second TikTok: hook, value, soft CTA.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Micro-influencers…",
+        "question": "TikTok and Short-Form Video is best learned by…",
         "options": [
-          "Niche engaged audiences",
-          "Always cheaper junk",
-          "DNS",
-          "CSS"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Disclosure…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Required ethically",
-          "Optional always",
-          "Hidden",
-          "Payroll"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Measure…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Reach and conversions",
-          "Likes only vanity",
-          "Fonts",
-          "Tax"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -663,7 +691,7 @@ export const social_mediaLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -681,76 +709,80 @@ export const social_mediaLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "social-ads-intro",
-    "title": "Social Paid Boost",
+    "slug": "youtube-and-pinterest-strategy",
+    "title": "YouTube and Pinterest Strategy",
     "track": "social-media",
-    "level": "intermediate",
+    "level": "base",
     "order": 8,
-    "estimatedMinutes": 28,
-    "summary": "Boost posts vs full ads manager campaigns — objectives and budgets.",
+    "estimatedMinutes": 32,
+    "summary": "Searchable video and visual discovery engines.",
     "objectives": [
-      "Define Social Paid Boost in your own words",
-      "Explain why Social Paid Boost matters for business growth",
-      "Identify when to use Social Paid Boost in a campaign",
-      "Complete a hands-on practice task for Social Paid Boost"
+      "Define YouTube and Pinterest Strategy clearly in your own words",
+      "Explain how YouTube and Pinterest Strategy connects to funnel stages and business goals",
+      "Identify when teams apply YouTube and Pinterest Strategy in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Social Paid Boost?\n\n**Social Paid Boost** is essential for modern marketers. Boost posts vs full ads manager campaigns — objectives and budgets.\n\nIn real campaigns, teams use social paid boost to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align social paid boost with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Boost posts vs full ads manager campaigns — objectives and budgets. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nSocial Paid Boost is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Social Paid Boost improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use social paid boost when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is YouTube and Pinterest Strategy?\n\n**YouTube and Pinterest Strategy** is a core part of professional digital marketing. Searchable video and visual discovery engines.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- YouTube SEO: title, thumb, chapters\n- Playlists and consistency\n- Pinterest pins as evergreen traffic\n- Idea pins and shopping\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Searchable video and visual discovery engines. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "YouTube and Pinterest Strategy reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply YouTube and Pinterest Strategy when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Social Paid Boost means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what YouTube and Pinterest Strategy means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Social Paid Boost in action\n\nImagine a small online store launching a new product. The team uses **Social Paid Boost** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Social Paid Boost**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Social Paid Boost\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Apply deployment/CI concepts from Social Paid Boost.\n\n**Part A — Checklist** — List 5 pre-deploy checks (build, lint, env vars, preview URL, smoke test).\n\n**Part B — Script** — Run `npm run build` locally. Fix any error before proceeding.\n\n**Part C — Document** — Write 3-line deploy runbook: trigger, verify, rollback.\n\n**Done when:** Build passes; runbook is actionable.",
+    "example": "### Worked example: YouTube and Pinterest Strategy\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How YouTube and Pinterest Strategy helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply youtube and pinterest strategy to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **YouTube and Pinterest Strategy**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — YouTube and Pinterest Strategy\n\nOutline YouTube video: title, thumb idea, 5 chapter timestamps.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Boost is…",
+        "question": "YouTube and Pinterest Strategy is best learned by…",
         "options": [
-          "Paid reach on post",
-          "Organic only",
-          "Email",
-          "DNS"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Pick objective…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Matches funnel stage",
-          "Random",
-          "Fonts",
-          "CSS"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Start small to…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Test creative",
-          "Spend all day one",
-          "Hide CTA",
-          "Tax"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -760,7 +792,7 @@ export const social_mediaLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -778,76 +810,80 @@ export const social_mediaLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "social-analytics",
-    "title": "Social Analytics",
+    "slug": "paid-social-meta-linkedin-tiktok-ads",
+    "title": "Paid Social: Meta, LinkedIn, TikTok Ads",
     "track": "social-media",
-    "level": "intermediate",
+    "level": "base",
     "order": 9,
-    "estimatedMinutes": 28,
-    "summary": "Reach, engagement rate, saves, profile visits, attribution limits.",
+    "estimatedMinutes": 32,
+    "summary": "Paid extends reach with targeting and retargeting.",
     "objectives": [
-      "Define Social Analytics in your own words",
-      "Explain why Social Analytics matters for business growth",
-      "Identify when to use Social Analytics in a campaign",
-      "Complete a hands-on practice task for Social Analytics"
+      "Define Paid Social: Meta, LinkedIn, TikTok Ads clearly in your own words",
+      "Explain how Paid Social: Meta, LinkedIn, TikTok Ads connects to funnel stages and business goals",
+      "Identify when teams apply Paid Social: Meta, LinkedIn, TikTok Ads in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Social Analytics?\n\n**Social Analytics** is essential for modern marketers. Reach, engagement rate, saves, profile visits, attribution limits.\n\nIn real campaigns, teams use social analytics to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align social analytics with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Reach, engagement rate, saves, profile visits, attribution limits. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nSocial Analytics is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Social Analytics improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use social analytics when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Paid Social: Meta, LinkedIn, TikTok Ads?\n\n**Paid Social: Meta, LinkedIn, TikTok Ads** is a core part of professional digital marketing. Paid extends reach with targeting and retargeting.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Campaign objective matches funnel\n- Creative testing 3–5 variants\n- Pixel / CAPI tracking\n- Lookalike and custom audiences\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Paid extends reach with targeting and retargeting. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Paid Social: Meta, LinkedIn, TikTok Ads reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Paid Social: Meta, LinkedIn, TikTok Ads when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Social Analytics means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Paid Social: Meta, LinkedIn, TikTok Ads means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Social Analytics in action\n\nImagine a small online store launching a new product. The team uses **Social Analytics** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Social Analytics**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Social Analytics\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Apply deployment/CI concepts from Social Analytics.\n\n**Part A — Checklist** — List 5 pre-deploy checks (build, lint, env vars, preview URL, smoke test).\n\n**Part B — Script** — Run `npm run build` locally. Fix any error before proceeding.\n\n**Part C — Document** — Write 3-line deploy runbook: trigger, verify, rollback.\n\n**Done when:** Build passes; runbook is actionable.",
+    "example": "### Worked example: Paid Social: Meta, LinkedIn, TikTok Ads\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Paid Social: Meta, LinkedIn, TikTok Ads helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply paid social: meta, linkedin, tiktok ads to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Paid Social: Meta, LinkedIn, TikTok Ads**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Paid Social: Meta, LinkedIn, TikTok Ads\n\nDefine Meta campaign: objective, audience, 2 creatives, KPI.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Engagement rate uses…",
+        "question": "Paid Social: Meta, LinkedIn, TikTok Ads is best learned by…",
         "options": [
-          "Interactions / reach",
-          "Payroll",
-          "DNS",
-          "Fonts"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Saves signal…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "High value content",
-          "Spam",
-          "CSS",
-          "Tax"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Compare…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Week over week",
-          "Never",
-          "To random brands only",
-          "Hide data"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -857,7 +893,7 @@ export const social_mediaLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -875,76 +911,80 @@ export const social_mediaLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "ugc-campaigns",
-    "title": "User-Generated Content",
+    "slug": "social-media-calendar-and-scheduling",
+    "title": "Social Media Calendar and Scheduling",
     "track": "social-media",
-    "level": "intermediate",
+    "level": "base",
     "order": 10,
-    "estimatedMinutes": 28,
-    "summary": "Encourage customers to create content — contests, hashtags, rights.",
+    "estimatedMinutes": 32,
+    "summary": "Plan posts; tools: Buffer, Hootsuite, Later, native schedulers.",
     "objectives": [
-      "Define User-Generated Content in your own words",
-      "Explain why User-Generated Content matters for business growth",
-      "Identify when to use User-Generated Content in a campaign",
-      "Complete a hands-on practice task for User-Generated Content"
+      "Define Social Media Calendar and Scheduling clearly in your own words",
+      "Explain how Social Media Calendar and Scheduling connects to funnel stages and business goals",
+      "Identify when teams apply Social Media Calendar and Scheduling in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is User-Generated Content?\n\n**User-Generated Content** is essential for modern marketers. Encourage customers to create content — contests, hashtags, rights.\n\nIn real campaigns, teams use user-generated content to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align user-generated content with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Encourage customers to create content — contests, hashtags, rights. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nUser-Generated Content is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "User-Generated Content improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use user-generated content when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Social Media Calendar and Scheduling?\n\n**Social Media Calendar and Scheduling** is a core part of professional digital marketing. Plan posts; tools: Buffer, Hootsuite, Later, native schedulers.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Batch content weekly\n- Timezone of audience\n- Leave slots for reactive news\n- UTM on link posts\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Plan posts; tools: Buffer, Hootsuite, Later, native schedulers. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Social Media Calendar and Scheduling reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Social Media Calendar and Scheduling when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what User-Generated Content means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Social Media Calendar and Scheduling means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: User-Generated Content in action\n\nImagine a small online store launching a new product. The team uses **User-Generated Content** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **User-Generated Content**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying User-Generated Content\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand User-Generated Content by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the User-Generated Content example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to User-Generated Content: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain User-Generated Content to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Social Media Calendar and Scheduling\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Social Media Calendar and Scheduling helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply social media calendar and scheduling to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Social Media Calendar and Scheduling**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Social Media Calendar and Scheduling\n\nBuild 2-week calendar in spreadsheet with columns.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "UGC is…",
+        "question": "Social Media Calendar and Scheduling is best learned by…",
         "options": [
-          "Content from users",
-          "Stock only",
-          "Payroll",
-          "DNS"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Get rights to…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Repurpose legally",
-          "Steal content",
-          "CSS",
-          "Fonts"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "UGC builds…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Trust",
-          "No community",
-          "Hidden brand",
-          "Tax"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -954,7 +994,7 @@ export const social_mediaLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -972,76 +1012,80 @@ export const social_mediaLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "social-crisis",
-    "title": "Social Media Crisis",
+    "slug": "community-management-and-engagement",
+    "title": "Community Management and Engagement",
     "track": "social-media",
-    "level": "advanced",
+    "level": "base",
     "order": 11,
-    "estimatedMinutes": 28,
-    "summary": "Pause posts, acknowledge, move to private channel, post-mortem.",
+    "estimatedMinutes": 32,
+    "summary": "Reply, moderate, escalate — builds loyalty and algorithm favor.",
     "objectives": [
-      "Define Social Media Crisis in your own words",
-      "Explain why Social Media Crisis matters for business growth",
-      "Identify when to use Social Media Crisis in a campaign",
-      "Complete a hands-on practice task for Social Media Crisis"
+      "Define Community Management and Engagement clearly in your own words",
+      "Explain how Community Management and Engagement connects to funnel stages and business goals",
+      "Identify when teams apply Community Management and Engagement in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Social Media Crisis?\n\n**Social Media Crisis** is essential for modern marketers. Pause posts, acknowledge, move to private channel, post-mortem.\n\nIn real campaigns, teams use social media crisis to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align social media crisis with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Pause posts, acknowledge, move to private channel, post-mortem. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nSocial Media Crisis is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Social Media Crisis improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use social media crisis when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Community Management and Engagement?\n\n**Community Management and Engagement** is a core part of professional digital marketing. Reply, moderate, escalate — builds loyalty and algorithm favor.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Response time SLAs\n- Saved replies for FAQs\n- Crisis escalation path\n- Highlight UGC\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Reply, moderate, escalate — builds loyalty and algorithm favor. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Community Management and Engagement reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Community Management and Engagement when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Social Media Crisis means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Community Management and Engagement means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Social Media Crisis in action\n\nImagine a small online store launching a new product. The team uses **Social Media Crisis** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Social Media Crisis**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Social Media Crisis\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Apply deployment/CI concepts from Social Media Crisis.\n\n**Part A — Checklist** — List 5 pre-deploy checks (build, lint, env vars, preview URL, smoke test).\n\n**Part B — Script** — Run `npm run build` locally. Fix any error before proceeding.\n\n**Part C — Document** — Write 3-line deploy runbook: trigger, verify, rollback.\n\n**Done when:** Build passes; runbook is actionable.",
+    "example": "### Worked example: Community Management and Engagement\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Community Management and Engagement helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply community management and engagement to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Community Management and Engagement**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Community Management and Engagement\n\nWrite community guidelines + 5 saved replies.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "First step often…",
+        "question": "Community Management and Engagement is best learned by…",
         "options": [
-          "Pause scheduled posts",
-          "Post more memes",
-          "Ignore",
-          "DNS"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Public reply should…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Acknowledge and guide",
-          "Blame customers",
-          "CSS",
-          "Fonts"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "After crisis…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Post-mortem learnings",
-          "Delete brand",
-          "Stop forever",
-          "Tax"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -1051,7 +1095,7 @@ export const social_mediaLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -1069,76 +1113,80 @@ export const social_mediaLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "social-strategy-doc",
-    "title": "Social Strategy Document",
+    "slug": "social-listening-and-reputation",
+    "title": "Social Listening and Reputation",
     "track": "social-media",
-    "level": "advanced",
+    "level": "base",
     "order": 12,
     "estimatedMinutes": 32,
-    "summary": "One-page strategy: goals, personas, pillars, cadence, KPIs.",
+    "summary": "Monitor brand mentions and sentiment.",
     "objectives": [
-      "Define Social Strategy Document in your own words",
-      "Explain why Social Strategy Document matters for business growth",
-      "Identify when to use Social Strategy Document in a campaign",
-      "Complete a hands-on practice task for Social Strategy Document"
+      "Define Social Listening and Reputation clearly in your own words",
+      "Explain how Social Listening and Reputation connects to funnel stages and business goals",
+      "Identify when teams apply Social Listening and Reputation in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Social Strategy Document?\n\n**Social Strategy Document** is essential for modern marketers. One-page strategy: goals, personas, pillars, cadence, KPIs.\n\nIn real campaigns, teams use social strategy document to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align social strategy document with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | One-page strategy: goals, personas, pillars, cadence, KPIs. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nSocial Strategy Document is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Social Strategy Document improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use social strategy document when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Social Listening and Reputation?\n\n**Social Listening and Reputation** is a core part of professional digital marketing. Monitor brand mentions and sentiment.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Tools: Brand24, Mention, native alerts\n- Join conversations helpfully\n- Address complaints publicly then DM\n- Report trends to product\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Monitor brand mentions and sentiment. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Social Listening and Reputation reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Social Listening and Reputation when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Social Strategy Document means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Social Listening and Reputation means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Social Strategy Document in action\n\nImagine a small online store launching a new product. The team uses **Social Strategy Document** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Social Strategy Document**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Social Strategy Document\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Apply deployment/CI concepts from Social Strategy Document.\n\n**Part A — Checklist** — List 5 pre-deploy checks (build, lint, env vars, preview URL, smoke test).\n\n**Part B — Script** — Run `npm run build` locally. Fix any error before proceeding.\n\n**Part C — Document** — Write 3-line deploy runbook: trigger, verify, rollback.\n\n**Done when:** Build passes; runbook is actionable.",
+    "example": "### Worked example: Social Listening and Reputation\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Social Listening and Reputation helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply social listening and reputation to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Social Listening and Reputation**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Social Listening and Reputation\n\nSet up free Google Alerts; list 5 keywords to monitor.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Strategy doc includes…",
+        "question": "Social Listening and Reputation is best learned by…",
         "options": [
-          "Goals and KPIs",
-          "Only memes",
-          "Payroll",
-          "DNS"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Review quarterly…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Yes",
-          "Never",
-          "Daily only",
-          "CSS"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Share with…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Team aligned",
-          "Nobody",
-          "Bots",
-          "Fonts"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -1148,7 +1196,209 @@ export const social_mediaLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "After this lesson you should be able to…",
+        "options": [
+          "Explain it and apply it to a real brand",
+          "Only recite definitions",
+          "Ignore metrics",
+          "Avoid hands-on practice"
+        ],
+        "answer": 0
+      }
+    ],
+    "playground": "none"
+  },
+  {
+    "slug": "user-generated-content-ugc",
+    "title": "User-Generated Content (UGC)",
+    "track": "social-media",
+    "level": "base",
+    "order": 13,
+    "estimatedMinutes": 32,
+    "summary": "Customers create proof — contests, hashtags, rights.",
+    "objectives": [
+      "Define User-Generated Content (UGC) clearly in your own words",
+      "Explain how User-Generated Content (UGC) connects to funnel stages and business goals",
+      "Identify when teams apply User-Generated Content (UGC) in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
+    ],
+    "whatIs": "### What is User-Generated Content (UGC)?\n\n**User-Generated Content (UGC)** is a core part of professional digital marketing. Customers create proof — contests, hashtags, rights.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Ask permission before repost\n- Campaign hashtag clear\n- Incentives without fake reviews\n- UGC in ads with whitelisting\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Customers create proof — contests, hashtags, rights. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "User-Generated Content (UGC) reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply User-Generated Content (UGC) when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "steps": [
+      {
+        "title": "Learn the concept",
+        "body": "Read what User-Generated Content (UGC) means and list 3 real-world examples from brands you follow."
+      },
+      {
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+      },
+      {
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+      },
+      {
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+      },
+      {
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
+      }
+    ],
+    "example": "### Worked example: User-Generated Content (UGC)\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How User-Generated Content (UGC) helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply user-generated content (ugc) to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **User-Generated Content (UGC)**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — User-Generated Content (UGC)\n\nDesign UGC campaign brief for skincare brand.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "quiz": [
+      {
+        "question": "User-Generated Content (UGC) is best learned by…",
+        "options": [
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A strong deliverable after this lesson includes…",
+        "options": [
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "This topic connects to business goals through…",
+        "options": [
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best way to learn this topic?",
+        "options": [
+          "Read + complete the practice task",
+          "Skip the practice exercise",
+          "Memorize definitions only",
+          "Jump to advanced tactics without basics"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "After this lesson you should be able to…",
+        "options": [
+          "Explain it and apply it to a real brand",
+          "Only recite definitions",
+          "Ignore metrics",
+          "Avoid hands-on practice"
+        ],
+        "answer": 0
+      }
+    ],
+    "playground": "none"
+  },
+  {
+    "slug": "social-commerce",
+    "title": "Social Commerce",
+    "track": "social-media",
+    "level": "base",
+    "order": 14,
+    "estimatedMinutes": 32,
+    "summary": "Shop in-app: Instagram Shop, TikTok Shop, Facebook Marketplace.",
+    "objectives": [
+      "Define Social Commerce clearly in your own words",
+      "Explain how Social Commerce connects to funnel stages and business goals",
+      "Identify when teams apply Social Commerce in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
+    ],
+    "whatIs": "### What is Social Commerce?\n\n**Social Commerce** is a core part of professional digital marketing. Shop in-app: Instagram Shop, TikTok Shop, Facebook Marketplace.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Product tagging in posts\n- Live shopping events\n- Sync inventory\n- Trust and returns policy visible\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Shop in-app: Instagram Shop, TikTok Shop, Facebook Marketplace. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Social Commerce reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Social Commerce when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "steps": [
+      {
+        "title": "Learn the concept",
+        "body": "Read what Social Commerce means and list 3 real-world examples from brands you follow."
+      },
+      {
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+      },
+      {
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+      },
+      {
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+      },
+      {
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
+      }
+    ],
+    "example": "### Worked example: Social Commerce\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Social Commerce helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply social commerce to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Social Commerce**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Social Commerce\n\nList 5 steps to launch Instagram Shop for 10 SKUs.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "quiz": [
+      {
+        "question": "Social Commerce is best learned by…",
+        "options": [
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A strong deliverable after this lesson includes…",
+        "options": [
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "This topic connects to business goals through…",
+        "options": [
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best way to learn this topic?",
+        "options": [
+          "Read + complete the practice task",
+          "Skip the practice exercise",
+          "Memorize definitions only",
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },

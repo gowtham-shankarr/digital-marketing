@@ -1,2 +1,0 @@
-/** AUTO-GENERATED */
-export const CONVERSION_GENERATED = {};

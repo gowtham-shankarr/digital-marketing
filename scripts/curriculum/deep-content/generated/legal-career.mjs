@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const LEGAL_CAREER_GENERATED = {};

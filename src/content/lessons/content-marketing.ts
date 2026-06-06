@@ -2,76 +2,80 @@ import type { Lesson } from "@/lib/types";
 
 export const content_marketingLessons: Lesson[] = [
   {
-    "slug": "content-marketing-intro",
-    "title": "What is Content Marketing?",
+    "slug": "content-strategy-and-the-content-funnel",
+    "title": "Content Strategy and the Content Funnel",
     "track": "content-marketing",
     "level": "base",
     "order": 1,
-    "estimatedMinutes": 28,
-    "summary": "Creating valuable content to attract and retain audiences — blogs, video, guides.",
+    "estimatedMinutes": 32,
+    "summary": "Plan content by audience, funnel stage, and business goal.",
     "objectives": [
-      "Define What is Content Marketing? in your own words",
-      "Explain why What is Content Marketing? matters for business growth",
-      "Identify when to use What is Content Marketing? in a campaign",
-      "Complete a hands-on practice task for What is Content Marketing?"
+      "Define Content Strategy and the Content Funnel clearly in your own words",
+      "Explain how Content Strategy and the Content Funnel connects to funnel stages and business goals",
+      "Identify when teams apply Content Strategy and the Content Funnel in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is What is Content Marketing??\n\n**What is Content Marketing?** is essential for modern marketers. Creating valuable content to attract and retain audiences — blogs, video, guides.\n\nIn real campaigns, teams use what is content marketing? to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align what is content marketing? with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Creating valuable content to attract and retain audiences — blogs, video, guides. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nWhat is Content Marketing? is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "What is Content Marketing? improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use what is content marketing? when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Content Strategy and the Content Funnel?\n\n**Content Strategy and the Content Funnel** is a core part of professional digital marketing. Plan content by audience, funnel stage, and business goal.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Content mission statement\n- Audit existing content gaps\n- Editorial themes per quarter\n- Align with SEO keyword map\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Plan content by audience, funnel stage, and business goal. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Content Strategy and the Content Funnel reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Content Strategy and the Content Funnel when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what What is Content Marketing? means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Content Strategy and the Content Funnel means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: What is Content Marketing? in action\n\nImagine a small online store launching a new product. The team uses **What is Content Marketing?** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **What is Content Marketing?**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying What is Content Marketing?\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand What is Content Marketing? by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the What is Content Marketing? example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to What is Content Marketing?: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain What is Content Marketing? to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Content Strategy and the Content Funnel\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Content Strategy and the Content Funnel helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply content strategy and the content funnel to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Content Strategy and the Content Funnel**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Content Strategy and the Content Funnel\n\nWrite content mission in 2 sentences for a B2B fintech blog.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Content marketing aims to…",
+        "question": "Content Strategy and the Content Funnel is best learned by…",
         "options": [
-          "Provide value",
-          "Spam users",
-          "Hide product",
-          "Skip SEO"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Formats include…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Blogs and video",
-          "Only print",
-          "Payroll",
-          "DNS"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Success metric often…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Engagement and leads",
-          "Font size",
-          "Server RAM",
-          "Tax"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -81,7 +85,7 @@ export const content_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -99,76 +103,80 @@ export const content_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "content-strategy",
-    "title": "Content Strategy",
+    "slug": "blog-posts-and-long-form-articles",
+    "title": "Blog Posts and Long-Form Articles",
     "track": "content-marketing",
     "level": "base",
     "order": 2,
-    "estimatedMinutes": 30,
-    "summary": "Goals, audience, pillars, formats, and distribution plan aligned to funnel.",
+    "estimatedMinutes": 32,
+    "summary": "Workhorse of SEO and thought leadership.",
     "objectives": [
-      "Define Content Strategy in your own words",
-      "Explain why Content Strategy matters for business growth",
-      "Identify when to use Content Strategy in a campaign",
-      "Complete a hands-on practice task for Content Strategy"
+      "Define Blog Posts and Long-Form Articles clearly in your own words",
+      "Explain how Blog Posts and Long-Form Articles connects to funnel stages and business goals",
+      "Identify when teams apply Blog Posts and Long-Form Articles in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Content Strategy?\n\n**Content Strategy** is essential for modern marketers. Goals, audience, pillars, formats, and distribution plan aligned to funnel.\n\nIn real campaigns, teams use content strategy to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align content strategy with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Goals, audience, pillars, formats, and distribution plan aligned to funnel. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nContent Strategy is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Content Strategy improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use content strategy when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Blog Posts and Long-Form Articles?\n\n**Blog Posts and Long-Form Articles** is a core part of professional digital marketing. Workhorse of SEO and thought leadership.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Outline before writing\n- Original insight beats rewrites\n- Update old posts for freshness\n- Internal links to money pages\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Workhorse of SEO and thought leadership. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Blog Posts and Long-Form Articles reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Blog Posts and Long-Form Articles when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Content Strategy means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Blog Posts and Long-Form Articles means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Content Strategy in action\n\nImagine a small online store launching a new product. The team uses **Content Strategy** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Content Strategy**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Content Strategy\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Content Strategy by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Content Strategy example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Content Strategy: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Content Strategy to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Blog Posts and Long-Form Articles\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Blog Posts and Long-Form Articles helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply blog posts and long-form articles to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Blog Posts and Long-Form Articles**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Blog Posts and Long-Form Articles\n\nCreate detailed outline for 1500-word post with H2s.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Strategy defines…",
+        "question": "Blog Posts and Long-Form Articles is best learned by…",
         "options": [
-          "What and why content",
-          "Only fonts",
-          "Payroll",
-          "CSS"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Align content to…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Funnel stages",
-          "Random trends",
-          "No goals",
-          "Hidden CTA"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Pillars prevent…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Random topics",
-          "All SEO",
-          "Email",
-          "Analytics"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -178,7 +186,7 @@ export const content_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -196,76 +204,80 @@ export const content_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "blogging-basics",
-    "title": "Blogging Basics",
+    "slug": "ebooks-whitepapers-and-case-studies",
+    "title": "Ebooks, Whitepapers, and Case Studies",
     "track": "content-marketing",
     "level": "base",
     "order": 3,
-    "estimatedMinutes": 28,
-    "summary": "Structure posts with hook, headings, scannable sections, and clear CTA.",
+    "estimatedMinutes": 32,
+    "summary": "Gated depth for leads; case studies prove ROI.",
     "objectives": [
-      "Define Blogging Basics in your own words",
-      "Explain why Blogging Basics matters for business growth",
-      "Identify when to use Blogging Basics in a campaign",
-      "Complete a hands-on practice task for Blogging Basics"
+      "Define Ebooks, Whitepapers, and Case Studies clearly in your own words",
+      "Explain how Ebooks, Whitepapers, and Case Studies connects to funnel stages and business goals",
+      "Identify when teams apply Ebooks, Whitepapers, and Case Studies in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Blogging Basics?\n\n**Blogging Basics** is essential for modern marketers. Structure posts with hook, headings, scannable sections, and clear CTA.\n\nIn real campaigns, teams use blogging basics to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align blogging basics with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Structure posts with hook, headings, scannable sections, and clear CTA. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nBlogging Basics is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Blogging Basics improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use blogging basics when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Ebooks, Whitepapers, and Case Studies?\n\n**Ebooks, Whitepapers, and Case Studies** is a core part of professional digital marketing. Gated depth for leads; case studies prove ROI.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Ebook: one big problem solved\n- Whitepaper: research and data\n- Case study: challenge, solution, metrics\n- Design matters for perceived value\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Gated depth for leads; case studies prove ROI. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Ebooks, Whitepapers, and Case Studies reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Ebooks, Whitepapers, and Case Studies when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Blogging Basics means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Ebooks, Whitepapers, and Case Studies means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Blogging Basics in action\n\nImagine a small online store launching a new product. The team uses **Blogging Basics** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Blogging Basics**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Blogging Basics\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Blogging Basics by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Blogging Basics example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Blogging Basics: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Blogging Basics to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Ebooks, Whitepapers, and Case Studies\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Ebooks, Whitepapers, and Case Studies helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply ebooks, whitepapers, and case studies to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Ebooks, Whitepapers, and Case Studies**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Ebooks, Whitepapers, and Case Studies\n\nOutline case study structure for fictional client + 3 metrics.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Good posts are…",
+        "question": "Ebooks, Whitepapers, and Case Studies is best learned by…",
         "options": [
-          "Scannable",
-          "Wall of text",
-          "No headings",
-          "No CTA"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Hook should…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Grab attention",
-          "Hide topic",
-          "Skip intro",
-          "Use jargon only"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "CTA encourages…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Next step",
-          "Close tab",
-          "Unsubscribe",
-          "Ignore brand"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -275,7 +287,7 @@ export const content_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -293,76 +305,80 @@ export const content_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "copywriting-fundamentals",
-    "title": "Copywriting Fundamentals",
+    "slug": "infographics-video-and-podcasts",
+    "title": "Infographics, Video, and Podcasts",
     "track": "content-marketing",
     "level": "base",
     "order": 4,
-    "estimatedMinutes": 30,
-    "summary": "Benefits over features, clarity, active voice, and persuasive structure.",
+    "estimatedMinutes": 32,
+    "summary": "Visual and audio formats extend reach and repurposing.",
     "objectives": [
-      "Define Copywriting Fundamentals in your own words",
-      "Explain why Copywriting Fundamentals matters for business growth",
-      "Identify when to use Copywriting Fundamentals in a campaign",
-      "Complete a hands-on practice task for Copywriting Fundamentals"
+      "Define Infographics, Video, and Podcasts clearly in your own words",
+      "Explain how Infographics, Video, and Podcasts connects to funnel stages and business goals",
+      "Identify when teams apply Infographics, Video, and Podcasts in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Copywriting Fundamentals?\n\n**Copywriting Fundamentals** is essential for modern marketers. Benefits over features, clarity, active voice, and persuasive structure.\n\nIn real campaigns, teams use copywriting fundamentals to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align copywriting fundamentals with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Benefits over features, clarity, active voice, and persuasive structure. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nCopywriting Fundamentals is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Copywriting Fundamentals improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use copywriting fundamentals when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Infographics, Video, and Podcasts?\n\n**Infographics, Video, and Podcasts** is a core part of professional digital marketing. Visual and audio formats extend reach and repurposing.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Infographic: one story, cite sources\n- Video: hook, value, CTA\n- Podcast: consistency and guests\n- Transcripts help SEO\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Visual and audio formats extend reach and repurposing. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Infographics, Video, and Podcasts reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Infographics, Video, and Podcasts when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Copywriting Fundamentals means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Infographics, Video, and Podcasts means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Copywriting Fundamentals in action\n\nImagine a small online store launching a new product. The team uses **Copywriting Fundamentals** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Copywriting Fundamentals**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Copywriting Fundamentals\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Copywriting Fundamentals by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Copywriting Fundamentals example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Copywriting Fundamentals: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Copywriting Fundamentals to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Infographics, Video, and Podcasts\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Infographics, Video, and Podcasts helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply infographics, video, and podcasts to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Infographics, Video, and Podcasts**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Infographics, Video, and Podcasts\n\nPick one pillar article; plan 3 derivative formats.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Copy focuses on…",
+        "question": "Infographics, Video, and Podcasts is best learned by…",
         "options": [
-          "Customer benefits",
-          "Internal jargon",
-          "CSS",
-          "DNS"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Active voice is…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Clearer",
-          "Always wrong",
-          "Illegal",
-          "SEO only"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Headlines should…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Promise value",
-          "Confuse",
-          "Hide offer",
-          "Skip mobile"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -372,7 +388,7 @@ export const content_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -390,76 +406,80 @@ export const content_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "storytelling-marketing",
-    "title": "Storytelling in Marketing",
+    "slug": "copywriting-and-storytelling",
+    "title": "Copywriting and Storytelling",
     "track": "content-marketing",
-    "level": "intermediate",
+    "level": "base",
     "order": 5,
-    "estimatedMinutes": 28,
-    "summary": "Use narrative — character, conflict, resolution — to make brands memorable.",
+    "estimatedMinutes": 32,
+    "summary": "Clear, benefit-led copy with narrative arc.",
     "objectives": [
-      "Define Storytelling in Marketing in your own words",
-      "Explain why Storytelling in Marketing matters for business growth",
-      "Identify when to use Storytelling in Marketing in a campaign",
-      "Complete a hands-on practice task for Storytelling in Marketing"
+      "Define Copywriting and Storytelling clearly in your own words",
+      "Explain how Copywriting and Storytelling connects to funnel stages and business goals",
+      "Identify when teams apply Copywriting and Storytelling in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Storytelling in Marketing?\n\n**Storytelling in Marketing** is essential for modern marketers. Use narrative — character, conflict, resolution — to make brands memorable.\n\nIn real campaigns, teams use storytelling in marketing to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align storytelling in marketing with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Use narrative — character, conflict, resolution — to make brands memorable. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nStorytelling in Marketing is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Storytelling in Marketing improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use storytelling in marketing when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Copywriting and Storytelling?\n\n**Copywriting and Storytelling** is a core part of professional digital marketing. Clear, benefit-led copy with narrative arc.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Features → benefits → outcomes\n- Story: character, problem, guide, plan\n- Active voice and short sentences\n- One idea per paragraph\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Clear, benefit-led copy with narrative arc. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Copywriting and Storytelling reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Copywriting and Storytelling when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Storytelling in Marketing means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Copywriting and Storytelling means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Storytelling in Marketing in action\n\nImagine a small online store launching a new product. The team uses **Storytelling in Marketing** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Storytelling in Marketing**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Storytelling in Marketing\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Storytelling in Marketing by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Storytelling in Marketing example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Storytelling in Marketing: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Storytelling in Marketing to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Copywriting and Storytelling\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Copywriting and Storytelling helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply copywriting and storytelling to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Copywriting and Storytelling**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Copywriting and Storytelling\n\nRewrite 200 words of bland copy using story framework.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Stories need…",
+        "question": "Copywriting and Storytelling is best learned by…",
         "options": [
-          "Conflict and resolution",
-          "Only prices",
-          "DNS",
-          "Fonts"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Customer is often…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Hero",
-          "Villain always",
-          "Absent",
-          "Payroll"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Stories work because…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Emotional connection",
-          "Remove metrics",
-          "Skip CTA",
-          "Hide product"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -469,7 +489,7 @@ export const content_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -487,76 +507,80 @@ export const content_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "content-calendar",
-    "title": "Content Calendar",
+    "slug": "editorial-calendar-and-content-planning",
+    "title": "Editorial Calendar and Content Planning",
     "track": "content-marketing",
-    "level": "intermediate",
+    "level": "base",
     "order": 6,
-    "estimatedMinutes": 28,
-    "summary": "Plan topics, formats, owners, and publish dates across channels.",
+    "estimatedMinutes": 32,
+    "summary": "Schedule production, owners, channels, and publish dates.",
     "objectives": [
-      "Define Content Calendar in your own words",
-      "Explain why Content Calendar matters for business growth",
-      "Identify when to use Content Calendar in a campaign",
-      "Complete a hands-on practice task for Content Calendar"
+      "Define Editorial Calendar and Content Planning clearly in your own words",
+      "Explain how Editorial Calendar and Content Planning connects to funnel stages and business goals",
+      "Identify when teams apply Editorial Calendar and Content Planning in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Content Calendar?\n\n**Content Calendar** is essential for modern marketers. Plan topics, formats, owners, and publish dates across channels.\n\nIn real campaigns, teams use content calendar to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align content calendar with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Plan topics, formats, owners, and publish dates across channels. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nContent Calendar is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Content Calendar improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use content calendar when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Editorial Calendar and Content Planning?\n\n**Editorial Calendar and Content Planning** is a core part of professional digital marketing. Schedule production, owners, channels, and publish dates.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Monthly themes\n- Buffer for timely news\n- Template: title, stage, format, owner\n- Tools: Notion, Airtable, CoSchedule\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Schedule production, owners, channels, and publish dates. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Editorial Calendar and Content Planning reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Editorial Calendar and Content Planning when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Content Calendar means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Editorial Calendar and Content Planning means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Content Calendar in action\n\nImagine a small online store launching a new product. The team uses **Content Calendar** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Content Calendar**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Content Calendar\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Content Calendar by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Content Calendar example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Content Calendar: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Content Calendar to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Editorial Calendar and Content Planning\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Editorial Calendar and Content Planning helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply editorial calendar and content planning to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Editorial Calendar and Content Planning**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Editorial Calendar and Content Planning\n\nBuild 4-week calendar with 8 pieces and dates.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Calendars help…",
+        "question": "Editorial Calendar and Content Planning is best learned by…",
         "options": [
-          "Consistency",
-          "Random posting",
-          "No goals",
-          "Hide KPIs"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Include…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Date and channel",
-          "Only emojis",
-          "Payroll",
-          "CSS"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Review calendar…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Monthly",
-          "Never",
-          "Once per decade",
-          "After deleting blog"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -566,7 +590,7 @@ export const content_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -584,76 +608,80 @@ export const content_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "content-repurposing",
-    "title": "Content Repurposing",
+    "slug": "content-distribution-and-amplification",
+    "title": "Content Distribution and Amplification",
     "track": "content-marketing",
-    "level": "intermediate",
+    "level": "base",
     "order": 7,
-    "estimatedMinutes": 28,
-    "summary": "Turn one pillar piece into clips, threads, emails, and carousels.",
+    "estimatedMinutes": 32,
+    "summary": "Publish plus promote — email, social, partners, paid boost.",
     "objectives": [
-      "Define Content Repurposing in your own words",
-      "Explain why Content Repurposing matters for business growth",
-      "Identify when to use Content Repurposing in a campaign",
-      "Complete a hands-on practice task for Content Repurposing"
+      "Define Content Distribution and Amplification clearly in your own words",
+      "Explain how Content Distribution and Amplification connects to funnel stages and business goals",
+      "Identify when teams apply Content Distribution and Amplification in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Content Repurposing?\n\n**Content Repurposing** is essential for modern marketers. Turn one pillar piece into clips, threads, emails, and carousels.\n\nIn real campaigns, teams use content repurposing to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align content repurposing with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Turn one pillar piece into clips, threads, emails, and carousels. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nContent Repurposing is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Content Repurposing improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use content repurposing when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Content Distribution and Amplification?\n\n**Content Distribution and Amplification** is a core part of professional digital marketing. Publish plus promote — email, social, partners, paid boost.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Rule of thumb: spend 20% create, 80% promote\n- Employee advocacy\n- Newsletter feature\n- Repurpose per channel native format\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Publish plus promote — email, social, partners, paid boost. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Content Distribution and Amplification reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Content Distribution and Amplification when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Content Repurposing means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Content Distribution and Amplification means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Content Repurposing in action\n\nImagine a small online store launching a new product. The team uses **Content Repurposing** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Content Repurposing**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Content Repurposing\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Content Repurposing by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Content Repurposing example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Content Repurposing: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Content Repurposing to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Content Distribution and Amplification\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Content Distribution and Amplification helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply content distribution and amplification to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Content Distribution and Amplification**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Content Distribution and Amplification\n\nWrite distribution checklist for one new blog post (10 actions).\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Repurposing…",
+        "question": "Content Distribution and Amplification is best learned by…",
         "options": [
-          "Extends reach",
-          "Duplicates spam",
-          "Removes SEO",
-          "Stops email"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Start from…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Pillar content",
-          "Random meme",
-          "Payroll",
-          "DNS"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Adapt per…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Channel norms",
-          "One size all",
-          "No audience",
-          "Hidden CTA"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -663,7 +691,7 @@ export const content_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -681,76 +709,80 @@ export const content_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "seo-content-writing",
-    "title": "SEO Content Writing",
+    "slug": "content-repurposing-workflows",
+    "title": "Content Repurposing Workflows",
     "track": "content-marketing",
-    "level": "intermediate",
+    "level": "base",
     "order": 8,
-    "estimatedMinutes": 30,
-    "summary": "Write for humans first while satisfying search intent and on-page basics.",
+    "estimatedMinutes": 32,
+    "summary": "One asset becomes many — efficiency and consistency.",
     "objectives": [
-      "Define SEO Content Writing in your own words",
-      "Explain why SEO Content Writing matters for business growth",
-      "Identify when to use SEO Content Writing in a campaign",
-      "Complete a hands-on practice task for SEO Content Writing"
+      "Define Content Repurposing Workflows clearly in your own words",
+      "Explain how Content Repurposing Workflows connects to funnel stages and business goals",
+      "Identify when teams apply Content Repurposing Workflows in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is SEO Content Writing?\n\n**SEO Content Writing** is essential for modern marketers. Write for humans first while satisfying search intent and on-page basics.\n\nIn real campaigns, teams use seo content writing to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align seo content writing with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Write for humans first while satisfying search intent and on-page basics. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nSEO Content Writing is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "SEO Content Writing improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use seo content writing when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Content Repurposing Workflows?\n\n**Content Repurposing Workflows** is a core part of professional digital marketing. One asset becomes many — efficiency and consistency.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Webinar → blog + clips + quotes\n- Blog → thread + carousel + email\n- Batch record short videos\n- Maintain brand voice across cuts\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | One asset becomes many — efficiency and consistency. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Content Repurposing Workflows reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Content Repurposing Workflows when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what SEO Content Writing means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Content Repurposing Workflows means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: SEO Content Writing in action\n\nImagine a small online store launching a new product. The team uses **SEO Content Writing** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **SEO Content Writing**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying SEO Content Writing\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand SEO Content Writing by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the SEO Content Writing example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to SEO Content Writing: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain SEO Content Writing to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Content Repurposing Workflows\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Content Repurposing Workflows helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply content repurposing workflows to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Content Repurposing Workflows**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Content Repurposing Workflows\n\nTake one topic; list 7 repurposed assets with channel.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Write for…",
+        "question": "Content Repurposing Workflows is best learned by…",
         "options": [
-          "Humans first",
-          "Bots only",
-          "Payroll",
-          "Fonts"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Search intent means…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "What user wants",
-          "Server IP",
-          "CSS",
-          "Tax"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Meta description…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Summarizes page",
-          "Replaces H1",
-          "Hides content",
-          "Is robots.txt"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -760,7 +792,7 @@ export const content_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -778,76 +810,80 @@ export const content_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "video-content-basics",
-    "title": "Video Content Basics",
+    "slug": "content-for-each-funnel-stage",
+    "title": "Content for Each Funnel Stage",
     "track": "content-marketing",
-    "level": "intermediate",
+    "level": "base",
     "order": 9,
-    "estimatedMinutes": 28,
-    "summary": "Short-form hooks, captions, thumbnails, and YouTube/Reels basics.",
+    "estimatedMinutes": 32,
+    "summary": "TOFU educate, MOFU compare, BOFU convert.",
     "objectives": [
-      "Define Video Content Basics in your own words",
-      "Explain why Video Content Basics matters for business growth",
-      "Identify when to use Video Content Basics in a campaign",
-      "Complete a hands-on practice task for Video Content Basics"
+      "Define Content for Each Funnel Stage clearly in your own words",
+      "Explain how Content for Each Funnel Stage connects to funnel stages and business goals",
+      "Identify when teams apply Content for Each Funnel Stage in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Video Content Basics?\n\n**Video Content Basics** is essential for modern marketers. Short-form hooks, captions, thumbnails, and YouTube/Reels basics.\n\nIn real campaigns, teams use video content basics to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align video content basics with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Short-form hooks, captions, thumbnails, and YouTube/Reels basics. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nVideo Content Basics is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Video Content Basics improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use video content basics when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Content for Each Funnel Stage?\n\n**Content for Each Funnel Stage** is a core part of professional digital marketing. TOFU educate, MOFU compare, BOFU convert.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- TOFU: how-to, trends\n- MOFU: comparisons, webinars\n- BOFU: demos, testimonials, pricing pages\n- Retention: onboarding content\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | TOFU educate, MOFU compare, BOFU convert. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Content for Each Funnel Stage reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Content for Each Funnel Stage when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Video Content Basics means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Content for Each Funnel Stage means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Video Content Basics in action\n\nImagine a small online store launching a new product. The team uses **Video Content Basics** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Video Content Basics**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Video Content Basics\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Video Content Basics by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Video Content Basics example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Video Content Basics: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Video Content Basics to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Content for Each Funnel Stage\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Content for Each Funnel Stage helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply content for each funnel stage to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Content for Each Funnel Stage**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Content for Each Funnel Stage\n\nAssign 3 existing pieces from web to funnel stages.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "First 3 seconds…",
+        "question": "Content for Each Funnel Stage is best learned by…",
         "options": [
-          "Hook viewer",
-          "Show credits",
-          "Hide topic",
-          "Skip audio"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Captions help…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Silent viewers",
-          "DNS only",
-          "Payroll",
-          "CSS"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Thumbnail should…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Communicate topic",
-          "Be blank",
-          "Hide brand",
-          "Remove CTA"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -857,7 +893,7 @@ export const content_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -875,76 +911,80 @@ export const content_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "content-distribution",
-    "title": "Content Distribution",
+    "slug": "measuring-content-performance",
+    "title": "Measuring Content Performance",
     "track": "content-marketing",
-    "level": "advanced",
+    "level": "base",
     "order": 10,
-    "estimatedMinutes": 30,
-    "summary": "Owned, earned, paid distribution — newsletters, partnerships, syndication.",
+    "estimatedMinutes": 32,
+    "summary": "Traffic, engagement, assisted conversions, content ROI.",
     "objectives": [
-      "Define Content Distribution in your own words",
-      "Explain why Content Distribution matters for business growth",
-      "Identify when to use Content Distribution in a campaign",
-      "Complete a hands-on practice task for Content Distribution"
+      "Define Measuring Content Performance clearly in your own words",
+      "Explain how Measuring Content Performance connects to funnel stages and business goals",
+      "Identify when teams apply Measuring Content Performance in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Content Distribution?\n\n**Content Distribution** is essential for modern marketers. Owned, earned, paid distribution — newsletters, partnerships, syndication.\n\nIn real campaigns, teams use content distribution to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align content distribution with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Owned, earned, paid distribution — newsletters, partnerships, syndication. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nContent Distribution is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Content Distribution improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use content distribution when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Measuring Content Performance?\n\n**Measuring Content Performance** is a core part of professional digital marketing. Traffic, engagement, assisted conversions, content ROI.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- GA4 landing pages and events\n- Time on page not sole metric\n- Attribution to pipeline for B2B\n- Content decay reports quarterly\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Traffic, engagement, assisted conversions, content ROI. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Measuring Content Performance reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Measuring Content Performance when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Content Distribution means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Measuring Content Performance means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Content Distribution in action\n\nImagine a small online store launching a new product. The team uses **Content Distribution** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Content Distribution**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Content Distribution\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Content Distribution by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Content Distribution example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Content Distribution: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Content Distribution to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Measuring Content Performance\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Measuring Content Performance helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply measuring content performance to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Measuring Content Performance**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Measuring Content Performance\n\nDefine 5 KPIs for blog and how to track in GA4.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Distribution is…",
+        "question": "Measuring Content Performance is best learned by…",
         "options": [
-          "Getting content seen",
-          "Writing only",
-          "Payroll",
-          "DNS"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Owned example…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Email list",
-          "Random billboard",
-          "Internal memo",
-          "CSS"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Measure…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Reach and conversions",
-          "Font size",
-          "Server RAM",
-          "Tax"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -954,7 +994,7 @@ export const content_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },

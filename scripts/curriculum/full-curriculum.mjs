@@ -1,0 +1,329 @@
+/**
+ * Complete 14-module digital marketing curriculum — every outline topic as a lesson.
+ * Used by bootstrap-dm-curriculum.mjs
+ */
+import { lessonsFromRows } from "./dm-lesson-builder.mjs";
+
+function q(question, options, answer) {
+  return { question, options, answer };
+}
+
+const defaultQuiz = (title) => [
+  q(`${title} is best learned by…`, ["Theory + practice on a real example", "Definitions only", "Skipping metrics", "Ignoring audience"], 0),
+  q("A strong deliverable after this lesson includes…", ["Written notes with metrics and actions", "Nothing", "Only screenshots", "Copied competitor text"], 0),
+  q("This topic connects to business goals through…", ["Measurable outcomes", "Random posts", "Ignoring data", "No funnel context"], 0),
+];
+
+function mod(id, title, description, icon, color, order, rows) {
+  const lessons = lessonsFromRows(
+    id,
+    rows.map((r) => {
+      const [t, level, summary, sections, practice] = r;
+      return [t, level, summary, sections, practice, defaultQuiz(t)];
+    })
+  );
+  return { id, title, description, icon, color, order, lessons };
+}
+
+export const FULL_CURRICULUM_TRACKS = [
+  mod(
+    "foundations",
+    "Module 1 — Foundations",
+    "Digital marketing basics, media types, metrics, STP, personas, journey, goals, and OKRs.",
+    "Rocket",
+    "bg-violet-500",
+    0,
+    [
+      ["Digital Marketing vs Traditional Marketing", "base", "Digital marketing uses online channels with measurable data; traditional relies on offline media with harder attribution.", ["Digital: search, social, email, ads, websites — track clicks and conversions", "Traditional: TV, print, radio, billboards — broad reach, weaker direct tracking", "Best brands blend both with consistent messaging", "Digital allows rapid A/B tests and smaller budgets"], "Pick a local business; list 3 traditional and 3 digital tactics they could use and one metric per digital tactic."],
+      ["Owned, Earned, and Paid Media", "base", "The marketing ecosystem splits channels by who controls them and who pays for reach.", ["Owned: website, email list, app — you control", "Earned: reviews, PR, shares, word of mouth — others spread your message", "Paid: ads on Google, Meta, etc. — you pay for placement", "Strong strategy balances all three"], "For a fitness app, give 2 examples of owned, earned, and paid media."],
+      ["Inbound vs Outbound Marketing", "base", "Inbound pulls interested people in with valuable content; outbound pushes messages out to audiences.", ["Inbound: SEO, content, lead magnets, social value — permission-based", "Outbound: cold email, display ads, telemarketing — interruption-based", "Inbound builds long-term trust; outbound can scale fast", "Modern funnels combine both"], "Design a simple inbound content idea and one outbound ad angle for the same B2B software product."],
+      ["B2B, B2C, B2B2C, and D2C Models", "base", "Business model shapes who you sell to, sales cycle length, and which channels work.", ["B2B: sell to businesses — longer cycles, LinkedIn, demos, ROI proof", "B2C: sell to consumers — emotion, speed, social proof, impulse", "B2B2C: partner sells to end user (e.g. bank + fintech)", "D2C: brand sells direct, skipping retail — heavy on paid social + email"], "Classify 5 brands you know as B2B, B2C, or D2C and note their primary channel."],
+      ["Core Marketing Metrics Glossary", "base", "CPC, CPM, CPA, CTR, CPL, ROAS, ROI, LTV, CAC, and conversion rate are the language of performance marketing.", ["CPC: cost per click | CPM: cost per 1000 impressions", "CPA/CPL: cost per acquisition/lead", "CTR: clicks ÷ impressions | Conversion rate: conversions ÷ visits", "ROAS: revenue ÷ ad spend | ROI: (gain−cost)÷cost", "LTV: customer lifetime value | CAC: cost to acquire customer"], "Create a one-page glossary in your notes with each metric, formula, and when you'd report it to a client."],
+      ["The Marketing Mix: 4Ps and 7Ps", "base", "Product, Price, Place, Promotion — extended to People, Process, Physical evidence for services.", ["4Ps: what you sell, for how much, where distributed, how promoted", "7Ps add service delivery: staff, systems, environment", "Digital changes Place (e-commerce) and Promotion (ads, content)", "Misaligned Ps confuse customers"], "Analyze one SaaS product across all 7Ps in bullet form."],
+      ["STP: Segmentation, Targeting, Positioning", "base", "STP is the strategic sequence: divide the market, choose segments, own a position in the mind.", ["Segmentation: group customers by needs, behavior, or firmographics", "Targeting: pick segments you can serve profitably", "Positioning: distinct promise vs alternatives", "STP precedes channel and creative choices"], "Segment a meal-delivery market into 3 groups; pick one target; write a positioning line."],
+      ["Buyer Personas and Ideal Customer Profile (ICP)", "base", "Personas humanize B2C segments; ICP defines firm traits for B2B sales and marketing alignment.", ["Persona: name, goals, pains, objections, channels", "ICP: industry, company size, tech stack, buying triggers", "Built from interviews, CRM data, support tickets", "Shared doc prevents generic messaging"], "Write one B2C persona and one B2B ICP for brands you invent."],
+      ["The Customer and Buyer Journey", "base", "Journey maps track awareness → consideration → decision → retention across touchpoints.", ["Awareness: problem recognized", "Consideration: comparing solutions", "Decision: purchase or sign-up", "Retention: repeat use, advocacy", "Map emotions and friction at each step"], "Map a 6-step journey for buying a laptop online; note one friction point per step."],
+      ["Value Proposition and Unique Selling Proposition (USP)", "base", "Value proposition states customer benefit; USP is the single clearest reason to choose you.", ["Value prop: who, problem, solution, outcome", "USP must be specific and defensible", "Test with customers — not internal opinion", "Appears in headlines, ads, sales decks"], "Write value prop + USP for an eco-friendly laundry brand in under 100 words total."],
+      ["SMART Goals, KPIs, and OKRs", "base", "SMART goals are specific and measurable; KPIs track health; OKRs align ambitious outcomes with key results.", ["SMART: Specific, Measurable, Achievable, Relevant, Time-bound", "KPIs: ongoing metrics (traffic, CPA, NPS)", "OKRs: objective + 3–5 key results per quarter", "Tie marketing metrics to revenue where possible"], "Write 1 SMART goal, 3 KPIs, and 1 OKR for a new blog launch."],
+    ]
+  ),
+
+  mod(
+    "marketing-funnels",
+    "Module 2 — Marketing Funnels",
+    "Funnel stages, AIDA, AARRR, funnel types, lead magnets, nurturing, metrics, and optimization.",
+    "Filter",
+    "bg-fuchsia-500",
+    1,
+    [
+      ["What Is a Marketing Funnel and Why It Matters", "base", "A funnel visualizes how many people move from awareness to purchase and where they drop off.", ["Wide top (many visitors) narrows to buyers", "Each stage needs different content and CTAs", "Funnels expose leaks before you scale ad spend", "Works for e-commerce, SaaS, services"], "Sketch a 4-stage funnel for a webinar product; label metrics at each stage."],
+      ["TOFU, MOFU, and BOFU Explained", "base", "Top = awareness; Middle = consideration; Bottom = conversion and purchase intent.", ["TOFU: blogs, social, ads — educate, don't hard sell", "MOFU: comparisons, case studies, email nurture", "BOFU: demos, trials, discounts, sales calls", "Message mismatch causes drop-off"], "Assign 3 content pieces you know to TOFU/MOFU/BOFU for a CRM tool."],
+      ["The AIDA Model", "base", "Attention → Interest → Desire → Action — classic persuasion sequence for ads and landing pages.", ["Attention: hook in headline or visual", "Interest: benefits and relevance", "Desire: proof, emotion, urgency", "Action: clear CTA and low friction"], "Rewrite a weak product blurb using AIDA structure."],
+      ["AARRR Pirate Metrics Framework", "base", "Acquisition, Activation, Retention, Referral, Revenue — startup growth lens.", ["Acquisition: how users find you", "Activation: first value moment (aha)", "Retention: they come back", "Referral: they invite others", "Revenue: monetization"], "For a mobile app, define one metric per AARRR letter."],
+      ["Extended Purchase Funnel Stages", "base", "Awareness → Interest → Consideration → Intent → Evaluation → Purchase — granular e-commerce path.", ["Intent: added to cart or started signup", "Evaluation: reading reviews, comparing price", "Each micro-step can be measured in GA4", "Retargeting maps to late stages"], "List one marketing tactic for each of the six stages for online courses."],
+      ["Lead Generation Funnels", "base", "Capture contact info in exchange for value, then nurture toward sale.", ["Landing page + form + thank-you page", "Thank-you page can sell next step", "Integrate with CRM/email", "Measure CPL and lead quality"], "Outline a 3-page lead gen funnel for a free SEO checklist."],
+      ["Sales Funnels for Services and High-Ticket", "base", "Longer cycles: content → call → proposal → close.", ["Multiple touchpoints and trust building", "Sales team and marketing must align on MQL/SQL", "Case studies and testimonials critical", "Pipeline velocity matters"], "Map a consulting sales funnel with 5 steps and owner (marketing vs sales)."],
+      ["Webinar Funnels", "base", "Register → attend → offer → follow-up — popular for courses and B2B.", ["Registration page with urgency", "Reminder email sequence", "Live or evergreen replay", "Pitch at end with limited offer"], "Draft registration headline + 3-email reminder outline for a marketing webinar."],
+      ["Tripwire and Low-Ticket Funnels", "base", "Small first purchase builds buyer trust; upsell core offer later.", ["$7–$27 entry product", "Order bump and upsell on checkout", "Break even on ads sometimes", "Backend profit on main offer"], "Design a tripwire idea for a photography educator."],
+      ["Product Launch Funnels", "base", "Pre-launch buzz → cart open → close — scarcity and story drive spikes.", ["Seed list before launch", "Video series or challenge", "Open/close cart dates", "Heavy email + retargeting"], "Write a 5-day launch email theme outline for a new template shop."],
+      ["Free Trial and SaaS Funnels", "base", "Signup → activation → paid conversion — product-led growth.", ["Friction-free signup", "Onboarding emails in first 7 days", "Track activation event", "Upgrade triggers before trial ends"], "Define activation event and 3 onboarding emails for a project management SaaS."],
+      ["E-commerce and Cart Funnels", "base", "Browse → add to cart → checkout → post-purchase upsell.", ["Cart abandonment emails/SMS", "Guest vs account checkout tradeoffs", "Shipping and trust at checkout", "Repeat purchase flows"], "List 4 tactics to reduce cart abandonment for a fashion store."],
+      ["Lead Magnets and Opt-In Offers", "base", "Ebooks, checklists, quizzes, templates, and trials trade value for email.", ["Must solve one specific problem", "Title promises clear outcome", "Delivery instant (PDF or link)", "Segment leads by magnet topic"], "Create 3 lead magnet ideas with titles for a personal finance coach."],
+      ["Lead Nurturing and Follow-Up Sequences", "base", "Automated emails educate and build trust between opt-in and purchase.", ["Welcome series first 5–7 days", "Mix value and soft offers", "Branch by behavior (clicked pricing?)", "Stop on purchase or unsubscribe"], "Write a 5-email nurture outline for leads who downloaded a pricing guide."],
+      ["Funnel Mapping and Customer Flow Design", "base", "Document every page, email, ad, and trigger so the team sees the full system.", ["Swimlane: traffic source → pages → CRM", "Note conversion goals per step", "Identify single biggest leak", "Version map when you test"], "Draw a funnel map on paper for a free trial SaaS with 8 nodes."],
+      ["Funnel Metrics: Drop-Off, Conversion, Velocity", "base", "Stage conversion rate, time between stages, and drop-off pinpoint fixes.", ["Conversion rate = next stage ÷ current stage", "Velocity = days from lead to customer", "Cohort analysis for SaaS", "Fix biggest leak first"], "Given sample numbers in notes, calculate stage conversion for 4 funnel steps."],
+      ["Funnel Optimization and Plugging Leaks", "base", "Hypothesize, A/B test, fix UX, align message to stage.", ["Watch session recordings on drop pages", "One variable per test", "MOFU leak often = weak proof", "BOFU leak often = pricing/trust"], "Pick one leak from your mapped funnel; write hypothesis + test idea."],
+      ["Funnel Builder Tools Overview", "base", "ClickFunnels, Leadpages, Systeme.io, GoHighLevel — drag-and-drop funnel pages and automation.", ["All-in-one vs best-of-breed stack", "Native email/CRM vs integrations", "Templates speed launches", "Track total cost of ownership"], "Compare 2 funnel tools in a table: price, email, CRM, best for whom."],
+      ["Full-Funnel vs Single-Stage Campaigns", "base", "Brand campaigns may focus one stage; performance marketing often owns full funnel.", ["TOFU-only builds awareness but may not ROI quickly", "BOFU-only exhausts small audiences", "Full-funnel needs consistent creative", "Budget split by stage goals"], "Propose % budget split TOFU/MOFU/BOFU for a new D2C brand."],
+    ]
+  ),
+
+  mod(
+    "website-cro",
+    "Module 3 — Website, Landing Pages & CRO",
+    "Domains, CMS, UX, landing pages, CRO, testing, speed, mobile, forms, and trust signals.",
+    "Layout",
+    "bg-cyan-500",
+    2,
+    [
+      ["Website Fundamentals: Domain, Hosting, and CMS", "base", "Domain is your address; hosting serves files; CMS like WordPress manages content without code.", ["Domain registrars vs web host", "SSL HTTPS required for trust and SEO", "WordPress, Webflow, Shopify for different needs", "Subdomain vs subdirectory for blogs"], "Research hosting for a small business site; note cost, SSL, and CMS option."],
+      ["UX and UI Basics for Marketers", "base", "UX is how it feels to use; UI is visual design — both affect conversion.", ["Clear hierarchy: headline → benefit → CTA", "Fewer choices often increase clicks", "Accessibility helps SEO and users", "Mobile thumb zones for buttons"], "Audit a homepage: list 3 UX wins and 3 friction points."],
+      ["Information Architecture and Navigation", "base", "How pages are organized and linked affects findability and SEO.", ["Shallow nav: key pages within 2 clicks", "Logical URL structure", "Breadcrumbs and footer links", "Search box on large sites"], "Sketch sitemap with 8 pages for a dental clinic website."],
+      ["Landing Page Design and Anatomy", "base", "Single goal, minimal nav, hero, benefits, proof, FAQ, CTA.", ["Message match from ad to page", "Above-fold CTA on mobile", "One primary conversion goal", "Remove distractions and extra links"], "Wireframe a landing page in bullets: 7 sections in order."],
+      ["Conversion Rate Optimization (CRO)", "base", "Systematic improvement of % visitors who complete goal.", ["Research → hypothesize → test → learn", "CRO works on traffic you already have", "Micro-conversions (email signup) count", "Document wins in playbook"], "Pick one page; list 5 CRO ideas ranked by ease vs impact."],
+      ["A/B Testing and Multivariate Testing", "base", "A/B compares two versions; multivariate tests multiple elements (needs more traffic).", ["Statistical significance before calling winner", "Run long enough for weekdays/weekends", "Test hypothesis not random tweaks", "Tools: VWO, Optimizely, Google Optimize successors"], "Propose an A/B test: control, variant, metric, minimum runtime."],
+      ["Page Speed and Core Web Vitals", "base", "LCP, INP, CLS affect UX and SEO rankings.", ["Compress images, lazy load", "Minimize third-party scripts", "Use CDN for global speed", "Test with PageSpeed Insights"], "Run PageSpeed on a site; note 3 recommendations to implement."],
+      ["Mobile-First and Responsive Design", "base", "Design for small screens first; most traffic is mobile.", ["Tap targets 44px+, readable font size", "Forms short on mobile", "Sticky CTA optional", "Test on real devices"], "Compare mobile vs desktop for a site — note 3 differences you'd fix."],
+      ["Forms, CTAs, and Lead Capture", "base", "Forms balance data needed vs friction; CTAs use action verbs and contrast.", ["Fewer fields = higher completion", "Progressive profiling over time", "CTA color and placement tests", "GDPR consent where required"], "Rewrite 3 weak CTAs as strong action-oriented buttons."],
+      ["Trust Signals: Reviews, Badges, and Social Proof", "base", "Testimonials, logos, ratings, guarantees reduce anxiety at decision.", ["Place proof near CTA", "Specific results beat vague praise", "Third-party reviews (G2, Trustpilot)", "Security badges on checkout"], "Collect 5 trust elements from 2 high-converting sites you admire."],
+    ]
+  ),
+
+  mod(
+    "seo",
+    "Module 4 — SEO",
+    "Crawling, keywords, on-page, technical, links, local, E-E-A-T, tools, and AI search.",
+    "Search",
+    "bg-green-500",
+    3,
+    [
+      ["How Search Engines Work", "base", "Crawl → index → rank: bots discover pages, store them, algorithms order results.", ["Crawl budget on large sites", "Index = eligible to rank", "Ranking = relevance + authority + UX", "Google Search Console shows coverage"], "Submit sitemap in Search Console (or explore demo); list index status terms."],
+      ["Keyword Research: Intent, Volume, Difficulty", "base", "Match content to search intent; balance volume vs competition.", ["Informational vs commercial vs transactional", "Long-tail = specific, often easier", "Keyword difficulty tools are estimates", "Topic clusters beat one-off posts"], "Find 10 keywords for a niche you like; tag intent for each."],
+      ["On-Page SEO Deep Dive", "base", "Titles, meta descriptions, headers, internal links, and content quality.", ["One primary keyword per page", "Title ~60 chars, compelling", "H1 once; logical H2/H3", "Internal links distribute authority"], "Optimize a sample page outline: title, meta, H1–H3 list."],
+      ["Technical SEO Essentials", "base", "Site structure, sitemaps, robots.txt, canonicals, speed, mobile-friendly.", ["Fix crawl errors first", "HTTPS everywhere", "Schema markup for rich results", "Avoid duplicate content"], "Run a technical checklist on a site: 10 yes/no items."],
+      ["Off-Page SEO and Link Building", "base", "Backlinks signal authority; quality beats quantity.", ["Guest posts, digital PR, resources", "Avoid toxic link schemes", "Anchor text variety natural", "Competitor backlink analysis"], "List 5 link-building tactics safe for a new blog."],
+      ["Local SEO and Google Business Profile", "base", "Maps pack and local pack for brick-and-mortar and service areas.", ["Complete GBP: hours, photos, categories", "Reviews and responses", "Local citations NAP consistency", "Location pages for multi-location"], "Audit a local business GBP listing; note 5 improvements."],
+      ["Content SEO and Topic Clusters", "base", "Pillar page + cluster posts interlinked around one theme.", ["Pillar targets broad head term", "Clusters answer sub-questions", "Internal linking hub-and-spoke", "Update pillars quarterly"], "Design one pillar + 5 cluster titles for 'email marketing'."],
+      ["E-E-A-T: Experience, Expertise, Authority, Trust", "base", "Google quality signals especially for YMYL (health, finance).", ["Author bios and credentials", "Cite sources; update dates", "About and contact transparency", "Real experience in content"], "Improve E-E-A-T on a sample article outline in 5 bullets."],
+      ["Algorithm Updates and Recovery", "base", "Core updates reward helpful content; penalties need diagnosis.", ["Check Search Console traffic drops", "Content audit: merge, improve, remove", "Avoid thin affiliate pages", "Patience — recovery takes months"], "Write a recovery plan outline if traffic dropped 30% post-update."],
+      ["SEO Tools: GSC, Ahrefs, SEMrush, Screaming Frog", "base", "Each tool covers research, audit, or tracking.", ["GSC: free, Google's data", "Ahrefs/SEMrush: keywords, competitors", "Screaming Frog: technical crawl desktop", "Pick stack by budget and role"], "Compare GSC vs one paid tool — 5 features each."],
+      ["Voice Search Optimization", "base", "Conversational queries and featured snippets.", ["FAQ schema and natural Q&A headings", "Short direct answers at top", "Local 'near me' queries", "Mobile and fast pages"], "Write 5 voice-style questions + 2-sentence answers for a recipe site."],
+      ["Visual Search and Image SEO", "base", "Google Lens, Pinterest — alt text, file names, structured data.", ["Descriptive alt text not keyword spam", "High-quality compressed images", "Image sitemaps for large catalogs", "Product images for e-commerce"], "Optimize 3 image filenames and alt texts for a product page."],
+      ["AI Search and AI Overviews (SGE) Optimization", "base", "Answer engines summarize sources — clarity, citations, structured content win.", ["Definitive concise answers", "Original data and expertise", "Brand mentions across web", "Monitor AI referral traffic in analytics"], "Restructure one article section for AI citation: definition, steps, FAQ."],
+    ]
+  ),
+
+  mod(
+    "sem-ppc",
+    "Module 5 — SEM / PPC",
+    "Google Ads, campaign types, Bing, bidding, Quality Score, structure, tracking, remarketing.",
+    "DollarSign",
+    "bg-orange-500",
+    4,
+    [
+      ["Google Ads Platform Overview", "base", "Auction-based ads on Search, Display, YouTube, and more.", ["Account → campaigns → ad groups → ads/keywords", "Billing and conversion goals setup", "Google Ads Editor for bulk work", "Policy compliance required"], "Explore Google Ads demo or skillshop; list 4 campaign types available."],
+      ["Search Campaigns", "base", "Text ads on Google search results for high-intent keywords.", ["Match user query with ad and landing page", "SKAG vs themed ad groups", "RSA with multiple headlines", "Search partners optional"], "Draft one RSA with 3 headlines and 2 descriptions for a plumber."],
+      ["Display and Demand Gen Campaigns", "base", "Visual ads across sites and apps; Demand Gen on YouTube, Discover, Gmail.", ["Awareness and remarketing use cases", "Responsive display ads", "Audience targeting critical", "Exclude poor placements"], "Define 3 custom audiences for a travel brand display campaign."],
+      ["Shopping Campaigns", "base", "Product feed ads for e-commerce in Shopping tab.", ["Merchant Center feed quality", "Product title and image optimization", "Performance Max often includes Shopping", "Track ROAS per product"], "List Merchant Center feed attributes required for one SKU."],
+      ["Video and YouTube Ads", "base", "Skippable in-stream, bumper, video action campaigns.", ["Hook in first 5 seconds", "Targeting: topics, placements, custom intent", "View-through conversions", "Link to video marketing module"], "Storyboard a 15-second bumper ad in 4 scenes."],
+      ["Performance Max Campaigns", "base", "Automated cross-channel campaigns using assets and goals.", ["Asset groups: images, video, text", "Audience signals guide ML", "Less control, more reach", "Monitor search terms and brand"], "List assets needed to launch one PMax campaign."],
+      ["Microsoft Bing Ads", "base", "Lower CPC often; imports from Google; older demographic skew.", ["Import Google campaigns", "LinkedIn profile targeting unique", "Smaller volume but incremental", "Same fundamentals as Google"], "Note 3 reasons to test Bing for a B2B advertiser."],
+      ["Keyword Match Types and Bidding", "base", "Broad, phrase, exact; Smart Bidding uses ML.", ["Negative keywords essential", "Manual CPC for learning phase", "Target CPA/ROAS when data exists", "Bid adjustments by device/location"], "Build keyword list: 5 exact, 5 phrase, 5 negative for SaaS."],
+      ["Ad Copywriting and Ad Extensions", "base", "Compelling copy plus sitelinks, callouts, structured snippets.", ["Include keyword in headline when natural", "USP in description", "Extensions improve CTR and Quality Score", "A/B test messaging"], "Write full search ad + 4 extensions for a gym membership."],
+      ["Quality Score and Ad Rank", "base", "Expected CTR, ad relevance, landing page experience determine rank and CPC.", ["Higher QS lowers CPC", "Tight keyword-ad-landing alignment", "Improve page speed and relevance", "QS 7+ is healthy target"], "Diagnose low QS: list 3 fixes for keyword-ad-page mismatch."],
+      ["Account Structure and Budgets", "base", "Clean structure enables reporting and scale.", ["Separate brand vs non-brand", "Campaign budget vs shared budgets", "Daily caps vs monthly pacing", "Label experiments"], "Draw campaign tree for ecommerce: brand, non-brand, remarketing."],
+      ["Conversion Tracking and Google Tag", "base", "Tags fire on purchases, leads, calls — data feeds bidding.", ["Google tag via GTM or direct", "Enhanced conversions for accuracy", "Import offline conversions for CRM", "Test with Tag Assistant"], "List events to track for a lead gen site and how you'd verify firing."],
+      ["Remarketing and Retargeting", "base", "Show ads to past visitors or customer lists.", ["Audience segments by page depth", "Frequency caps avoid annoyance", "Exclude converters", "Sequential messaging by funnel stage"], "Define 3 remarketing lists with rules and ad message each."],
+      ["Negative Keywords and Search Term Mining", "base", "Review search terms report; add negatives to cut waste.", ["Weekly search term review habit", "Broad match needs more negatives", "Shared negative lists", "Mine winners for new exact keywords"], "From sample search terms, mark 5 as negative and 5 as keep."],
+    ]
+  ),
+
+  mod(
+    "content-marketing",
+    "Module 6 — Content Marketing",
+    "Strategy, formats, copywriting, calendar, distribution, repurposing, and measurement.",
+    "FileText",
+    "bg-amber-500",
+    5,
+    [
+      ["Content Strategy and the Content Funnel", "base", "Plan content by audience, funnel stage, and business goal.", ["Content mission statement", "Audit existing content gaps", "Editorial themes per quarter", "Align with SEO keyword map"], "Write content mission in 2 sentences for a B2B fintech blog."],
+      ["Blog Posts and Long-Form Articles", "base", "Workhorse of SEO and thought leadership.", ["Outline before writing", "Original insight beats rewrites", "Update old posts for freshness", "Internal links to money pages"], "Create detailed outline for 1500-word post with H2s."],
+      ["Ebooks, Whitepapers, and Case Studies", "base", "Gated depth for leads; case studies prove ROI.", ["Ebook: one big problem solved", "Whitepaper: research and data", "Case study: challenge, solution, metrics", "Design matters for perceived value"], "Outline case study structure for fictional client + 3 metrics."],
+      ["Infographics, Video, and Podcasts", "base", "Visual and audio formats extend reach and repurposing.", ["Infographic: one story, cite sources", "Video: hook, value, CTA", "Podcast: consistency and guests", "Transcripts help SEO"], "Pick one pillar article; plan 3 derivative formats."],
+      ["Copywriting and Storytelling", "base", "Clear, benefit-led copy with narrative arc.", ["Features → benefits → outcomes", "Story: character, problem, guide, plan", "Active voice and short sentences", "One idea per paragraph"], "Rewrite 200 words of bland copy using story framework."],
+      ["Editorial Calendar and Content Planning", "base", "Schedule production, owners, channels, and publish dates.", ["Monthly themes", "Buffer for timely news", "Template: title, stage, format, owner", "Tools: Notion, Airtable, CoSchedule"], "Build 4-week calendar with 8 pieces and dates."],
+      ["Content Distribution and Amplification", "base", "Publish plus promote — email, social, partners, paid boost.", ["Rule of thumb: spend 20% create, 80% promote", "Employee advocacy", "Newsletter feature", "Repurpose per channel native format"], "Write distribution checklist for one new blog post (10 actions)."],
+      ["Content Repurposing Workflows", "base", "One asset becomes many — efficiency and consistency.", ["Webinar → blog + clips + quotes", "Blog → thread + carousel + email", "Batch record short videos", "Maintain brand voice across cuts"], "Take one topic; list 7 repurposed assets with channel."],
+      ["Content for Each Funnel Stage", "base", "TOFU educate, MOFU compare, BOFU convert.", ["TOFU: how-to, trends", "MOFU: comparisons, webinars", "BOFU: demos, testimonials, pricing pages", "Retention: onboarding content"], "Assign 3 existing pieces from web to funnel stages."],
+      ["Measuring Content Performance", "base", "Traffic, engagement, assisted conversions, content ROI.", ["GA4 landing pages and events", "Time on page not sole metric", "Attribution to pipeline for B2B", "Content decay reports quarterly"], "Define 5 KPIs for blog and how to track in GA4."],
+    ]
+  ),
+
+  mod(
+    "social-media",
+    "Module 7 — Social Media Marketing",
+    "Platforms, organic, paid social, calendar, community, listening, UGC, and social commerce.",
+    "Share2",
+    "bg-sky-500",
+    6,
+    [
+      ["Social Platform Landscape Overview", "base", "Facebook, Instagram, LinkedIn, X, TikTok, YouTube, Pinterest, Threads, Snapchat — different audiences.", ["B2B skews LinkedIn", "Gen Z: TikTok, Instagram Reels", "YouTube long-form + Shorts", "Pick 2–3 platforms max at start"], "Choose 2 platforms for a brand you like; justify with audience data."],
+      ["Choosing the Right Platforms", "base", "Go where your ICP spends time; don't spread thin.", ["Research competitor presence", "Test 90 days before quitting", "Resource reality check", "Repurpose across chosen set"], "Write platform rationale doc: 1 page for fictional startup."],
+      ["Organic Social Strategy and Content Pillars", "base", "Repeatable themes: educate, entertain, inspire, promote (80/20 rule).", ["3–5 pillars documented", "Brand voice guide", "Native formats per platform", "Consistency beats viral lottery"], "Define 4 content pillars + 3 post ideas each for a cafe."],
+      ["Facebook and Instagram Marketing", "base", "Meta ecosystem: feed, Stories, Reels, Groups, Shops.", ["Business suite scheduling", "Reels for reach", "Community in Groups", "Shop and catalog for D2C"], "Plan 1 week of IG: 3 Reels, 2 carousels, 2 Stories themes."],
+      ["LinkedIn Marketing Organic and Paid", "base", "B2B thought leadership and precise job targeting ads.", ["Personal + company page strategy", "Document posts and newsletters", "LinkedIn Ads: lead gen forms", "Employee advocacy"], "Draft LinkedIn post hook + 3 bullet value for SaaS CEO."],
+      ["X (Twitter) and Threads", "base", "Real-time conversation and text-first communities.", ["Short punchy takes", "Engage in replies", "Threads for lighter Meta audience", "Avoid ratio without strategy"], "Write 5 tweet angles for product launch (no links yet)."],
+      ["TikTok and Short-Form Video", "base", "Algorithm favors watch time and hooks; authenticity wins.", ["First 2 seconds critical", "Trends vs evergreen education", "TikTok Shop emerging", "Repurpose to Reels/Shorts"], "Script 30-second TikTok: hook, value, soft CTA."],
+      ["YouTube and Pinterest Strategy", "base", "Searchable video and visual discovery engines.", ["YouTube SEO: title, thumb, chapters", "Playlists and consistency", "Pinterest pins as evergreen traffic", "Idea pins and shopping"], "Outline YouTube video: title, thumb idea, 5 chapter timestamps."],
+      ["Paid Social: Meta, LinkedIn, TikTok Ads", "base", "Paid extends reach with targeting and retargeting.", ["Campaign objective matches funnel", "Creative testing 3–5 variants", "Pixel / CAPI tracking", "Lookalike and custom audiences"], "Define Meta campaign: objective, audience, 2 creatives, KPI."],
+      ["Social Media Calendar and Scheduling", "base", "Plan posts; tools: Buffer, Hootsuite, Later, native schedulers.", ["Batch content weekly", "Timezone of audience", "Leave slots for reactive news", "UTM on link posts"], "Build 2-week calendar in spreadsheet with columns."],
+      ["Community Management and Engagement", "base", "Reply, moderate, escalate — builds loyalty and algorithm favor.", ["Response time SLAs", "Saved replies for FAQs", "Crisis escalation path", "Highlight UGC"], "Write community guidelines + 5 saved replies."],
+      ["Social Listening and Reputation", "base", "Monitor brand mentions and sentiment.", ["Tools: Brand24, Mention, native alerts", "Join conversations helpfully", "Address complaints publicly then DM", "Report trends to product"], "Set up free Google Alerts; list 5 keywords to monitor."],
+      ["User-Generated Content (UGC)", "base", "Customers create proof — contests, hashtags, rights.", ["Ask permission before repost", "Campaign hashtag clear", "Incentives without fake reviews", "UGC in ads with whitelisting"], "Design UGC campaign brief for skincare brand."],
+      ["Social Commerce", "base", "Shop in-app: Instagram Shop, TikTok Shop, Facebook Marketplace.", ["Product tagging in posts", "Live shopping events", "Sync inventory", "Trust and returns policy visible"], "List 5 steps to launch Instagram Shop for 10 SKUs."],
+    ]
+  ),
+
+  mod(
+    "email-marketing",
+    "Module 8 — Email Marketing",
+    "List building, segmentation, email types, automation, deliverability, metrics, tools, compliance.",
+    "Mail",
+    "bg-indigo-500",
+    7,
+    [
+      ["Email List Building and Lead Capture", "base", "Permission-based lists via site forms, lead magnets, checkout.", ["Double opt-in in EU often", "Pop-ups timed not instant annoy", "List quality > size", "Sunset inactive subscribers"], "Sketch 3 list growth tactics with expected signup rate ideas."],
+      ["Segmentation and Personalization", "base", "Send relevant emails by behavior, purchase, persona.", ["RFM for e-commerce", "B2B: industry, role, stage", "Dynamic content blocks", "Avoid creepy over-personalization"], "Define 4 segments for online bookstore and email theme each."],
+      ["Newsletters and Promotional Emails", "base", "Newsletter = relationship; promo = offer with deadline.", ["Consistent send day", "One primary CTA per promo", "Balance value vs sell", "Preview text matters"], "Write newsletter outline: subject, 3 sections, CTA."],
+      ["Transactional Email Basics", "base", "Order confirms, password reset — high open rates, don't waste.", ["Upsell related product subtly", "Brand tone consistent", "Deliverability separate IP sometimes", "Mobile-friendly templates"], "List 5 transactional touchpoints for SaaS and upsell idea each."],
+      ["Drip Campaigns and Email Automation", "base", "Triggered series based on signup or behavior.", ["Welcome, abandoned cart, re-engagement", "If/then branches", "Delay timers between emails", "Goal: one conversion event"], "Map 5-email welcome automation with triggers."],
+      ["Subject Lines, Copy, and Design", "base", "Subject drives opens; body drives clicks; design supports scanability.", ["40–50 char mobile subjects", "Curiosity vs clarity tests", "Single column mobile", "Alt text on images"], "Write 10 subject lines for same offer; pick top 3 and why."],
+      ["Deliverability and Sender Reputation", "base", "ISP trust: authentication, complaints, bounces.", ["SPF, DKIM, DMARC setup", "Warm up new domains slowly", "Remove hard bounces", "Avoid spam trigger words excess"], "Checklist 8 deliverability fixes for new domain."],
+      ["Email A/B Testing", "base", "Test subject, CTA, send time, content layout.", ["One variable", "Sample size sufficient", "Winner to remainder or next send", "Document learnings"], "Design A/B test: hypothesis, variants, success metric."],
+      ["Email Metrics: Opens, CTR, Conversions", "base", "Open rate declining due to privacy; clicks and revenue matter more.", ["CTR = clicks ÷ delivered", "Conversion rate on email traffic", "Unsubscribe rate benchmark", "Revenue per recipient"], "Interpret sample email report; recommend 3 optimizations."],
+      ["Email Tools: Mailchimp, Klaviyo, HubSpot", "base", "ESP choice by ecommerce vs B2B vs complexity.", ["Klaviyo: Shopify ecosystem", "HubSpot: CRM integrated", "Mailchimp: SMB friendly", "ActiveCampaign: automation power"], "Compare 2 ESPs for a D2C store in table format."],
+      ["Email Compliance: GDPR and CAN-SPAM", "base", "Consent, unsubscribe, physical address, data rights.", ["CAN-SPAM: opt-out, address, no deception", "GDPR: lawful basis, records", "HIPAA etc. for regulated", "Preference center"], "Audit sample email for compliance checklist 10 items."],
+    ]
+  ),
+
+  mod(
+    "automation-crm",
+    "Module 9 — Marketing Automation & CRM",
+    "Automation, lead scoring, MQL/SQL, workflows, CRM integration, nurture campaigns, platforms.",
+    "Workflow",
+    "bg-purple-500",
+    8,
+    [
+      ["What Is Marketing Automation", "base", "Software runs repetitive marketing tasks based on rules and behavior.", ["Saves time on nurture and handoffs", "Requires clean data", "Start simple then complex", "Aligns marketing and sales"], "List 5 tasks you'd automate for a B2B webinar funnel."],
+      ["Lead Scoring and Qualification", "base", "Points for fit and behavior; threshold for sales-ready.", ["Fit: title, company size", "Behavior: pricing page, demo request", "Negative scores for bad fit", "Review model quarterly"], "Build simple lead score model with 10 rules."],
+      ["MQL vs SQL Definitions", "base", "Marketing Qualified Lead ready for nurture/sales; Sales Qualified Lead accepted by sales.", ["SLA between teams", "Shared definitions documented", "Rejection feedback loop", "Different funnels per product"], "Write MQL and SQL criteria for $5k/mo software."],
+      ["Workflows and Triggered Campaigns", "base", "If contact does X, send Y, notify sales, update field.", ["Delays and goal steps", "Suppression for customers", "Test with internal contacts", "Monitor enrollment caps"], "Draw workflow: form submit → 3 emails → sales task."],
+      ["CRM Fundamentals and Integration", "base", "Single customer record: marketing, sales, support.", ["HubSpot, Salesforce, Pipedrive roles", "Sync forms and ads leads", "Duplicate management", "Pipeline stages mirror journey"], "Map CRM fields needed for lead from ad to close."],
+      ["Drip and Nurture Campaigns in CRM", "base", "Long-term education until timing right.", ["Content tracks by persona", "Sales triggers on score", "Pause on reply", "Measure influenced revenue"], "Outline 90-day nurture for CFO persona."],
+      ["Marketing Automation Platforms Compared", "base", "HubSpot, Marketo, ActiveCampaign, Salesforce Marketing Cloud.", ["SMB vs enterprise", "Native CRM vs integration", "Pricing models", "Certification paths"], "Pick platform for 50-person B2B and justify in 1 page."],
+    ]
+  ),
+
+  mod(
+    "analytics",
+    "Module 10 — Analytics & Measurement",
+    "GA4, GTM, UTMs, dashboards, attribution, reporting, conversion tracking, data decisions.",
+    "BarChart3",
+    "bg-emerald-500",
+    9,
+    [
+      ["Google Analytics 4 (GA4) Fundamentals", "base", "Event-based analytics across web and app.", ["Events vs pageviews", "Explorations and funnels", "Conversions marked from events", "Privacy and consent mode"], "List 10 events to configure for lead gen site."],
+      ["Google Tag Manager (GTM)", "base", "Deploy tags without code deploys; triggers and variables.", ["Container, tags, triggers", "Preview mode debug", "Data layer for ecommerce", "Version and publish workflow"], "Document GTM plan: 3 tags, 3 triggers for one site."],
+      ["UTM Parameters and Campaign Tracking", "base", "utm_source, medium, campaign, content, term for clean reports.", ["Naming convention doc", "Lowercase consistency", "Auto-tagging for Google Ads", "Spreadsheet builder for team"], "Create UTM convention doc + 3 example URLs."],
+      ["KPIs and Marketing Dashboards", "base", "One screen for executives: traffic, leads, CPA, ROAS.", ["Looker Studio, GA4, HubSpot reports", "Weekly vs monthly views", "Red/yellow/green thresholds", "Action notes not just numbers"], "Sketch dashboard wireframe with 8 widgets."],
+      ["Attribution Models Explained", "base", "First-touch, last-touch, linear, time-decay, data-driven.", ["No model is perfect", "Long B2B cycles need multi-touch", "GA4 attribution reports", "Align with finance on definition"], "Compare first vs last touch for 3-channel journey example."],
+      ["Reporting and Data Storytelling", "base", "Insights → so what → now what for stakeholders.", ["Lead with recommendation", "Visualize trends not tables only", "Context vs prior period", "Honest about limitations"], "Write 1-page monthly report outline for client."],
+      ["Cross-Channel Conversion Tracking", "base", "Pixels, offline imports, CRM closed-loop.", ["Meta CAPI + pixel", "Google enhanced conversions", "Import SQL from CRM", "Dedupe rules"], "List tracking stack for D2C: web, ads, email, CRM."],
+      ["Data-Driven Decision Making", "base", "Hypothesis, test, measure, iterate culture.", ["Avoid vanity metrics", "Statistical significance", "Document experiments", "Fail fast small bets"], "Write decision memo: data, options, recommendation."],
+    ]
+  ),
+
+  mod(
+    "other-channels",
+    "Module 11 — Other Channels & Specializations",
+    "Affiliate, influencer, video, mobile, SMS, push, e-commerce, programmatic, native ads.",
+    "Radio",
+    "bg-pink-500",
+    10,
+    [
+      ["Affiliate Marketing", "base", "Partners earn commission for driving sales or leads.", ["Networks: ShareASale, Impact", "Commission and cookie window", "Fraud and brand bidding rules", "Creative and landing alignment"], "Outline affiliate program terms for 20% commission product."],
+      ["Influencer Marketing", "base", "Creators promote to their audience — nano to mega tiers.", ["Brief clear deliverables", "Disclosure #ad required", "Whitelisting for ads", "Measure with codes and UTMs"], "Write influencer brief for skincare launch."],
+      ["Video Marketing and YouTube SEO", "base", "Video builds trust; YouTube is second largest search engine.", ["Keyword in title; custom thumbnail", "Chapters and end screens", "Shorts for discovery", "Embed on site for dwell time"], "Plan YouTube content pyramid: 1 hero, 4 hub, 12 help videos."],
+      ["Mobile Marketing and App Promotion", "base", "In-app messages, push, mobile ads, deep links.", ["App install campaigns", "Retention push not spam", "Deep link to screen", "Measure LTV by channel"], "List 5 mobile tactics for new food delivery app."],
+      ["App Store Optimization (ASO)", "base", "Rank in App Store and Play Store search.", ["Title, subtitle, keywords", "Screenshots and preview video", "Ratings and reviews velocity", "A/B store listing tests"], "Optimize fictional app listing: title, 5 bullets, keywords."],
+      ["SMS and WhatsApp Marketing", "base", "High open rates; strict opt-in and regulations.", ["TCPA compliance US", "WhatsApp Business API", "Short concise offers", "Opt-out STOP"], "Write 3 SMS messages for flash sale with compliance notes."],
+      ["Push Notification Marketing", "base", "Web and app push for re-engagement.", ["Permission prompt timing", "Segment by behavior", "Rich notifications", "Don't over-send"], "Plan push strategy: 4 notification types with triggers."],
+      ["E-commerce and Marketplace Marketing", "base", "Amazon ads, marketplace SEO, cart abandonment.", ["Amazon PPC basics", "Reviews and A+ content", "Cart abandonment email/SMS", "Unified inventory messaging"], "Compare DTC site vs Amazon strategy for one brand."],
+      ["Programmatic Advertising", "base", "Automated RTB display/video across exchanges.", ["DSP, SSP, DMP vocabulary", "Brand safety blocklists", "Viewability metrics", "Agency-heavy channel"], "Explain programmatic in plain English to a CEO in 5 sentences."],
+      ["Native Advertising", "base", "Paid content matching editorial feed — Taboola, Outbrain, in-feed social.", ["Label as sponsored", "Story-style landing", "Lower CTR than search sometimes", "Good for content promotion"], "Compare native vs display pros/cons table."],
+    ]
+  ),
+
+  mod(
+    "strategy-branding",
+    "Module 12 — Strategy, Branding & Planning",
+    "End-to-end strategy, brand voice, competitive analysis, budgeting, integrated campaigns.",
+    "Compass",
+    "bg-rose-500",
+    11,
+    [
+      ["Building a Digital Marketing Strategy End-to-End", "base", "Research → goals → audience → channels → plan → measure → optimize.", ["Situation analysis first", "Channel mix from STP", "Quarterly roadmap", "Resource and budget realistic"], "Write 1-page strategy summary for fictional D2C brand."],
+      ["Branding, Brand Voice, and Positioning", "base", "Brand is perception; voice is how you sound consistently.", ["Voice chart: formal/casual, funny/serious", "Visual identity basics", "Positioning statement template", "Internal brand guide"], "Create voice chart with 4 dimensions for tech startup."],
+      ["Competitive and Market Analysis", "base", "Size market, map competitors, find white space.", ["TAM SAM SOM", "Competitor matrix features and price", "SWOT per major rival", "Trends PESTLE optional"], "Build competitor matrix with 5 rivals and 6 criteria."],
+      ["Budgeting and Channel Allocation", "base", "Split budget by goal, CAC targets, and test reserve.", ["70/20/10 core/test/learn", "CAC payback period", "Seasonality", "Reforecast monthly"], "Allocate $10k/mo across 5 channels with %."],
+      ["Campaign Planning and Project Management", "base", "Brief, timeline, assets, approvals, launch checklist.", ["Gantt or kanban", "RACI roles", "Creative rounds", "Post-mortem template"], "Write campaign brief: objective, audience, channels, KPIs, dates."],
+      ["Integrated Multi-Channel Campaigns", "base", "Same story across email, social, ads, PR — unified measurement.", ["Hero message one line", "Channel-specific execution", "UTM and dashboard", "Retargeting ties it together"], "Design integrated launch for product: 6 touchpoints."],
+    ]
+  ),
+
+  mod(
+    "advanced-emerging",
+    "Module 13 — Advanced & Emerging Topics",
+    "AI in marketing, ABM, growth hacking, chatbots, personalization, privacy, Web3.",
+    "Sparkles",
+    "bg-yellow-500",
+    12,
+    [
+      ["AI in Marketing and AI Tools", "base", "GenAI for copy, images, analysis — human review required.", ["Use AI for drafts and variants", "Fact-check and brand voice edit", "Don't publish raw hallucinations", "Disclose AI where policy requires"], "List 5 safe AI uses and 3 risks for client work."],
+      ["Account-Based Marketing (ABM)", "base", "Target named accounts with personalized campaigns — B2B.", ["Tier 1 accounts custom", "LinkedIn + direct mail + SDR", "Measure engagement per account", "Sales alignment critical"], "Pick 10 dream accounts; outline ABM tactics for one."],
+      ["Growth Marketing and Growth Hacking", "base", "Rapid experiment loops across product and marketing.", ["North star metric", "ICE score prioritization", "Viral loops and referrals", "Cross-functional squad"], "Generate 10 growth ideas; ICE score top 3."],
+      ["Conversational Marketing and Chatbots", "base", "Live chat and bots qualify leads 24/7.", ["Qualify before human handoff", "Train on FAQs", "GDPR on chat data", "Measure booked meetings"], "Write chatbot flow: 5 questions to book demo."],
+      ["Personalization at Scale", "base", "Dynamic web, email, ads using first-party data.", ["Segments not creepy 1:1 fake", "CDP unifies data", "Test lift vs control", "Cookie deprecation ready"], "Plan 3 personalization rules for returning visitors."],
+      ["Privacy and the Cookieless Future", "base", "First-party data, server-side tracking, consent platforms.", ["Chrome third-party cookie changes", "Consent Management Platforms", "Server-side GTM", "Contextual ads return"], "Write first-party data collection plan post-cookies."],
+      ["Web3, Metaverse, and Emerging Channels", "base", "Experimental — NFTs, virtual events, new platforms.", ["Evaluate hype vs audience fit", "Small pilots only", "Brand risk on unproven tech", "Measure like any campaign"], "Write go/no-go criteria for metaverse pilot."],
+    ]
+  ),
+
+  mod(
+    "legal-career",
+    "Module 14 — Legal, Ethics & Career",
+    "Privacy laws, ad standards, ethics, certifications, portfolio, career paths.",
+    "GraduationCap",
+    "bg-slate-500",
+    13,
+    [
+      ["Data Privacy: GDPR and CCPA", "base", "EU GDPR and California CCPA/CPRA rights and business duties.", ["Lawful basis and consent", "Data subject requests", "Privacy policy and records", "Vendor DPAs"], "Checklist 12 GDPR items for marketing site."],
+      ["Advertising Standards and Disclosure", "base", "FTC endorsements, #ad, truthful claims, comparative ads.", ["Influencer disclosure rules", "Substantiate health/wealth claims", "Native ad labeling", "Country-specific rules"], "Review 3 ads; note disclosure and claim issues."],
+      ["Marketing Ethics", "base", "Honesty, respect, inclusivity, avoid dark patterns.", ["Dark patterns erode trust", "Inclusive imagery and language", "Children and sensitive targeting limits", "Long-term brand > short trick"], "Write ethics policy 8 bullets for agency."],
+      ["Certifications: Google, Meta, HubSpot", "base", "Credentials prove baseline skills to employers.", ["Google Ads Search cert", "Meta Certified Digital Marketing", "HubSpot inbound", "Renew and apply to portfolio"], "Pick 2 certs; list study plan 4 weeks each."],
+      ["Building a Marketing Portfolio and Case Studies", "base", "Show problem, your role, actions, metrics — even spec projects.", ["Before/after screenshots", "Anonymize client data OK", "Spec campaigns welcome", "PDF + live site"], "Outline one case study template you'll fill."],
+      ["Freelance vs Agency vs In-House Careers", "base", "Paths differ in breadth, depth, pace, and income.", ["Freelance: variety, sales burden", "Agency: fast learning, clients", "In-house: deep brand, politics", "T-shaped skills win"], "Write 5-year career plan for your preferred path."],
+      ["Capstone: Full Marketing Plan Project", "advanced", "Synthesize all modules into one documented plan for a brand.", ["STP, funnel, channel mix, calendar", "Budget and KPIs", "90-day roadmap", "Presentation ready"], "Complete capstone: 5-page marketing plan for chosen brand."],
+    ]
+  ),
+];

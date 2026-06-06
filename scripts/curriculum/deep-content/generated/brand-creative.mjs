@@ -1,2 +1,0 @@
-/** AUTO-GENERATED */
-export const BRAND_CREATIVE_GENERATED = {};

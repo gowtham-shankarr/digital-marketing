@@ -2,76 +2,80 @@ import type { Lesson } from "@/lib/types";
 
 export const email_marketingLessons: Lesson[] = [
   {
-    "slug": "email-marketing-intro",
-    "title": "What is Email Marketing?",
+    "slug": "email-list-building-and-lead-capture",
+    "title": "Email List Building and Lead Capture",
     "track": "email-marketing",
     "level": "base",
     "order": 1,
-    "estimatedMinutes": 28,
-    "summary": "Direct owned channel — newsletters, promotions, nurture sequences.",
+    "estimatedMinutes": 32,
+    "summary": "Permission-based lists via site forms, lead magnets, checkout.",
     "objectives": [
-      "Define What is Email Marketing? in your own words",
-      "Explain why What is Email Marketing? matters for business growth",
-      "Identify when to use What is Email Marketing? in a campaign",
-      "Complete a hands-on practice task for What is Email Marketing?"
+      "Define Email List Building and Lead Capture clearly in your own words",
+      "Explain how Email List Building and Lead Capture connects to funnel stages and business goals",
+      "Identify when teams apply Email List Building and Lead Capture in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is What is Email Marketing??\n\n**What is Email Marketing?** is essential for modern marketers. Direct owned channel — newsletters, promotions, nurture sequences.\n\nIn real campaigns, teams use what is email marketing? to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align what is email marketing? with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Direct owned channel — newsletters, promotions, nurture sequences. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nWhat is Email Marketing? is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "What is Email Marketing? improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use what is email marketing? when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Email List Building and Lead Capture?\n\n**Email List Building and Lead Capture** is a core part of professional digital marketing. Permission-based lists via site forms, lead magnets, checkout.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Double opt-in in EU often\n- Pop-ups timed not instant annoy\n- List quality > size\n- Sunset inactive subscribers\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Permission-based lists via site forms, lead magnets, checkout. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Email List Building and Lead Capture reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Email List Building and Lead Capture when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what What is Email Marketing? means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Email List Building and Lead Capture means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: What is Email Marketing? in action\n\nImagine a small online store launching a new product. The team uses **What is Email Marketing?** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **What is Email Marketing?**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying What is Email Marketing?\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand What is Email Marketing? by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the What is Email Marketing? example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to What is Email Marketing?: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain What is Email Marketing? to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Email List Building and Lead Capture\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Email List Building and Lead Capture helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply email list building and lead capture to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Email List Building and Lead Capture**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Email List Building and Lead Capture\n\nSketch 3 list growth tactics with expected signup rate ideas.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Email is…",
+        "question": "Email List Building and Lead Capture is best learned by…",
         "options": [
-          "Owned channel",
-          "Paid social only",
-          "DNS",
-          "Print"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "High ROI because…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Permission-based",
-          "Spam everyone",
-          "No list",
-          "CSS"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Needs…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Consent",
-          "Hidden tracking only",
-          "Fonts",
-          "Tax"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -81,7 +85,7 @@ export const email_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -99,76 +103,80 @@ export const email_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "list-building",
-    "title": "Building Your List",
+    "slug": "segmentation-and-personalization",
+    "title": "Segmentation and Personalization",
     "track": "email-marketing",
     "level": "base",
     "order": 2,
-    "estimatedMinutes": 28,
-    "summary": "Lead magnets, signup forms, double opt-in, ethical growth.",
+    "estimatedMinutes": 32,
+    "summary": "Send relevant emails by behavior, purchase, persona.",
     "objectives": [
-      "Define Building Your List in your own words",
-      "Explain why Building Your List matters for business growth",
-      "Identify when to use Building Your List in a campaign",
-      "Complete a hands-on practice task for Building Your List"
+      "Define Segmentation and Personalization clearly in your own words",
+      "Explain how Segmentation and Personalization connects to funnel stages and business goals",
+      "Identify when teams apply Segmentation and Personalization in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Building Your List?\n\n**Building Your List** is essential for modern marketers. Lead magnets, signup forms, double opt-in, ethical growth.\n\nIn real campaigns, teams use building your list to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align building your list with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Lead magnets, signup forms, double opt-in, ethical growth. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nBuilding Your List is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Building Your List improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use building your list when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Segmentation and Personalization?\n\n**Segmentation and Personalization** is a core part of professional digital marketing. Send relevant emails by behavior, purchase, persona.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- RFM for e-commerce\n- B2B: industry, role, stage\n- Dynamic content blocks\n- Avoid creepy over-personalization\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Send relevant emails by behavior, purchase, persona. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Segmentation and Personalization reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Segmentation and Personalization when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Building Your List means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Segmentation and Personalization means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Building Your List in action\n\nImagine a small online store launching a new product. The team uses **Building Your List** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Building Your List**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Building Your List\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Building Your List by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Building Your List example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Building Your List: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Building Your List to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Segmentation and Personalization\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Segmentation and Personalization helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply segmentation and personalization to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Segmentation and Personalization**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Segmentation and Personalization\n\nDefine 4 segments for online bookstore and email theme each.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Lead magnet offers…",
+        "question": "Segmentation and Personalization is best learned by…",
         "options": [
-          "Value for email",
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A strong deliverable after this lesson includes…",
+        "options": [
+          "Written notes with metrics and actions",
           "Nothing",
-          "Payroll",
-          "DNS"
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Double opt-in…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Confirms consent",
-          "Spam",
-          "CSS",
-          "Fonts"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "Never buy…",
-        "options": [
-          "Email lists",
-          "Templates",
-          "Tools",
-          "Content"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -178,7 +186,7 @@ export const email_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -196,76 +204,80 @@ export const email_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "email-segmentation",
-    "title": "Email Segmentation",
+    "slug": "newsletters-and-promotional-emails",
+    "title": "Newsletters and Promotional Emails",
     "track": "email-marketing",
     "level": "base",
     "order": 3,
-    "estimatedMinutes": 28,
-    "summary": "Split list by behavior, purchase history, interests for relevance.",
+    "estimatedMinutes": 32,
+    "summary": "Newsletter = relationship; promo = offer with deadline.",
     "objectives": [
-      "Define Email Segmentation in your own words",
-      "Explain why Email Segmentation matters for business growth",
-      "Identify when to use Email Segmentation in a campaign",
-      "Complete a hands-on practice task for Email Segmentation"
+      "Define Newsletters and Promotional Emails clearly in your own words",
+      "Explain how Newsletters and Promotional Emails connects to funnel stages and business goals",
+      "Identify when teams apply Newsletters and Promotional Emails in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Email Segmentation?\n\n**Email Segmentation** is essential for modern marketers. Split list by behavior, purchase history, interests for relevance.\n\nIn real campaigns, teams use email segmentation to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align email segmentation with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Split list by behavior, purchase history, interests for relevance. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nEmail Segmentation is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Email Segmentation improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use email segmentation when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Newsletters and Promotional Emails?\n\n**Newsletters and Promotional Emails** is a core part of professional digital marketing. Newsletter = relationship; promo = offer with deadline.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Consistent send day\n- One primary CTA per promo\n- Balance value vs sell\n- Preview text matters\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Newsletter = relationship; promo = offer with deadline. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Newsletters and Promotional Emails reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Newsletters and Promotional Emails when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Email Segmentation means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Newsletters and Promotional Emails means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Email Segmentation in action\n\nImagine a small online store launching a new product. The team uses **Email Segmentation** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Email Segmentation**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Email Segmentation\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Email Segmentation by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Email Segmentation example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Email Segmentation: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Email Segmentation to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Newsletters and Promotional Emails\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Newsletters and Promotional Emails helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply newsletters and promotional emails to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Newsletters and Promotional Emails**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Newsletters and Promotional Emails\n\nWrite newsletter outline: subject, 3 sections, CTA.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Segments improve…",
+        "question": "Newsletters and Promotional Emails is best learned by…",
         "options": [
-          "Relevance",
-          "Spam score",
-          "DNS",
-          "Fonts"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Behavioral example…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Clicked pricing",
-          "Random",
-          "CSS",
-          "Tax"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Avoid…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "One blast to all always",
-          "Testing",
-          "Metrics",
-          "Goals"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -275,7 +287,7 @@ export const email_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -293,76 +305,80 @@ export const email_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "newsletter-basics",
-    "title": "Newsletter Basics",
+    "slug": "transactional-email-basics",
+    "title": "Transactional Email Basics",
     "track": "email-marketing",
     "level": "base",
     "order": 4,
-    "estimatedMinutes": 28,
-    "summary": "Consistent format: intro, value, CTA, plain-text option.",
+    "estimatedMinutes": 32,
+    "summary": "Order confirms, password reset — high open rates, don't waste.",
     "objectives": [
-      "Define Newsletter Basics in your own words",
-      "Explain why Newsletter Basics matters for business growth",
-      "Identify when to use Newsletter Basics in a campaign",
-      "Complete a hands-on practice task for Newsletter Basics"
+      "Define Transactional Email Basics clearly in your own words",
+      "Explain how Transactional Email Basics connects to funnel stages and business goals",
+      "Identify when teams apply Transactional Email Basics in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Newsletter Basics?\n\n**Newsletter Basics** is essential for modern marketers. Consistent format: intro, value, CTA, plain-text option.\n\nIn real campaigns, teams use newsletter basics to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align newsletter basics with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Consistent format: intro, value, CTA, plain-text option. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nNewsletter Basics is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Newsletter Basics improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use newsletter basics when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Transactional Email Basics?\n\n**Transactional Email Basics** is a core part of professional digital marketing. Order confirms, password reset — high open rates, don't waste.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Upsell related product subtly\n- Brand tone consistent\n- Deliverability separate IP sometimes\n- Mobile-friendly templates\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Order confirms, password reset — high open rates, don't waste. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Transactional Email Basics reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Transactional Email Basics when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Newsletter Basics means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Transactional Email Basics means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Newsletter Basics in action\n\nImagine a small online store launching a new product. The team uses **Newsletter Basics** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Newsletter Basics**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Newsletter Basics\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Practice declaring and using variables for Newsletter Basics.\n\n**Part A — Predict** — Write 3 lines using `const` and `let`. Predict console output before running in Live Demo.\n\n**Part B — Build** — Model a real value (price, username, count). Reassign only what should change.\n\n**Part C — Verify** — Intentionally reassign a const. Read the error and fix.\n\n**Done when:** Code runs without errors; you can explain const vs let.",
+    "example": "### Worked example: Transactional Email Basics\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Transactional Email Basics helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply transactional email basics to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Transactional Email Basics**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Transactional Email Basics\n\nList 5 transactional touchpoints for SaaS and upsell idea each.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Newsletters need…",
+        "question": "Transactional Email Basics is best learned by…",
         "options": [
-          "Consistent value",
-          "Daily ads only",
-          "DNS",
-          "Payroll"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Subject line…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Drives opens",
-          "Hidden",
-          "CSS",
-          "Fonts"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "One clear CTA…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Reduces confusion",
-          "Twenty buttons",
-          "Spam",
-          "Tax"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -372,7 +388,7 @@ export const email_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -390,76 +406,80 @@ export const email_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "email-copy",
-    "title": "Email Copywriting",
+    "slug": "drip-campaigns-and-email-automation",
+    "title": "Drip Campaigns and Email Automation",
     "track": "email-marketing",
-    "level": "intermediate",
+    "level": "base",
     "order": 5,
-    "estimatedMinutes": 30,
-    "summary": "Subject lines, preview text, skimmable body, personal tone.",
+    "estimatedMinutes": 32,
+    "summary": "Triggered series based on signup or behavior.",
     "objectives": [
-      "Define Email Copywriting in your own words",
-      "Explain why Email Copywriting matters for business growth",
-      "Identify when to use Email Copywriting in a campaign",
-      "Complete a hands-on practice task for Email Copywriting"
+      "Define Drip Campaigns and Email Automation clearly in your own words",
+      "Explain how Drip Campaigns and Email Automation connects to funnel stages and business goals",
+      "Identify when teams apply Drip Campaigns and Email Automation in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Email Copywriting?\n\n**Email Copywriting** is essential for modern marketers. Subject lines, preview text, skimmable body, personal tone.\n\nIn real campaigns, teams use email copywriting to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align email copywriting with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Subject lines, preview text, skimmable body, personal tone. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nEmail Copywriting is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Email Copywriting improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use email copywriting when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Drip Campaigns and Email Automation?\n\n**Drip Campaigns and Email Automation** is a core part of professional digital marketing. Triggered series based on signup or behavior.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Welcome, abandoned cart, re-engagement\n- If/then branches\n- Delay timers between emails\n- Goal: one conversion event\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Triggered series based on signup or behavior. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Drip Campaigns and Email Automation reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Drip Campaigns and Email Automation when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Email Copywriting means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Drip Campaigns and Email Automation means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Email Copywriting in action\n\nImagine a small online store launching a new product. The team uses **Email Copywriting** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Email Copywriting**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Email Copywriting\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Email Copywriting by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Email Copywriting example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Email Copywriting: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Email Copywriting to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Drip Campaigns and Email Automation\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Drip Campaigns and Email Automation helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply drip campaigns and email automation to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Drip Campaigns and Email Automation**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Drip Campaigns and Email Automation\n\nMap 5-email welcome automation with triggers.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Preview text…",
+        "question": "Drip Campaigns and Email Automation is best learned by…",
         "options": [
-          "Supports subject",
-          "Replaces body",
-          "DNS",
-          "CSS"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Personalization…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Increases opens",
-          "Always creepy",
-          "Fonts",
-          "Tax"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Body should be…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Skimmable",
-          "Wall of text",
-          "Image only",
-          "Hidden"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -469,7 +489,7 @@ export const email_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -487,76 +507,80 @@ export const email_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "email-automation",
-    "title": "Marketing Automation",
+    "slug": "subject-lines-copy-and-design",
+    "title": "Subject Lines, Copy, and Design",
     "track": "email-marketing",
-    "level": "intermediate",
+    "level": "base",
     "order": 6,
-    "estimatedMinutes": 30,
-    "summary": "Welcome series, abandoned cart, re-engagement flows.",
+    "estimatedMinutes": 32,
+    "summary": "Subject drives opens; body drives clicks; design supports scanability.",
     "objectives": [
-      "Define Marketing Automation in your own words",
-      "Explain why Marketing Automation matters for business growth",
-      "Identify when to use Marketing Automation in a campaign",
-      "Complete a hands-on practice task for Marketing Automation"
+      "Define Subject Lines, Copy, and Design clearly in your own words",
+      "Explain how Subject Lines, Copy, and Design connects to funnel stages and business goals",
+      "Identify when teams apply Subject Lines, Copy, and Design in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Marketing Automation?\n\n**Marketing Automation** is essential for modern marketers. Welcome series, abandoned cart, re-engagement flows.\n\nIn real campaigns, teams use marketing automation to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align marketing automation with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Welcome series, abandoned cart, re-engagement flows. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nMarketing Automation is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Marketing Automation improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use marketing automation when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Subject Lines, Copy, and Design?\n\n**Subject Lines, Copy, and Design** is a core part of professional digital marketing. Subject drives opens; body drives clicks; design supports scanability.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- 40–50 char mobile subjects\n- Curiosity vs clarity tests\n- Single column mobile\n- Alt text on images\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Subject drives opens; body drives clicks; design supports scanability. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Subject Lines, Copy, and Design reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Subject Lines, Copy, and Design when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Marketing Automation means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Subject Lines, Copy, and Design means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Marketing Automation in action\n\nImagine a small online store launching a new product. The team uses **Marketing Automation** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Marketing Automation**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Marketing Automation\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Marketing Automation by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Marketing Automation example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Marketing Automation: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Marketing Automation to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Subject Lines, Copy, and Design\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Subject Lines, Copy, and Design helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply subject lines, copy, and design to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Subject Lines, Copy, and Design**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Subject Lines, Copy, and Design\n\nWrite 10 subject lines for same offer; pick top 3 and why.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Automation sends…",
+        "question": "Subject Lines, Copy, and Design is best learned by…",
         "options": [
-          "Triggered emails",
-          "Random spam",
-          "DNS",
-          "Payroll"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Welcome series…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Onboards subscribers",
-          "Unsubscribes all",
-          "CSS",
-          "Fonts"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Cart abandon…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Recovers revenue",
-          "Illegal",
-          "Tax",
-          "DNS"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -566,7 +590,7 @@ export const email_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -584,76 +608,80 @@ export const email_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "email-design",
-    "title": "Email Design & HTML",
+    "slug": "deliverability-and-sender-reputation",
+    "title": "Deliverability and Sender Reputation",
     "track": "email-marketing",
-    "level": "intermediate",
+    "level": "base",
     "order": 7,
-    "estimatedMinutes": 28,
-    "summary": "Mobile-first layout, alt text, single column, dark mode aware.",
+    "estimatedMinutes": 32,
+    "summary": "ISP trust: authentication, complaints, bounces.",
     "objectives": [
-      "Define Email Design & HTML in your own words",
-      "Explain why Email Design & HTML matters for business growth",
-      "Identify when to use Email Design & HTML in a campaign",
-      "Complete a hands-on practice task for Email Design & HTML"
+      "Define Deliverability and Sender Reputation clearly in your own words",
+      "Explain how Deliverability and Sender Reputation connects to funnel stages and business goals",
+      "Identify when teams apply Deliverability and Sender Reputation in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Email Design & HTML?\n\n**Email Design & HTML** is essential for modern marketers. Mobile-first layout, alt text, single column, dark mode aware.\n\nIn real campaigns, teams use email design & html to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align email design & html with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Mobile-first layout, alt text, single column, dark mode aware. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nEmail Design & HTML is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Email Design & HTML improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use email design & html when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Deliverability and Sender Reputation?\n\n**Deliverability and Sender Reputation** is a core part of professional digital marketing. ISP trust: authentication, complaints, bounces.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- SPF, DKIM, DMARC setup\n- Warm up new domains slowly\n- Remove hard bounces\n- Avoid spam trigger words excess\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | ISP trust: authentication, complaints, bounces. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Deliverability and Sender Reputation reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Deliverability and Sender Reputation when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Email Design & HTML means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Deliverability and Sender Reputation means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Email Design & HTML in action\n\nImagine a small online store launching a new product. The team uses **Email Design & HTML** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Email Design & HTML**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Email Design & HTML\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Email Design & HTML by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Email Design & HTML example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Email Design & HTML: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Email Design & HTML to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Deliverability and Sender Reputation\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Deliverability and Sender Reputation helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply deliverability and sender reputation to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Deliverability and Sender Reputation**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Deliverability and Sender Reputation\n\nChecklist 8 deliverability fixes for new domain.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "Mobile-first because…",
+        "question": "Deliverability and Sender Reputation is best learned by…",
         "options": [
-          "Most opens mobile",
-          "Desktop only",
-          "DNS",
-          "CSS"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Alt text…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Accessibility",
-          "Spam trick",
-          "Fonts",
-          "Tax"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Too many images…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Spam filters",
-          "Better always",
-          "SEO",
-          "Payroll"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -663,7 +691,7 @@ export const email_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -681,76 +709,80 @@ export const email_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "deliverability",
-    "title": "Deliverability Basics",
+    "slug": "email-a-b-testing",
+    "title": "Email A/B Testing",
     "track": "email-marketing",
-    "level": "intermediate",
+    "level": "base",
     "order": 8,
-    "estimatedMinutes": 28,
-    "summary": "SPF, DKIM, DMARC, bounce handling, spam complaints.",
+    "estimatedMinutes": 32,
+    "summary": "Test subject, CTA, send time, content layout.",
     "objectives": [
-      "Define Deliverability Basics in your own words",
-      "Explain why Deliverability Basics matters for business growth",
-      "Identify when to use Deliverability Basics in a campaign",
-      "Complete a hands-on practice task for Deliverability Basics"
+      "Define Email A/B Testing clearly in your own words",
+      "Explain how Email A/B Testing connects to funnel stages and business goals",
+      "Identify when teams apply Email A/B Testing in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Deliverability Basics?\n\n**Deliverability Basics** is essential for modern marketers. SPF, DKIM, DMARC, bounce handling, spam complaints.\n\nIn real campaigns, teams use deliverability basics to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align deliverability basics with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | SPF, DKIM, DMARC, bounce handling, spam complaints. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nDeliverability Basics is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Deliverability Basics improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use deliverability basics when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Email A/B Testing?\n\n**Email A/B Testing** is a core part of professional digital marketing. Test subject, CTA, send time, content layout.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- One variable\n- Sample size sufficient\n- Winner to remainder or next send\n- Document learnings\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Test subject, CTA, send time, content layout. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Email A/B Testing reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Email A/B Testing when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Deliverability Basics means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Email A/B Testing means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Deliverability Basics in action\n\nImagine a small online store launching a new product. The team uses **Deliverability Basics** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Deliverability Basics**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Deliverability Basics\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Deliverability Basics by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Deliverability Basics example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Deliverability Basics: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Deliverability Basics to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Email A/B Testing\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Email A/B Testing helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply email a/b testing to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Email A/B Testing**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Email A/B Testing\n\nDesign A/B test: hypothesis, variants, success metric.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "SPF helps…",
+        "question": "Email A/B Testing is best learned by…",
         "options": [
-          "Sender authentication",
-          "Design",
-          "CSS",
-          "Fonts"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "High complaints…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Hurt inbox placement",
-          "Improve deliverability",
-          "DNS",
-          "Tax"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Clean list by…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Removing bounces",
-          "Buying emails",
-          "Spam",
-          "Hidden"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -760,7 +792,7 @@ export const email_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -778,76 +810,80 @@ export const email_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "email-metrics",
-    "title": "Email Metrics",
+    "slug": "email-metrics-opens-ctr-conversions",
+    "title": "Email Metrics: Opens, CTR, Conversions",
     "track": "email-marketing",
-    "level": "intermediate",
+    "level": "base",
     "order": 9,
-    "estimatedMinutes": 28,
-    "summary": "Open rate, CTR, unsubscribes, conversions — interpret benchmarks.",
+    "estimatedMinutes": 32,
+    "summary": "Open rate declining due to privacy; clicks and revenue matter more.",
     "objectives": [
-      "Define Email Metrics in your own words",
-      "Explain why Email Metrics matters for business growth",
-      "Identify when to use Email Metrics in a campaign",
-      "Complete a hands-on practice task for Email Metrics"
+      "Define Email Metrics: Opens, CTR, Conversions clearly in your own words",
+      "Explain how Email Metrics: Opens, CTR, Conversions connects to funnel stages and business goals",
+      "Identify when teams apply Email Metrics: Opens, CTR, Conversions in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Email Metrics?\n\n**Email Metrics** is essential for modern marketers. Open rate, CTR, unsubscribes, conversions — interpret benchmarks.\n\nIn real campaigns, teams use email metrics to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align email metrics with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | Open rate, CTR, unsubscribes, conversions — interpret benchmarks. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nEmail Metrics is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Email Metrics improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use email metrics when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Email Metrics: Opens, CTR, Conversions?\n\n**Email Metrics: Opens, CTR, Conversions** is a core part of professional digital marketing. Open rate declining due to privacy; clicks and revenue matter more.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- CTR = clicks ÷ delivered\n- Conversion rate on email traffic\n- Unsubscribe rate benchmark\n- Revenue per recipient\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Open rate declining due to privacy; clicks and revenue matter more. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Email Metrics: Opens, CTR, Conversions reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Email Metrics: Opens, CTR, Conversions when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Email Metrics means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Email Metrics: Opens, CTR, Conversions means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Email Metrics in action\n\nImagine a small online store launching a new product. The team uses **Email Metrics** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Email Metrics**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Email Metrics\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Email Metrics by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Email Metrics example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Email Metrics: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Email Metrics to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Email Metrics: Opens, CTR, Conversions\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Email Metrics: Opens, CTR, Conversions helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply email metrics: opens, ctr, conversions to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Email Metrics: Opens, CTR, Conversions**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Email Metrics: Opens, CTR, Conversions\n\nInterpret sample email report; recommend 3 optimizations.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "CTR is…",
+        "question": "Email Metrics: Opens, CTR, Conversions is best learned by…",
         "options": [
-          "Clicks / delivered",
-          "Opens only",
-          "DNS",
-          "Fonts"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "Unsubscribe spike means…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Review content/frequency",
-          "Success",
-          "CSS",
-          "Tax"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Ultimate metric…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Conversions",
-          "Font size",
-          "Payroll",
-          "DNS"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -857,7 +893,7 @@ export const email_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },
@@ -875,76 +911,80 @@ export const email_marketingLessons: Lesson[] = [
     "playground": "none"
   },
   {
-    "slug": "email-compliance",
-    "title": "Email Compliance",
+    "slug": "email-tools-mailchimp-klaviyo-hubspot",
+    "title": "Email Tools: Mailchimp, Klaviyo, HubSpot",
     "track": "email-marketing",
-    "level": "advanced",
+    "level": "base",
     "order": 10,
-    "estimatedMinutes": 28,
-    "summary": "CAN-SPAM, GDPR, clear identity, physical address, opt-out.",
+    "estimatedMinutes": 32,
+    "summary": "ESP choice by ecommerce vs B2B vs complexity.",
     "objectives": [
-      "Define Email Compliance in your own words",
-      "Explain why Email Compliance matters for business growth",
-      "Identify when to use Email Compliance in a campaign",
-      "Complete a hands-on practice task for Email Compliance"
+      "Define Email Tools: Mailchimp, Klaviyo, HubSpot clearly in your own words",
+      "Explain how Email Tools: Mailchimp, Klaviyo, HubSpot connects to funnel stages and business goals",
+      "Identify when teams apply Email Tools: Mailchimp, Klaviyo, HubSpot in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
     ],
-    "whatIs": "### What is Email Compliance?\n\n**Email Compliance** is essential for modern marketers. CAN-SPAM, GDPR, clear identity, physical address, opt-out.\n\nIn real campaigns, teams use email compliance to reach the right people with the right message, then measure what worked. Beginners often rush tactics; professionals align email compliance with business goals and audience research first.\n\n### Key ideas\n\n| Concept | Plain English |\n|---------|---------------|\n| **Goal** | CAN-SPAM, GDPR, clear identity, physical address, opt-out. |\n| **Who uses it** | Marketers, founders, freelancers, and agency teams |\n| **Output** | A repeatable skill you apply to real campaigns |\n\n### Tools you may use\n\n- **Spreadsheet** — Plan and track work\n- **GA4** — Measure web results\n\n### Remember\n\nEmail Compliance is not theory-only — you prove understanding by doing the **Practice** task at the end of this lesson.",
-    "whyUse": "Email Compliance improves efficiency — you waste less budget, create clearer messaging, and report results stakeholders understand. It connects daily tasks to revenue and growth.",
-    "whenToUse": "Use email compliance when launching or optimizing campaigns, preparing client reports, or building portfolio case studies.",
+    "whatIs": "### What is Email Tools: Mailchimp, Klaviyo, HubSpot?\n\n**Email Tools: Mailchimp, Klaviyo, HubSpot** is a core part of professional digital marketing. ESP choice by ecommerce vs B2B vs complexity.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- Klaviyo: Shopify ecosystem\n- HubSpot: CRM integrated\n- Mailchimp: SMB friendly\n- ActiveCampaign: automation power\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | ESP choice by ecommerce vs B2B vs complexity. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Email Tools: Mailchimp, Klaviyo, HubSpot reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Email Tools: Mailchimp, Klaviyo, HubSpot when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
     "steps": [
       {
-        "title": "Step 1",
-        "body": "Understand what Email Compliance means in plain English"
+        "title": "Learn the concept",
+        "body": "Read what Email Tools: Mailchimp, Klaviyo, HubSpot means and list 3 real-world examples from brands you follow."
       },
       {
-        "title": "Step 2",
-        "body": "Review the example and tools for this lesson"
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
       },
       {
-        "title": "Step 3",
-        "body": "Apply the concept to a brand you follow"
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
       },
       {
-        "title": "Step 4",
-        "body": "Complete the practice task with written output"
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
       },
       {
-        "title": "Step 5",
-        "body": "Score 100% on the quiz or retry until confident"
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
       }
     ],
-    "example": "### Example: Email Compliance in action\n\nImagine a small online store launching a new product. The team uses **Email Compliance** to reach the right audience, measure results, and improve the next campaign. Walk through the example in this lesson and map each step to a real decision (audience, message, channel, metric).",
-    "realWorld": "Brands like Nike, local restaurants, SaaS startups, and solo creators all use concepts from **Email Compliance**. Agencies deliver this work for clients daily. Your portfolio grows when you document before/after metrics from exercises like the one in this lesson.",
-    "commonMistakes": "1. **Skipping audience research** before applying Email Compliance\n2. **No metrics** — always define how you will measure success\n3. **Copy-paste templates** without adapting to your niche\n4. **Ignoring mobile** — most digital touchpoints are on phones\n5. **One-and-done** — marketing improves through iteration",
-    "tryIt": "### Programming task (~15 min)\n\n**Goal:** Prove you understand Email Compliance by writing code, not just reading.\n\n**Part A — Run** — Open DevTools Console (F12). Type the example from the lesson manually.\n\n**Part B — Modify** — Change one value, name, or class in the Email Compliance example. Observe what breaks or improves.\n\n**Part C — Extend** — Add one feature related to Email Compliance: extra element, log line, validation, or UI state.\n\n**Done when:** You can explain Email Compliance to a friend while pointing at your code.\n\n**Bonus:** Comment each new line with why you added it.",
+    "example": "### Worked example: Email Tools: Mailchimp, Klaviyo, HubSpot\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Email Tools: Mailchimp, Klaviyo, HubSpot helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply email tools: mailchimp, klaviyo, hubspot to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Email Tools: Mailchimp, Klaviyo, HubSpot**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Email Tools: Mailchimp, Klaviyo, HubSpot\n\nCompare 2 ESPs for a D2C store in table format.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
     "quiz": [
       {
-        "question": "CAN-SPAM needs…",
+        "question": "Email Tools: Mailchimp, Klaviyo, HubSpot is best learned by…",
         "options": [
-          "Unsubscribe",
-          "Fake from",
-          "DNS",
-          "CSS"
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
         ],
         "answer": 0
       },
       {
-        "question": "GDPR needs…",
+        "question": "A strong deliverable after this lesson includes…",
         "options": [
-          "Lawful basis",
-          "Buy lists",
-          "Fonts",
-          "Tax"
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
         ],
         "answer": 0
       },
       {
-        "question": "Physical address…",
+        "question": "This topic connects to business goals through…",
         "options": [
-          "Required in many regions",
-          "Never",
-          "Spam",
-          "Hidden"
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
         ],
         "answer": 0
       },
@@ -954,7 +994,108 @@ export const email_marketingLessons: Lesson[] = [
           "Read + complete the practice task",
           "Skip the practice exercise",
           "Memorize definitions only",
-          "Jump to paid ads without basics"
+          "Jump to advanced tactics without basics"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "After this lesson you should be able to…",
+        "options": [
+          "Explain it and apply it to a real brand",
+          "Only recite definitions",
+          "Ignore metrics",
+          "Avoid hands-on practice"
+        ],
+        "answer": 0
+      }
+    ],
+    "playground": "none"
+  },
+  {
+    "slug": "email-compliance-gdpr-and-can-spam",
+    "title": "Email Compliance: GDPR and CAN-SPAM",
+    "track": "email-marketing",
+    "level": "base",
+    "order": 11,
+    "estimatedMinutes": 32,
+    "summary": "Consent, unsubscribe, physical address, data rights.",
+    "objectives": [
+      "Define Email Compliance: GDPR and CAN-SPAM clearly in your own words",
+      "Explain how Email Compliance: GDPR and CAN-SPAM connects to funnel stages and business goals",
+      "Identify when teams apply Email Compliance: GDPR and CAN-SPAM in real campaigns",
+      "Complete a practice deliverable you could show in a portfolio"
+    ],
+    "whatIs": "### What is Email Compliance: GDPR and CAN-SPAM?\n\n**Email Compliance: GDPR and CAN-SPAM** is a core part of professional digital marketing. Consent, unsubscribe, physical address, data rights.\n\nProfessionals use this concept when planning campaigns, reporting to stakeholders, and optimizing performance. Beginners often learn the definition but skip application — experts document decisions, metrics, and results.\n\n### Deep dive — what to understand\n\n- CAN-SPAM: opt-out, address, no deception\n- GDPR: lawful basis, records\n- HIPAA etc. for regulated\n- Preference center\n\n### How this fits your learning path\n\n| Question | Answer |\n|----------|--------|\n| **What** | Consent, unsubscribe, physical address, data rights. |\n| **Why it matters** | Connects tactics to business outcomes (leads, sales, retention) |\n| **Who uses it** | In-house teams, agencies, freelancers, founders |\n| **Proof you learned it** | Complete the Practice task with written output |\n\n### Study method for this lesson\n\n1. Read the full tutorial sections (do not skim)\n2. Copy the example structure into your notes\n3. Complete Practice with a **real** brand or fictional client you invent\n4. Pass the quiz — retry until you can explain without looking",
+    "whyUse": "Email Compliance: GDPR and CAN-SPAM reduces wasted spend and confusion. Teams that master this make faster decisions, write better briefs, and produce reports executives trust. It bridges strategy (why) and execution (how).",
+    "whenToUse": "Apply Email Compliance: GDPR and CAN-SPAM when auditing a brand, launching a campaign, optimizing a funnel stage, preparing certifications, or writing case studies for job applications.",
+    "steps": [
+      {
+        "title": "Learn the concept",
+        "body": "Read what Email Compliance: GDPR and CAN-SPAM means and list 3 real-world examples from brands you follow."
+      },
+      {
+        "title": "Map to a funnel stage",
+        "body": "Decide if this topic mainly supports awareness, consideration, conversion, or retention."
+      },
+      {
+        "title": "Choose metrics",
+        "body": "Write 2–3 KPIs that prove whether you applied this topic successfully."
+      },
+      {
+        "title": "Study the example",
+        "body": "Walk through the scenario in the Examples tab and note what you would do differently."
+      },
+      {
+        "title": "Complete practice",
+        "body": "Produce the written deliverable described in the Practice tab."
+      },
+      {
+        "title": "Validate with quiz",
+        "body": "Score 100% on the quiz or redo until confident."
+      }
+    ],
+    "example": "### Worked example: Email Compliance: GDPR and CAN-SPAM\n\n**Scenario:** A D2C skincare brand wants to grow online revenue without increasing ad spend blindly.\n\n**Situation:** Traffic is steady but conversion is weak; email list is small; social engagement is high but sales flat.\n\n**How Email Compliance: GDPR and CAN-SPAM helps:** The team uses this lesson's concept to diagnose the bottleneck, pick one priority fix, and measure impact over 30 days.\n\n**Action checklist:**\n- Document current baseline metrics\n- Apply email compliance: gdpr and can-spam to one customer segment\n- Run a small test (budget or time-boxed)\n- Compare before/after and write 5-bullet retrospective",
+    "realWorld": "Agencies bill clients for expertise in areas like **Email Compliance: GDPR and CAN-SPAM**. Interviewers ask for examples. Certifications (Google, Meta, HubSpot) assume you know this vocabulary. Your portfolio should show one mini case study per major topic.",
+    "commonMistakes": "1. **Jargon without application** — define terms, then use them in a sentence about a real brand\n2. **No baseline metrics** — you cannot prove improvement without \"before\" numbers\n3. **Copying competitors** — learn principles, adapt to your audience\n4. **Skipping practice** — reading alone does not build job-ready skill\n5. **One channel thinking** — connect this topic to full-funnel context",
+    "tryIt": "### Practice — Email Compliance: GDPR and CAN-SPAM\n\nAudit sample email for compliance checklist 10 items.\n\n**Deliverable:** Submit written notes (bullet points OK) covering: brand chosen, actions taken, metrics tracked, one thing you would do differently next week.",
+    "quiz": [
+      {
+        "question": "Email Compliance: GDPR and CAN-SPAM is best learned by…",
+        "options": [
+          "Theory + practice on a real example",
+          "Definitions only",
+          "Skipping metrics",
+          "Ignoring audience"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A strong deliverable after this lesson includes…",
+        "options": [
+          "Written notes with metrics and actions",
+          "Nothing",
+          "Only screenshots",
+          "Copied competitor text"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "This topic connects to business goals through…",
+        "options": [
+          "Measurable outcomes",
+          "Random posts",
+          "Ignoring data",
+          "No funnel context"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Best way to learn this topic?",
+        "options": [
+          "Read + complete the practice task",
+          "Skip the practice exercise",
+          "Memorize definitions only",
+          "Jump to advanced tactics without basics"
         ],
         "answer": 0
       },

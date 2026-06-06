@@ -1,153 +1,177 @@
 import type { Track } from "@/lib/types";
-import { dm_getting_startedLessons } from "./lessons/dm-getting-started";
-import { marketing_fundamentalsLessons } from "./lessons/marketing-fundamentals";
-import { content_marketingLessons } from "./lessons/content-marketing";
+import { foundationsLessons } from "./lessons/foundations";
+import { marketing_funnelsLessons } from "./lessons/marketing-funnels";
+import { website_croLessons } from "./lessons/website-cro";
 import { seoLessons } from "./lessons/seo";
+import { sem_ppcLessons } from "./lessons/sem-ppc";
+import { content_marketingLessons } from "./lessons/content-marketing";
 import { social_mediaLessons } from "./lessons/social-media";
 import { email_marketingLessons } from "./lessons/email-marketing";
-import { paid_adsLessons } from "./lessons/paid-ads";
+import { automation_crmLessons } from "./lessons/automation-crm";
 import { analyticsLessons } from "./lessons/analytics";
-import { brand_creativeLessons } from "./lessons/brand-creative";
-import { conversionLessons } from "./lessons/conversion";
-import { strategyLessons } from "./lessons/strategy";
-import { dm_projectsLessons } from "./lessons/dm-projects";
+import { other_channelsLessons } from "./lessons/other-channels";
+import { strategy_brandingLessons } from "./lessons/strategy-branding";
+import { advanced_emergingLessons } from "./lessons/advanced-emerging";
+import { legal_careerLessons } from "./lessons/legal-career";
 
 export const trackMeta = [
   {
-    "id": "dm-getting-started",
-    "title": "Getting Started",
-    "description": "Digital marketing foundations — funnel, journey, channels, goals, tools, audience, and ethics.",
+    "id": "foundations",
+    "title": "Module 1 — Foundations",
+    "description": "Digital marketing basics, media types, metrics, STP, personas, journey, goals, and OKRs.",
     "icon": "Rocket",
     "color": "bg-violet-500",
     "order": 0,
-    "lessonCount": 8,
-    "estimatedMinutes": 222
+    "lessonCount": 11,
+    "estimatedMinutes": 352
   },
   {
-    "id": "marketing-fundamentals",
-    "title": "Marketing Fundamentals",
-    "description": "Personas, positioning, value proposition, competitors, SWOT, and messaging foundations.",
-    "icon": "Target",
-    "color": "bg-rose-500",
+    "id": "marketing-funnels",
+    "title": "Module 2 — Marketing Funnels",
+    "description": "Funnel stages, AIDA, AARRR, funnel types, lead magnets, nurturing, metrics, and optimization.",
+    "icon": "Filter",
+    "color": "bg-fuchsia-500",
     "order": 1,
-    "lessonCount": 10,
-    "estimatedMinutes": 292
+    "lessonCount": 19,
+    "estimatedMinutes": 608
   },
   {
-    "id": "content-marketing",
-    "title": "Content Marketing",
-    "description": "Strategy, blogging, copywriting, calendars, repurposing, and content distribution.",
-    "icon": "FileText",
-    "color": "bg-amber-500",
+    "id": "website-cro",
+    "title": "Module 3 — Website, Landing Pages & CRO",
+    "description": "Domains, CMS, UX, landing pages, CRO, testing, speed, mobile, forms, and trust signals.",
+    "icon": "Layout",
+    "color": "bg-cyan-500",
     "order": 2,
     "lessonCount": 10,
-    "estimatedMinutes": 288
+    "estimatedMinutes": 320
   },
   {
     "id": "seo",
-    "title": "SEO",
-    "description": "Keywords, on-page, technical SEO, local SEO, links, and search performance.",
+    "title": "Module 4 — SEO",
+    "description": "Crawling, keywords, on-page, technical, links, local, E-E-A-T, tools, and AI search.",
     "icon": "Search",
     "color": "bg-green-500",
     "order": 3,
-    "lessonCount": 12,
-    "estimatedMinutes": 350
+    "lessonCount": 13,
+    "estimatedMinutes": 416
+  },
+  {
+    "id": "sem-ppc",
+    "title": "Module 5 — SEM / PPC",
+    "description": "Google Ads, campaign types, Bing, bidding, Quality Score, structure, tracking, remarketing.",
+    "icon": "DollarSign",
+    "color": "bg-orange-500",
+    "order": 4,
+    "lessonCount": 14,
+    "estimatedMinutes": 448
+  },
+  {
+    "id": "content-marketing",
+    "title": "Module 6 — Content Marketing",
+    "description": "Strategy, formats, copywriting, calendar, distribution, repurposing, and measurement.",
+    "icon": "FileText",
+    "color": "bg-amber-500",
+    "order": 5,
+    "lessonCount": 10,
+    "estimatedMinutes": 320
   },
   {
     "id": "social-media",
-    "title": "Social Media Marketing",
-    "description": "Platform strategy, content types, scheduling, community, influencers, and social analytics.",
+    "title": "Module 7 — Social Media Marketing",
+    "description": "Platforms, organic, paid social, calendar, community, listening, UGC, and social commerce.",
     "icon": "Share2",
     "color": "bg-sky-500",
-    "order": 4,
-    "lessonCount": 12,
-    "estimatedMinutes": 344
+    "order": 6,
+    "lessonCount": 14,
+    "estimatedMinutes": 448
   },
   {
     "id": "email-marketing",
-    "title": "Email Marketing",
-    "description": "Lists, segments, automation, newsletters, deliverability, and email metrics.",
+    "title": "Module 8 — Email Marketing",
+    "description": "List building, segmentation, email types, automation, deliverability, metrics, tools, compliance.",
     "icon": "Mail",
     "color": "bg-indigo-500",
-    "order": 5,
-    "lessonCount": 10,
-    "estimatedMinutes": 284
+    "order": 7,
+    "lessonCount": 11,
+    "estimatedMinutes": 352
   },
   {
-    "id": "paid-ads",
-    "title": "Paid Advertising",
-    "description": "Google Ads, Meta Ads, targeting, budgets, creatives, ROAS, and optimization.",
-    "icon": "DollarSign",
-    "color": "bg-orange-500",
-    "order": 6,
-    "lessonCount": 12,
-    "estimatedMinutes": 344
+    "id": "automation-crm",
+    "title": "Module 9 — Marketing Automation & CRM",
+    "description": "Automation, lead scoring, MQL/SQL, workflows, CRM integration, nurture campaigns, platforms.",
+    "icon": "Workflow",
+    "color": "bg-purple-500",
+    "order": 8,
+    "lessonCount": 7,
+    "estimatedMinutes": 224
   },
   {
     "id": "analytics",
-    "title": "Analytics & Reporting",
-    "description": "GA4, UTM parameters, KPIs, dashboards, attribution, and data-driven decisions.",
+    "title": "Module 10 — Analytics & Measurement",
+    "description": "GA4, GTM, UTMs, dashboards, attribution, reporting, conversion tracking, data decisions.",
     "icon": "BarChart3",
-    "color": "bg-teal-500",
-    "order": 7,
-    "lessonCount": 10,
-    "estimatedMinutes": 288
-  },
-  {
-    "id": "brand-creative",
-    "title": "Brand & Creative Basics",
-    "description": "Brand voice, visual identity basics, ad creative, Canva workflows, and assets.",
-    "icon": "Sparkles",
-    "color": "bg-pink-500",
-    "order": 8,
-    "lessonCount": 8,
-    "estimatedMinutes": 230
-  },
-  {
-    "id": "conversion",
-    "title": "Conversion Optimization",
-    "description": "Landing pages, CRO, forms, heatmaps, A/B tests, and UX for conversions.",
-    "icon": "TrendingUp",
-    "color": "bg-lime-600",
+    "color": "bg-emerald-500",
     "order": 9,
     "lessonCount": 8,
-    "estimatedMinutes": 232
+    "estimatedMinutes": 256
   },
   {
-    "id": "strategy",
-    "title": "Strategy & Campaigns",
-    "description": "Campaign planning, budgets, multi-channel plans, timelines, and execution.",
-    "icon": "Map",
-    "color": "bg-purple-500",
+    "id": "other-channels",
+    "title": "Module 11 — Other Channels & Specializations",
+    "description": "Affiliate, influencer, video, mobile, SMS, push, e-commerce, programmatic, native ads.",
+    "icon": "Radio",
+    "color": "bg-pink-500",
     "order": 10,
     "lessonCount": 10,
-    "estimatedMinutes": 290
+    "estimatedMinutes": 320
   },
   {
-    "id": "dm-projects",
-    "title": "Portfolio Projects",
-    "description": "Capstone projects: campaign plan, SEO audit, social calendar, case study portfolio.",
-    "icon": "Briefcase",
-    "color": "bg-slate-600",
+    "id": "strategy-branding",
+    "title": "Module 12 — Strategy, Branding & Planning",
+    "description": "End-to-end strategy, brand voice, competitive analysis, budgeting, integrated campaigns.",
+    "icon": "Compass",
+    "color": "bg-rose-500",
     "order": 11,
-    "lessonCount": 10,
-    "estimatedMinutes": 342
+    "lessonCount": 6,
+    "estimatedMinutes": 192
+  },
+  {
+    "id": "advanced-emerging",
+    "title": "Module 13 — Advanced & Emerging Topics",
+    "description": "AI in marketing, ABM, growth hacking, chatbots, personalization, privacy, Web3.",
+    "icon": "Sparkles",
+    "color": "bg-yellow-500",
+    "order": 12,
+    "lessonCount": 7,
+    "estimatedMinutes": 224
+  },
+  {
+    "id": "legal-career",
+    "title": "Module 14 — Legal, Ethics & Career",
+    "description": "Privacy laws, ad standards, ethics, certifications, portfolio, career paths.",
+    "icon": "GraduationCap",
+    "color": "bg-slate-500",
+    "order": 13,
+    "lessonCount": 7,
+    "estimatedMinutes": 224
   }
 ] as const;
 
 export const tracks: Track[] = [
-  { id: "dm-getting-started", title: "Getting Started", description: "Digital marketing foundations — funnel, journey, channels, goals, tools, audience, and ethics.", icon: "Rocket", color: "bg-violet-500", order: 0, lessons: dm_getting_startedLessons },
-  { id: "marketing-fundamentals", title: "Marketing Fundamentals", description: "Personas, positioning, value proposition, competitors, SWOT, and messaging foundations.", icon: "Target", color: "bg-rose-500", order: 1, lessons: marketing_fundamentalsLessons },
-  { id: "content-marketing", title: "Content Marketing", description: "Strategy, blogging, copywriting, calendars, repurposing, and content distribution.", icon: "FileText", color: "bg-amber-500", order: 2, lessons: content_marketingLessons },
-  { id: "seo", title: "SEO", description: "Keywords, on-page, technical SEO, local SEO, links, and search performance.", icon: "Search", color: "bg-green-500", order: 3, lessons: seoLessons },
-  { id: "social-media", title: "Social Media Marketing", description: "Platform strategy, content types, scheduling, community, influencers, and social analytics.", icon: "Share2", color: "bg-sky-500", order: 4, lessons: social_mediaLessons },
-  { id: "email-marketing", title: "Email Marketing", description: "Lists, segments, automation, newsletters, deliverability, and email metrics.", icon: "Mail", color: "bg-indigo-500", order: 5, lessons: email_marketingLessons },
-  { id: "paid-ads", title: "Paid Advertising", description: "Google Ads, Meta Ads, targeting, budgets, creatives, ROAS, and optimization.", icon: "DollarSign", color: "bg-orange-500", order: 6, lessons: paid_adsLessons },
-  { id: "analytics", title: "Analytics & Reporting", description: "GA4, UTM parameters, KPIs, dashboards, attribution, and data-driven decisions.", icon: "BarChart3", color: "bg-teal-500", order: 7, lessons: analyticsLessons },
-  { id: "brand-creative", title: "Brand & Creative Basics", description: "Brand voice, visual identity basics, ad creative, Canva workflows, and assets.", icon: "Sparkles", color: "bg-pink-500", order: 8, lessons: brand_creativeLessons },
-  { id: "conversion", title: "Conversion Optimization", description: "Landing pages, CRO, forms, heatmaps, A/B tests, and UX for conversions.", icon: "TrendingUp", color: "bg-lime-600", order: 9, lessons: conversionLessons },
-  { id: "strategy", title: "Strategy & Campaigns", description: "Campaign planning, budgets, multi-channel plans, timelines, and execution.", icon: "Map", color: "bg-purple-500", order: 10, lessons: strategyLessons },
-  { id: "dm-projects", title: "Portfolio Projects", description: "Capstone projects: campaign plan, SEO audit, social calendar, case study portfolio.", icon: "Briefcase", color: "bg-slate-600", order: 11, lessons: dm_projectsLessons },
+  { id: "foundations", title: "Module 1 — Foundations", description: "Digital marketing basics, media types, metrics, STP, personas, journey, goals, and OKRs.", icon: "Rocket", color: "bg-violet-500", order: 0, lessons: foundationsLessons },
+  { id: "marketing-funnels", title: "Module 2 — Marketing Funnels", description: "Funnel stages, AIDA, AARRR, funnel types, lead magnets, nurturing, metrics, and optimization.", icon: "Filter", color: "bg-fuchsia-500", order: 1, lessons: marketing_funnelsLessons },
+  { id: "website-cro", title: "Module 3 — Website, Landing Pages & CRO", description: "Domains, CMS, UX, landing pages, CRO, testing, speed, mobile, forms, and trust signals.", icon: "Layout", color: "bg-cyan-500", order: 2, lessons: website_croLessons },
+  { id: "seo", title: "Module 4 — SEO", description: "Crawling, keywords, on-page, technical, links, local, E-E-A-T, tools, and AI search.", icon: "Search", color: "bg-green-500", order: 3, lessons: seoLessons },
+  { id: "sem-ppc", title: "Module 5 — SEM / PPC", description: "Google Ads, campaign types, Bing, bidding, Quality Score, structure, tracking, remarketing.", icon: "DollarSign", color: "bg-orange-500", order: 4, lessons: sem_ppcLessons },
+  { id: "content-marketing", title: "Module 6 — Content Marketing", description: "Strategy, formats, copywriting, calendar, distribution, repurposing, and measurement.", icon: "FileText", color: "bg-amber-500", order: 5, lessons: content_marketingLessons },
+  { id: "social-media", title: "Module 7 — Social Media Marketing", description: "Platforms, organic, paid social, calendar, community, listening, UGC, and social commerce.", icon: "Share2", color: "bg-sky-500", order: 6, lessons: social_mediaLessons },
+  { id: "email-marketing", title: "Module 8 — Email Marketing", description: "List building, segmentation, email types, automation, deliverability, metrics, tools, compliance.", icon: "Mail", color: "bg-indigo-500", order: 7, lessons: email_marketingLessons },
+  { id: "automation-crm", title: "Module 9 — Marketing Automation & CRM", description: "Automation, lead scoring, MQL/SQL, workflows, CRM integration, nurture campaigns, platforms.", icon: "Workflow", color: "bg-purple-500", order: 8, lessons: automation_crmLessons },
+  { id: "analytics", title: "Module 10 — Analytics & Measurement", description: "GA4, GTM, UTMs, dashboards, attribution, reporting, conversion tracking, data decisions.", icon: "BarChart3", color: "bg-emerald-500", order: 9, lessons: analyticsLessons },
+  { id: "other-channels", title: "Module 11 — Other Channels & Specializations", description: "Affiliate, influencer, video, mobile, SMS, push, e-commerce, programmatic, native ads.", icon: "Radio", color: "bg-pink-500", order: 10, lessons: other_channelsLessons },
+  { id: "strategy-branding", title: "Module 12 — Strategy, Branding & Planning", description: "End-to-end strategy, brand voice, competitive analysis, budgeting, integrated campaigns.", icon: "Compass", color: "bg-rose-500", order: 11, lessons: strategy_brandingLessons },
+  { id: "advanced-emerging", title: "Module 13 — Advanced & Emerging Topics", description: "AI in marketing, ABM, growth hacking, chatbots, personalization, privacy, Web3.", icon: "Sparkles", color: "bg-yellow-500", order: 12, lessons: advanced_emergingLessons },
+  { id: "legal-career", title: "Module 14 — Legal, Ethics & Career", description: "Privacy laws, ad standards, ethics, certifications, portfolio, career paths.", icon: "GraduationCap", color: "bg-slate-500", order: 13, lessons: legal_careerLessons },
 ];
 
 export function getTrack(id: string) { return tracks.find((t) => t.id === id); }

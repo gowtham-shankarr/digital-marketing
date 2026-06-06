@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const AUTOMATION_CRM_GENERATED = {};

@@ -1,18 +1,20 @@
 import { q } from "../helper.mjs";
 
 const TRACK_CONTEXT = {
-  "dm-getting-started": { domain: "Getting Started", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "marketing-fundamentals": { domain: "Marketing Fundamentals", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "content-marketing": { domain: "Content Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "seo": { domain: "SEO", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "social-media": { domain: "Social Media Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "email-marketing": { domain: "Email Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "paid-ads": { domain: "Paid Advertising", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "analytics": { domain: "Analytics & Reporting", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "brand-creative": { domain: "Brand & Creative Basics", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "conversion": { domain: "Conversion Optimization", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "strategy": { domain: "Strategy & Campaigns", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
-  "dm-projects": { domain: "Portfolio Projects", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "foundations": { domain: "Module 1 — Foundations", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "marketing-funnels": { domain: "Module 2 — Marketing Funnels", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "website-cro": { domain: "Module 3 — Website, Landing Pages & CRO", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "seo": { domain: "Module 4 — SEO", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "sem-ppc": { domain: "Module 5 — SEM / PPC", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "content-marketing": { domain: "Module 6 — Content Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "social-media": { domain: "Module 7 — Social Media Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "email-marketing": { domain: "Module 8 — Email Marketing", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "automation-crm": { domain: "Module 9 — Marketing Automation & CRM", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "analytics": { domain: "Module 10 — Analytics & Measurement", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "other-channels": { domain: "Module 11 — Other Channels & Specializations", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "strategy-branding": { domain: "Module 12 — Strategy, Branding & Planning", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "advanced-emerging": { domain: "Module 13 — Advanced & Emerging Topics", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
+  "legal-career": { domain: "Module 14 — Legal, Ethics & Career", runtime: "real campaigns and analytics tools", practice: "Complete the hands-on practice task and document results." },
 };
 
 /** Minimum bar for a lesson to count as "fully deep" */

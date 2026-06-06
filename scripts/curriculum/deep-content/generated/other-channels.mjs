@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const OTHER_CHANNELS_GENERATED = {};

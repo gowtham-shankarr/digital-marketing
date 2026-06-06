@@ -2,30 +2,34 @@
 import { writeFileSync, mkdirSync } from "fs";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
-import { _dm_getting_startedLessons } from "../dm-getting-started.mjs";
-import { _marketing_fundamentalsLessons } from "../marketing-fundamentals.mjs";
-import { _content_marketingLessons } from "../content-marketing.mjs";
+import { _foundationsLessons } from "../foundations.mjs";
+import { _marketing_funnelsLessons } from "../marketing-funnels.mjs";
+import { _website_croLessons } from "../website-cro.mjs";
 import { _seoLessons } from "../seo.mjs";
+import { _sem_ppcLessons } from "../sem-ppc.mjs";
+import { _content_marketingLessons } from "../content-marketing.mjs";
 import { _social_mediaLessons } from "../social-media.mjs";
 import { _email_marketingLessons } from "../email-marketing.mjs";
-import { _paid_adsLessons } from "../paid-ads.mjs";
+import { _automation_crmLessons } from "../automation-crm.mjs";
 import { _analyticsLessons } from "../analytics.mjs";
-import { _brand_creativeLessons } from "../brand-creative.mjs";
-import { _conversionLessons } from "../conversion.mjs";
-import { _strategyLessons } from "../strategy.mjs";
-import { _dm_projectsLessons } from "../dm-projects.mjs";
-import { DM_GETTING_STARTED_DEEP } from "../dm-getting-started-deep/index.mjs";
-import { MARKETING_FUNDAMENTALS_DEEP } from "../marketing-fundamentals-deep/index.mjs";
-import { CONTENT_MARKETING_DEEP } from "../content-marketing-deep/index.mjs";
+import { _other_channelsLessons } from "../other-channels.mjs";
+import { _strategy_brandingLessons } from "../strategy-branding.mjs";
+import { _advanced_emergingLessons } from "../advanced-emerging.mjs";
+import { _legal_careerLessons } from "../legal-career.mjs";
+import { FOUNDATIONS_DEEP } from "../foundations-deep/index.mjs";
+import { MARKETING_FUNNELS_DEEP } from "../marketing-funnels-deep/index.mjs";
+import { WEBSITE_CRO_DEEP } from "../website-cro-deep/index.mjs";
 import { SEO_DEEP } from "../seo-deep/index.mjs";
+import { SEM_PPC_DEEP } from "../sem-ppc-deep/index.mjs";
+import { CONTENT_MARKETING_DEEP } from "../content-marketing-deep/index.mjs";
 import { SOCIAL_MEDIA_DEEP } from "../social-media-deep/index.mjs";
 import { EMAIL_MARKETING_DEEP } from "../email-marketing-deep/index.mjs";
-import { PAID_ADS_DEEP } from "../paid-ads-deep/index.mjs";
+import { AUTOMATION_CRM_DEEP } from "../automation-crm-deep/index.mjs";
 import { ANALYTICS_DEEP } from "../analytics-deep/index.mjs";
-import { BRAND_CREATIVE_DEEP } from "../brand-creative-deep/index.mjs";
-import { CONVERSION_DEEP } from "../conversion-deep/index.mjs";
-import { STRATEGY_DEEP } from "../strategy-deep/index.mjs";
-import { DM_PROJECTS_DEEP } from "../dm-projects-deep/index.mjs";
+import { OTHER_CHANNELS_DEEP } from "../other-channels-deep/index.mjs";
+import { STRATEGY_BRANDING_DEEP } from "../strategy-branding-deep/index.mjs";
+import { ADVANCED_EMERGING_DEEP } from "../advanced-emerging-deep/index.mjs";
+import { LEGAL_CAREER_DEEP } from "../legal-career-deep/index.mjs";
 import { buildGeneratedOverrides, isFullyDeep } from "./expand-lesson.mjs";
 import { applyAllDeepOverrides } from "./merge.mjs";
 
@@ -34,18 +38,20 @@ const outDir = join(__dirname, "generated");
 mkdirSync(outDir, { recursive: true });
 
 const TRACKS = [
-  { id: "dm-getting-started", lessons: _dm_getting_startedLessons, hand: DM_GETTING_STARTED_DEEP },
-  { id: "marketing-fundamentals", lessons: _marketing_fundamentalsLessons, hand: MARKETING_FUNDAMENTALS_DEEP },
-  { id: "content-marketing", lessons: _content_marketingLessons, hand: CONTENT_MARKETING_DEEP },
+  { id: "foundations", lessons: _foundationsLessons, hand: FOUNDATIONS_DEEP },
+  { id: "marketing-funnels", lessons: _marketing_funnelsLessons, hand: MARKETING_FUNNELS_DEEP },
+  { id: "website-cro", lessons: _website_croLessons, hand: WEBSITE_CRO_DEEP },
   { id: "seo", lessons: _seoLessons, hand: SEO_DEEP },
+  { id: "sem-ppc", lessons: _sem_ppcLessons, hand: SEM_PPC_DEEP },
+  { id: "content-marketing", lessons: _content_marketingLessons, hand: CONTENT_MARKETING_DEEP },
   { id: "social-media", lessons: _social_mediaLessons, hand: SOCIAL_MEDIA_DEEP },
   { id: "email-marketing", lessons: _email_marketingLessons, hand: EMAIL_MARKETING_DEEP },
-  { id: "paid-ads", lessons: _paid_adsLessons, hand: PAID_ADS_DEEP },
+  { id: "automation-crm", lessons: _automation_crmLessons, hand: AUTOMATION_CRM_DEEP },
   { id: "analytics", lessons: _analyticsLessons, hand: ANALYTICS_DEEP },
-  { id: "brand-creative", lessons: _brand_creativeLessons, hand: BRAND_CREATIVE_DEEP },
-  { id: "conversion", lessons: _conversionLessons, hand: CONVERSION_DEEP },
-  { id: "strategy", lessons: _strategyLessons, hand: STRATEGY_DEEP },
-  { id: "dm-projects", lessons: _dm_projectsLessons, hand: DM_PROJECTS_DEEP },
+  { id: "other-channels", lessons: _other_channelsLessons, hand: OTHER_CHANNELS_DEEP },
+  { id: "strategy-branding", lessons: _strategy_brandingLessons, hand: STRATEGY_BRANDING_DEEP },
+  { id: "advanced-emerging", lessons: _advanced_emergingLessons, hand: ADVANCED_EMERGING_DEEP },
+  { id: "legal-career", lessons: _legal_careerLessons, hand: LEGAL_CAREER_DEEP },
 ];
 
 function writeGeneratedFile(trackId, overrides) {
@@ -62,16 +68,18 @@ for (const track of TRACKS) {
   stats.push({ track: track.id, total: track.lessons.length, deepAfter: afterMerge.filter(isFullyDeep).length });
 }
 
-writeFileSync(join(outDir, "index.mjs"), `export { DM_GETTING_STARTED_GENERATED } from "./dm-getting-started.mjs";
-export { MARKETING_FUNDAMENTALS_GENERATED } from "./marketing-fundamentals.mjs";
-export { CONTENT_MARKETING_GENERATED } from "./content-marketing.mjs";
+writeFileSync(join(outDir, "index.mjs"), `export { FOUNDATIONS_GENERATED } from "./foundations.mjs";
+export { MARKETING_FUNNELS_GENERATED } from "./marketing-funnels.mjs";
+export { WEBSITE_CRO_GENERATED } from "./website-cro.mjs";
 export { SEO_GENERATED } from "./seo.mjs";
+export { SEM_PPC_GENERATED } from "./sem-ppc.mjs";
+export { CONTENT_MARKETING_GENERATED } from "./content-marketing.mjs";
 export { SOCIAL_MEDIA_GENERATED } from "./social-media.mjs";
 export { EMAIL_MARKETING_GENERATED } from "./email-marketing.mjs";
-export { PAID_ADS_GENERATED } from "./paid-ads.mjs";
+export { AUTOMATION_CRM_GENERATED } from "./automation-crm.mjs";
 export { ANALYTICS_GENERATED } from "./analytics.mjs";
-export { BRAND_CREATIVE_GENERATED } from "./brand-creative.mjs";
-export { CONVERSION_GENERATED } from "./conversion.mjs";
-export { STRATEGY_GENERATED } from "./strategy.mjs";
-export { DM_PROJECTS_GENERATED } from "./dm-projects.mjs";`);
+export { OTHER_CHANNELS_GENERATED } from "./other-channels.mjs";
+export { STRATEGY_BRANDING_GENERATED } from "./strategy-branding.mjs";
+export { ADVANCED_EMERGING_GENERATED } from "./advanced-emerging.mjs";
+export { LEGAL_CAREER_GENERATED } from "./legal-career.mjs";`);
 console.log("DM deep generation done", stats);

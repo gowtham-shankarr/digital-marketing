@@ -70,8 +70,8 @@ export default function HomePage() {
               </span>
             </h1>
             <p className="mx-auto mt-6 max-w-2xl text-lg text-muted-foreground">
-              Master SEO, content marketing, social media, email, paid ads, and
-              analytics — then build portfolio-ready campaigns and case studies.
+              14 modules from foundations to funnels, SEO, PPC, automation, and
+              emerging topics — with deep lessons, practice tasks, and quizzes.
             </p>
             <HomeProgress totalLessons={totalLessons} />
             <div className="mt-8 flex flex-wrap justify-center gap-4">
@@ -132,8 +132,9 @@ export default function HomePage() {
           <div className="mx-auto max-w-3xl text-center">
             <h2 className="text-2xl font-bold">Recommended Learning Path</h2>
             <p className="mt-4 text-muted-foreground">
-              Getting Started → Fundamentals → Content → SEO → Social → Email →
-              Paid Ads → Analytics → Brand → Conversion → Strategy → Projects
+              Foundations → Funnels → Website & CRO → SEO → PPC → Content → Social
+              → Email → Automation → Analytics → Other Channels → Strategy →
+              Advanced → Legal & Career
             </p>
             <div className="mt-8 flex flex-wrap justify-center gap-2">
               {tracks.map((t, i) => (

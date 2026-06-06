@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const WEBSITE_CRO_GENERATED = {};

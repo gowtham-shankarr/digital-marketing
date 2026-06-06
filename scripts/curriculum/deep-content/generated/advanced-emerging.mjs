@@ -1,0 +1,2 @@
+/** AUTO-GENERATED */
+export const ADVANCED_EMERGING_GENERATED = {};
