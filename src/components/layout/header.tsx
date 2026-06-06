@@ -7,6 +7,7 @@ import { CommandSearch } from "./command-search";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { MobileNav } from "./mobile-nav";
+import { NavLinks } from "./nav-links";
 import { cn } from "@/lib/utils";
 
 export function Header({
@@ -56,12 +57,7 @@ export function Header({
       )}
 
       <div className="ml-auto flex items-center gap-1">
-        <Link
-          href="/learn"
-          className="hidden rounded-md px-3 py-1.5 text-sm font-medium text-header-foreground/80 transition-colors hover:bg-white/10 hover:text-header-foreground sm:block"
-        >
-          Dashboard
-        </Link>
+        <NavLinks variant="header" />
         <ThemeToggle variant="header" />
       </div>
     </header>

@@ -284,7 +284,7 @@ Deliver link immediately. Set expectation for next emails. One personal line. No
     ],
     relatedLesson: {
       track: "cold-outreach",
-      slug: "cold-email-fundamentals-and-structure",
+      slug: "cold-email-structure-that-gets-replies",
     },
     source: "MarketLearn",
   },

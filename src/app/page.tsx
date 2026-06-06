@@ -87,6 +87,11 @@ export default function HomePage() {
                   Study Dashboard
                 </Button>
               </Link>
+              <Link href="/playbook">
+                <Button size="lg" variant="outline">
+                  Open Playbook
+                </Button>
+              </Link>
             </div>
             <p className="mt-6 text-sm text-muted-foreground">
               {totalLessons} lessons · ~{Math.round(totalMinutes / 60)} hours of

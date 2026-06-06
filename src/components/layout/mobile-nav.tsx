@@ -4,7 +4,8 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { tracks } from "@/content/tracks";
 import { cn } from "@/lib/utils";
-import { GraduationCap } from "lucide-react";
+import { Megaphone } from "lucide-react";
+import { NavLinks } from "./nav-links";
 
 export function MobileNav() {
   const pathname = usePathname();
@@ -13,9 +14,12 @@ export function MobileNav() {
     <div className="flex h-full flex-col bg-sidebar">
       <div className="flex h-14 shrink-0 items-center gap-2 border-b border-sidebar-border px-4">
         <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground">
-          <GraduationCap className="h-4 w-4" />
+          <Megaphone className="h-4 w-4" />
         </div>
-        <span className="font-semibold text-sidebar-foreground">DevLearn</span>
+        <span className="font-semibold text-sidebar-foreground">MarketLearn</span>
+      </div>
+      <div className="border-b border-sidebar-border p-3 sm:hidden">
+        <NavLinks variant="sidebar" />
       </div>
       <nav className="flex-1 overflow-y-auto overscroll-contain p-3">
         {tracks.map((track) => (
